@@ -2700,6 +2700,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130805112",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:08:05.112Z",
+	"dcterms:modified": "2025-03-18T14:33:02.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12609,7 +12610,7 @@
                his goode word and opinion, which he hath not spared to make knowne upon divers
                occasions. <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">The Prince Palatin</persName> (for so he is now stiled and since this contract is
                usually prayed for in the church among the Kinges children) was very royall in his
-               presents this newyearstide, geving to the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">Lord</persName> and <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631">Lady Harrington</persName> <note>John, first
+               presents this newyearstide, geving to the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">Lord</persName> and <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="gender_female">Lady Harrington</persName> <note>John, first
                   Lord Harington of Exton, and Anne Lady Harington, daughter of Sir Robert Kelway,
                   had had the charge of the Princess Elizabeth since 1603.</note> in golden and
                guilt plate to the value of 2000 li, to theyre servants 400 li to all the women about
