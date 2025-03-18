@@ -9661,12 +9661,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142737670#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q336096",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142824093",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-18T12:28:24.093Z",
+	"dcterms:modified": "2025-03-18T12:28:24.093Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142824093#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142824093#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p/persName[22]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7790072",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -9985,8 +10064,8 @@
                great briguing <note>Intriguing, contending.</note> ther is for his place, (as I
                heare,) both by <persName key="Dudley Digges" ref="http://www.wikidata.org/entity/Q21296941">Sir Dudley Diggs</persName> and <persName key="Robert Naunton" ref="http://www.wikidata.org/entity/Q15527976">Master Nanton</persName> <note>Robert Naunton.</note> but
                specially by <persName key="John Ogle" ref="http://www.wikidata.org/entity/Q18673938">Colonell Ogle</persName> <note>Sir John Ogle.</note> who offers therupon to resigne
-               his regiment to Sir Arthur Wilmot a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Lord of
-               Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. Sir Thomas Glover is
+               his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Lord of
+               Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is
                arrived <note>From Constantinople.</note> and shewes his face offering to justify and
                cleere himself of whatsoever can be layde to his charge. Here is a proclamation come
                foorth against pocket dagges <note>Pistols. (S. T. C., 8181.)</note>, and order is
