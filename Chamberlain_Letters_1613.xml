@@ -2490,6 +2490,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130230451",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:02:30.451Z",
+	"dcterms:modified": "2025-03-25T13:30:30.112Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2568,6 +2569,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130558349",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:05:58.349Z",
+	"dcterms:modified": "2025-03-25T13:30:37.402Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2646,6 +2648,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130714952",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:07:14.952Z",
+	"dcterms:modified": "2025-03-25T13:30:48.742Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2724,6 +2727,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318163302801",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T14:33:02.801Z",
+	"dcterms:modified": "2025-03-25T13:31:04.995Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2802,6 +2806,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130832816",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:08:32.816Z",
+	"dcterms:modified": "2025-03-25T13:31:15.846Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19325,17 +19330,17 @@
                secretarie, when he did praeire conceptis verbis, and repeat the wordes of the
                contract: which were so badly translated and worse pronounced that yt moved an
                unseasonable laughter as well in the contractors as the assistants, till the
-               <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName> very gravely interposing himself used these very wordes
+               <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">archbishop of Caunterburie</persName> very gravely interposing himself used these very wordes
                The God of Abraham, Isaake and Jacob blesse these nuptialls, and make them prosperous
                to these kingdomes and to his church. You are excedingly beholden to that prelate for
                his goode word and opinion, which he hath not spared to make knowne upon divers
-               occasions. <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">The Prince Palatin</persName> (for so he is now stiled and since this contract is
+               occasions. <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">The Prince Palatin</persName> (for so he is now stiled and since this contract is
                usually prayed for in the church among the Kinges children) was very royall in his
-               presents this newyearstide, geving to the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">Lord</persName> and <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="gender_female">Lady Harrington</persName> <note>John, first
+               presents this newyearstide, geving to the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">Lord</persName> and <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>John, first
                   Lord Harington of Exton, and Anne Lady Harington, daughter of Sir Robert Kelway,
                   had had the charge of the Princess Elizabeth since 1603.</note> in golden and
                guilt plate to the value of 2000 li, to theyre servants 400 li to all the women about
-               the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName> 100 li a piece, and a medaglia with his picture: to her waiters as
+               the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName> 100 li a piece, and a medaglia with his picture: to her waiters as
                much, and to her cheife gentleman usher a chaine of 150 li, to <persName key="Anne Dudley" ref="http://www.wikidata.org/entity/Q75240574">Mistris Dudley</persName>
                   <note>Anne Sutton, daughter of Edward Sutton, ninth Lord Dudley, accompanied
                   Elizabeth, the Electress Palatine, when she left England.</note> a chaine of perle
