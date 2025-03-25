@@ -47,6 +47,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317101550014",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:15:50.014Z",
+	"dcterms:modified": "2025-03-25T13:22:21.427Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -126,6 +127,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317101615593",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:16:15.593Z",
+	"dcterms:modified": "2025-03-25T13:22:28.048Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1765,6 +1767,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125727007",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:57:27.007Z",
+	"dcterms:modified": "2025-03-25T13:22:13.014Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19224,13 +19227,13 @@
             <head>158. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxii, 6.]</l>
             <l>[London, January 7, 1613.]</l>
-            <p><persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">My very good Lord</persName>: I am so unfurnished of any matter worth your knowledge that were
-               yt not to aunswer your letter of the 4th of December; and that <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" cert="high" type="real">Master Waake</persName>
+            <p><persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">My very good Lord</persName>: I am so unfurnished of any matter worth your knowledge that were
+               yt not to aunswer your letter of the 4th of December; and that <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" cert="high" type="real" ana="male">Master Waake</persName>
                   <note>Isaac O'Wake</note> is absent (who might have stored you better) I shold
                hardly have adventured to write this weeke. But because they say half a loafe is
                better then no bread, I will take upon me to tell you what is saide, though I cannot
                advertise you what is don. Our Christmas is now come to an end, without the least
-               shew of any alteration in court or elswhere, and to morrow the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> removes toward
+               shew of any alteration in court or elswhere, and to morrow the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> removes toward
                <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>: the counsaile have dealt with him to name new officers specially
                secretaries, or one at least, whomsoever he shold please, for that the state of
                affaires requires yt, and suffers much for the want of a sufficient man that might
