@@ -16690,6 +16690,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141523147",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-25T12:15:23.147Z",
+	"dcterms:modified": "2025-03-25T12:15:23.147Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141523147#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141523147#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/p/persName[10]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -17175,7 +17254,7 @@
                Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
                   Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his
                   wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737">the
-               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965">Lady Abergeyney</persName>: Sir Henry Nevile
+               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir Henry Nevile</persName>
                was there and Sir John Lewson but what passed I have not yet heard. The Lady
                Haddingdon <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and
                   wife of John Ramsay, Viscount Haddington.</note> was forward with child and
