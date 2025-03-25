@@ -3122,6 +3122,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131415346",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:14:15.346Z",
+	"dcterms:modified": "2025-03-25T13:33:45.200Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3200,6 +3201,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131503248",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:15:03.248Z",
+	"dcterms:modified": "2025-03-25T13:33:59.233Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19349,8 +19351,8 @@
                   Elizabeth, the Electress Palatine, when she left England.</note> a chaine of perle
                and diamonds of 500 li, to <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">the Prince</persName> a rapier and payre of spurres set with
                diamonds, to <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> a battle of one entire agat containing two quarts estemed a
-               very rare and rich jewell, to <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> a very fayre cup of Agat and a jewell: and
-               lastly to <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">his mistris</persName>, a rich chaine of diamonds, a tire for her head all of
+               very rare and rich jewell, to <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> a very fayre cup of Agat and a jewell: and
+               lastly to <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">his mistris</persName>, a rich chaine of diamonds, a tire for her head all of
                diamonds, two very rich pendent diamonds for her eares, and above all two perles, for
                bignes, fashion and bewtie es temed the rarest that are to be found in Christendome:
                insomuch that the jewells bestowed only on her are valued by men of skill above 3500
