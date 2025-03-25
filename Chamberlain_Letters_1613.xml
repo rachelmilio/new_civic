@@ -5252,7 +5252,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318123431582",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:34:31.582Z",
-	"dcterms:modified": "2025-03-18T10:34:31.582Z",
+	"dcterms:modified": "2025-03-25T13:45:30.379Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5331,7 +5331,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318123615674",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:36:15.674Z",
-	"dcterms:modified": "2025-03-18T10:36:15.674Z",
+	"dcterms:modified": "2025-03-25T13:45:37.540Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5410,7 +5410,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318124235027",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:42:35.027Z",
-	"dcterms:modified": "2025-03-18T10:42:35.027Z",
+	"dcterms:modified": "2025-03-25T13:45:48.676Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5489,7 +5489,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318124251751",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:42:51.751Z",
-	"dcterms:modified": "2025-03-18T10:42:51.751Z",
+	"dcterms:modified": "2025-03-25T13:45:55.787Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5568,7 +5568,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318124312451",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:43:12.451Z",
-	"dcterms:modified": "2025-03-18T10:43:12.451Z",
+	"dcterms:modified": "2025-03-25T13:46:03.243Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5647,7 +5647,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318125213533",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:52:13.533Z",
-	"dcterms:modified": "2025-03-18T10:52:13.533Z",
+	"dcterms:modified": "2025-03-25T13:46:09.646Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5726,7 +5726,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318125350425",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:53:50.425Z",
-	"dcterms:modified": "2025-03-18T10:53:50.425Z",
+	"dcterms:modified": "2025-03-25T13:46:14.641Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19414,15 +19414,15 @@
                   married in 1604 Thomas Erskine, in 1606 created Viscount Fenton</note> hath put
                herself in possession and meanes to carrie yt away by strong hand. <persName key="Anne Lytton">The Lady Webbe</persName>
                   <note>Cf. Letter 158.</note> (<persName key="Roland Lytton" ref="http://www.wikidata.org/entity/Q7360322" ana="male">Sir Rowland Lyttons</persName> daughter) a very proper young
-               gentlewoman died here in towne this Christmas of the small pockes. The <persName key="Ralph Eure, 3rd Lord Eure" ref="http://www.wikidata.org/entity/Q7287471">Lord Evers</persName>
+               gentlewoman died here in towne this Christmas of the small pockes. The <persName key="Ralph Eure, 3rd Lord Eure" ref="http://www.wikidata.org/entity/Q7287471" ana="male">Lord Evers</persName>
                   <note>Ralph, third Lord Eure or Evers, married Elizabeth, daughter of Sir John
                   Spencer of Althorp, and widow of George Carey, second Lord Hunsdon.</note> is
-               newly maried to the <persName key="Elizabeth Spencer, Baroness Hunsdon" ref="http://www.wikidata.org/entity/Q5363536">Lady Hunsdon</persName> <persName key="Richard Spencer" ref="http://www.wikidata.org/entity/Q28175908">Sir Richard Spensers</persName> sister. There is a quarrell
-               fallen out twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714">Edward Sackville</persName> <note>Son of Robert, second Earl of Dorset. In
+               newly maried to the <persName key="Elizabeth Spencer, Baroness Hunsdon" ref="http://www.wikidata.org/entity/Q5363536" ana="female">Lady Hunsdon</persName> <persName key="Richard Spencer" ref="http://www.wikidata.org/entity/Q28175908" ana="male">Sir Richard Spensers</persName> sister. There is a quarrell
+               fallen out twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Edward Sackville</persName> <note>Son of Robert, second Earl of Dorset. In
                   1624, upon the death of his brother Richard, third Earl, he succeeded to the
-                  title.</note> sonne to the <persName key="Robert Sackville, 2nd Earl of Dorset" ref="http://www.wikidata.org/entity/Q7349535">last earle of Dorset</persName>, and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969">Lord Brus or Kinlos</persName>
+                  title.</note> sonne to the <persName key="Robert Sackville, 2nd Earl of Dorset" ref="http://www.wikidata.org/entity/Q7349535" ana="male">last earle of Dorset</persName>, and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969" ana="male">Lord Brus or Kinlos</persName>
                   <note>Edward, second Lord Bruce of Kinloss</note>, which was to be determined
-               beyond sea. <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714">Sackvile</persName> got over, but the Lord Brus was stayed at <placeName key="Dover" ref="http://www.wikidata.org/entity/Q179224">Dover</placeName>; where we heare
+               beyond sea. <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Sackvile</persName> got over, but the Lord Brus was stayed at <placeName key="Dover" ref="http://www.wikidata.org/entity/Q179224">Dover</placeName>; where we heare
                these late winds and tempests have don great harme, and in a manner ruined and
                defaced the peere or haven. I grow now doubtfull of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodieys</persName> <note>Sir
                   Thomas Bodley was the stepfather of Lady Winwood</note> recoverie, and though I
