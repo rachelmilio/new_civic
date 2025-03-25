@@ -2255,6 +2255,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125942379",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:59:42.379Z",
+	"dcterms:modified": "2025-03-25T13:28:35.664Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2410,6 +2411,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130056789",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:00:56.789Z",
+	"dcterms:modified": "2025-03-25T13:29:49.508Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19317,8 +19319,8 @@
                yt must be as yt were invita Minerva, and by the importunitie of his great patron:
                and then to counterpoise the balance and please the counterpart <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir Tho: Lakes</persName> may be
                admitted, or rather (as the voyce goes now) <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248" ana="male">Sir Thomas Edmunds</persName>, who besides his owne
-               frends at home hath the <persName key="Henri de La Tour d'Auvergne, Duke of Bouillon" ref="http://www.wikidata.org/entity/Q966628">Duke of Buillon</persName> an earnest solicitor in his behalfe. At the
-               solemnising of the fiancialles on <date when="1612-12-27">St. Johns day</date> <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667">Sir Tho Lakes</persName> frends made account he
+               frends at home hath the <persName key="Henri de La Tour d'Auvergne, Duke of Bouillon" ref="http://www.wikidata.org/entity/Q966628" ana="male">Duke of Buillon</persName> an earnest solicitor in his behalfe. At the
+               solemnising of the fiancialles on <date when="1612-12-27">St. Johns day</date> <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir Tho Lakes</persName> frends made account he
                had won ground, and outstept his competitors in performed the part of a principall
                secretarie, when he did praeire conceptis verbis, and repeat the wordes of the
                contract: which were so badly translated and worse pronounced that yt moved an
