@@ -1625,6 +1625,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125432111",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:54:32.111Z",
+	"dcterms:modified": "2025-03-25T13:27:42.062Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1938,6 +1939,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125758603",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:57:58.603Z",
+	"dcterms:modified": "2025-03-25T13:27:52.014Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2016,6 +2018,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125828228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:58:28.228Z",
+	"dcterms:modified": "2025-03-25T13:28:03.487Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2094,6 +2097,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125849708",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:58:49.708Z",
+	"dcterms:modified": "2025-03-25T13:28:13.966Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2172,6 +2176,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125917441",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:59:17.441Z",
+	"dcterms:modified": "2025-03-25T13:28:19.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19292,7 +19297,7 @@
                London this <date when="1613-01-07">7th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
             <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
+            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
                State of Venice</placeName>.</p>
          </div>
          <div>
@@ -19300,7 +19305,7 @@
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, January 9, 1613.</l>
             <p><persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">My very goode Lord</persName>: The holydayes are come and gon and nothing yet don of that which
-               was so duly expected, I meane the translating and creating of new officers. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">The King</persName>
+               was so duly expected, I meane the translating and creating of new officers. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">The King</persName>
                was moved by the counsaile in this matter, specially for secretaries, for that the
                state of affaires required yt, and suffered much for the want of a sufficient man
                that might ease and help to disburthen his Majestie in the care and paines of that
@@ -19308,10 +19313,10 @@
                theyre advise in goode part and promised to resolve in goode time, and further that
                when he did yt he would perfect yt: which later clause I take for bonum omen, and
                applie yt to the person I wish best to. The world conceves the King hath no great
-               inclination of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir H. N.</persName> <note>Cf Letter 158</note> so that yf he prevaile
+               inclination of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName> <note>Cf Letter 158</note> so that yf he prevaile
                yt must be as yt were invita Minerva, and by the importunitie of his great patron:
-               and then to counterpoise the balance and please the counterpart <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667">Sir Tho: Lakes</persName> may be
-               admitted, or rather (as the voyce goes now) <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248">Sir Thomas Edmunds</persName>, who besides his owne
+               and then to counterpoise the balance and please the counterpart <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir Tho: Lakes</persName> may be
+               admitted, or rather (as the voyce goes now) <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248" ana="male">Sir Thomas Edmunds</persName>, who besides his owne
                frends at home hath the <persName key="Henri de La Tour d'Auvergne, Duke of Bouillon" ref="http://www.wikidata.org/entity/Q966628">Duke of Buillon</persName> an earnest solicitor in his behalfe. At the
                solemnising of the fiancialles on <date when="1612-12-27">St. Johns day</date> <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667">Sir Tho Lakes</persName> frends made account he
                had won ground, and outstept his competitors in performed the part of a principall
