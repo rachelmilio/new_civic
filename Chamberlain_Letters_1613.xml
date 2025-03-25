@@ -4383,7 +4383,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318115607286",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T09:56:07.286Z",
-	"dcterms:modified": "2025-03-18T09:56:07.286Z",
+	"dcterms:modified": "2025-03-25T13:43:30.626Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4462,7 +4462,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318115713836",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T09:57:13.836Z",
-	"dcterms:modified": "2025-03-18T09:57:13.836Z",
+	"dcterms:modified": "2025-03-25T13:43:24.730Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4541,7 +4541,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318115739521",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T09:57:39.521Z",
-	"dcterms:modified": "2025-03-18T09:57:39.521Z",
+	"dcterms:modified": "2025-03-25T13:43:36.504Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4620,7 +4620,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318115821492",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T09:58:21.492Z",
-	"dcterms:modified": "2025-03-18T09:58:21.492Z",
+	"dcterms:modified": "2025-03-25T13:43:46.577Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19397,11 +19397,11 @@
                ambassador from <placeName key="Lorraine" ref="http://www.wikidata.org/entity/Q1137">Lorrain</placeName> to condole <persName key="Henry Frederick, Prince of Wales" ref="http://www.wikidata.org/entity/Q82631" ana="male">the Princes</persName> death, and some say to propound I know
                not what match. He was a very proper man, sonne (as is saide) to the <persName key="Louis II of Lorraine, cardinal of Guise" ref="http://www.wikidata.org/entity/Q510693" ana="male">Cardinall of
                Guise</persName> that was strangled at <placeName key="Blois" ref="http://www.wikidata.org/entity/Q160927">Blois</placeName>, and in great favor or (as they terme him) the
-               Lerma of the <persName key="Henry II, Duke of Lorraine" ref="http://www.wikidata.org/entity/Q704178">Duke of Lorrain</persName>. Here is likewise a gentleman from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530">Duke of Guise</persName>,
-               and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856">Prince Conti</persName> for the same effect. The late princes Houshold
+               Lerma of the <persName key="Henry II, Duke of Lorraine" ref="http://www.wikidata.org/entity/Q704178" ana="male">Duke of Lorrain</persName>. Here is likewise a gentleman from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>,
+               and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Conti</persName> for the same effect. The late princes Houshold
                brake up the last of December, and his servants sent to seeke theyre fortune. The
                inventarie of his moveables doth far exceed his debts, and the account of his yearly
-               revenwes riseth to 57000 li. The <persName key="Elizabeth Trentham, Countess of Oxford" ref="http://www.wikidata.org/entity/Q5363641">Countesse of Oxford</persName> <note>Elizabeth, widow of Edward
+               revenwes riseth to 57000 li. The <persName key="Elizabeth Trentham, Countess of Oxford" ref="http://www.wikidata.org/entity/Q5363641" ana="female">Countesse of Oxford</persName> <note>Elizabeth, widow of Edward
                   de Vere, seventeenth Earl of Oxford.</note> is dead of this new disease, and left
                <persName key="Henry de Vere, 18th Earl of Oxford" ref="http://www.wikidata.org/entity/Q3440414">her sonne</persName> <note>Henry de Vere, eighteenth Earl of Oxford.</note> toward 1500 li land,
                and all her jewells and stuffe on condition he pay her legacies which rise to 2000
