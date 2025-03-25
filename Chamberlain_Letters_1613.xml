@@ -1151,6 +1151,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317121754473",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:17:54.473Z",
+	"dcterms:modified": "2025-03-25T13:26:57.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1229,6 +1230,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317121906997",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:19:06.997Z",
+	"dcterms:modified": "2025-03-25T13:27:04.360Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1307,6 +1309,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317122357775",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:23:57.775Z",
+	"dcterms:modified": "2025-03-25T13:27:12.476Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1386,6 +1389,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317123648016",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:36:48.016Z",
+	"dcterms:modified": "2025-03-25T13:27:22.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1542,6 +1546,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125349495",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:53:49.495Z",
+	"dcterms:modified": "2025-03-25T13:27:28.922Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19273,20 +19278,20 @@
                heyres males, according to the first graunt. We heare that these late great windes
                and raines have overthrowne <placeName key="Port of Dover" ref="http://www.wikidata.org/entity/Q739207">Dover peere</placeName>, and quite defaced those workes and
                fortifications against the sea, wherin there hath ben bestowed so much time and cost.
-               Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856">Prince Counti</persName>
-               to condole for <persName key="Henry Frederick, Prince of Wales" ref="http://www.wikidata.org/entity/Q82631">the Princes</persName> death. His houshold is broken up, and the inventarie of
+               Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Counti</persName>
+               to condole for <persName key="Henry Frederick, Prince of Wales" ref="http://www.wikidata.org/entity/Q82631" ana="male">the Princes</persName> death. His houshold is broken up, and the inventarie of
                his goods brought in far beyond his debts: the account of his yearly revenew riseth
                to 57000 li. I have heard an uncertain report that <persName>Sir Mathew Carie</persName> is like to loose
-               and be cousened of eight or nine thousand pound in a purchase of one <persName key="Sir William Bond" ref="http://www.wikidata.org/entity/Q75487691" cert="medium">Sir William Bond</persName>
+               and be cousened of eight or nine thousand pound in a purchase of one <persName key="Sir William Bond" ref="http://www.wikidata.org/entity/Q75487691" cert="medium" ana="male">Sir William Bond</persName>
                in whose honestie and credit he put great confidence, but I hope yt cannot fall out
                altogether so yll, beeing discovered so soone, and he so well frended in the court of
                conscience. Touching that you Wrote of your owne particuler, I have not imparted yt
-               to any body, saving in a word or two to your father <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" cert="high">Savile</persName> <note>Sir Henry Savile,
+               to any body, saving in a word or two to your father <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" cert="high" ana="male">Savile</persName> <note>Sir Henry Savile,
                   the stepfather of Lady Carleton</note> as I wrote you in my last. So with all due
                remembrance to my goode Lady I commend you to the protection of the Almighty. From
                London this <date when="1613-01-07">7th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
             <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
                State of Venice</placeName>.</p>
          </div>
