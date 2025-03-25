@@ -7542,7 +7542,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318132051459",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:20:51.459Z",
-	"dcterms:modified": "2025-03-18T11:20:51.459Z",
+	"dcterms:modified": "2025-03-25T13:54:14.320Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7621,7 +7621,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318132128886",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:21:28.886Z",
-	"dcterms:modified": "2025-03-18T11:21:28.886Z",
+	"dcterms:modified": "2025-03-25T13:54:21.707Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7857,7 +7857,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318132218893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:22:18.893Z",
-	"dcterms:modified": "2025-03-18T11:22:18.893Z",
+	"dcterms:modified": "2025-03-25T13:54:26.868Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7936,7 +7936,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318132251214",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:22:51.214Z",
-	"dcterms:modified": "2025-03-18T11:22:51.214Z",
+	"dcterms:modified": "2025-03-25T13:54:42.400Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8094,7 +8094,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318133226844",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:32:26.844Z",
-	"dcterms:modified": "2025-03-18T11:32:26.844Z",
+	"dcterms:modified": "2025-03-25T13:54:51.453Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8173,7 +8173,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318133500893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:35:00.893Z",
-	"dcterms:modified": "2025-03-18T11:35:00.893Z",
+	"dcterms:modified": "2025-03-25T13:54:56.041Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19494,9 +19494,9 @@
                Rate Winwod</persName> to deliver the order <note>Of the Garter. Cf. Letter 155.</note> to <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count
                Maurice</persName>, and performe the ceremonies, which when they are finished, yf we heare not
                of <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe</persName> against the wedding <note>Of the Princess Elizabeth and the Elector
-                  Palatine.</note>, I will geve over looking after him. <persName key="Richard Moryson" ref="http://www.wikidata.org/entity/Q7327917">Sir Richard Morrison</persName>
+                  Palatine.</note>, I will geve over looking after him. <persName key="Richard Moryson" ref="http://www.wikidata.org/entity/Q7327917" ana="male">Sir Richard Morrison</persName>
                   <note>Sir Richard Moryson, son of Thomas Moryson of Cadeby, Lincolnshire.</note>
-               hath concluded (as I heare) with the <persName key="Henry Danvers, 1st Earl of Danby" ref="http://www.wikidata.org/entity/Q5720177">Lord Davers</persName> <note>Henry Lord Danvers of
+               hath concluded (as I heare) with the <persName key="Henry Danvers, 1st Earl of Danby" ref="http://www.wikidata.org/entity/Q5720177" ana="male">Lord Davers</persName> <note>Henry Lord Danvers of
                   Dauntsey, Lord President of Munster, 1607-1615.</note> for his place in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> of
                President of Mounster and geves him 3000 li. Here is a proclamation comming out this
                day against pocket dagges <note>12 Pistols. (S. T. C., 8481.)</note>, which begin to
@@ -19505,8 +19505,8 @@
                commend you to the protection of the Almighty. From London this <date when="1613-01-14">14th of January
                1612.</date></p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
-            <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">Sir Dudley Carleton</persName> knight Lord Ambassador</l>
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">Sir Dudley Carleton</persName> knight Lord Ambassador</l>
             <l>for his Majestie to the <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">State of Venice</placeName>.</l>
          </div>
          <div>
@@ -19514,8 +19514,8 @@
             <l>[S. P. Dom., Jac. I, lxxii, 19.]</l>
             <l>[London, January 28, 1613.</l>
             <p>My very goode Lord: according to your direction, in your last of the old yeare, I
-               have caused <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631">Signor Biondies</persName> <note>Giovanni Francesco Biondi.</note> packet to be
-               delivered, and went my self with the other letters to <persName key="Walter Cope" ref="http://www.wikidata.org/entity/Q7964595">the master of the wardes</persName>
+               have caused <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631" ana="male">Signor Biondies</persName> <note>Giovanni Francesco Biondi.</note> packet to be
+               delivered, and went my self with the other letters to <persName key="Walter Cope" ref="http://www.wikidata.org/entity/Q7964595" ana="male">the master of the wardes</persName>
                   <note>Sir Walter Cope.</note>, who upon the reading of them told me he was very
                willing to be rid of those papers you write of <note>Carleton's letters to Robert
                   Cecil, first Earl of Salisbury, who died in 1612.</note>, and that he had divers
