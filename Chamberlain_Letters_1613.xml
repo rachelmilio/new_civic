@@ -4699,7 +4699,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318115841177",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T09:58:41.177Z",
-	"dcterms:modified": "2025-03-18T09:58:41.177Z",
+	"dcterms:modified": "2025-03-25T13:43:55.648Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4778,7 +4778,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318121325435",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:13:25.435Z",
-	"dcterms:modified": "2025-03-18T10:13:25.435Z",
+	"dcterms:modified": "2025-03-25T13:44:03.760Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4857,7 +4857,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318121527902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:15:27.902Z",
-	"dcterms:modified": "2025-03-18T10:15:27.902Z",
+	"dcterms:modified": "2025-03-25T13:44:59.400Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5015,7 +5015,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318121842664",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:18:42.664Z",
-	"dcterms:modified": "2025-03-18T10:18:42.664Z",
+	"dcterms:modified": "2025-03-25T13:45:06.618Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5094,7 +5094,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318122638041",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:26:38.041Z",
-	"dcterms:modified": "2025-03-18T10:26:38.041Z",
+	"dcterms:modified": "2025-03-25T13:45:15.811Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5173,7 +5173,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318122819116",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:28:19.116Z",
-	"dcterms:modified": "2025-03-18T10:28:19.116Z",
+	"dcterms:modified": "2025-03-25T13:45:23.478Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19403,17 +19403,17 @@
                inventarie of his moveables doth far exceed his debts, and the account of his yearly
                revenwes riseth to 57000 li. The <persName key="Elizabeth Trentham, Countess of Oxford" ref="http://www.wikidata.org/entity/Q5363641" ana="female">Countesse of Oxford</persName> <note>Elizabeth, widow of Edward
                   de Vere, seventeenth Earl of Oxford.</note> is dead of this new disease, and left
-               <persName key="Henry de Vere, 18th Earl of Oxford" ref="http://www.wikidata.org/entity/Q3440414">her sonne</persName> <note>Henry de Vere, eighteenth Earl of Oxford.</note> toward 1500 li land,
+               <persName key="Henry de Vere, 18th Earl of Oxford" ref="http://www.wikidata.org/entity/Q3440414" ana="male">her sonne</persName> <note>Henry de Vere, eighteenth Earl of Oxford.</note> toward 1500 li land,
                and all her jewells and stuffe on condition he pay her legacies which rise to 2000
-               li: and bestowe 500 li on a tombe for <persName key="Edward de Vere, 17th Earl of Oxford" ref="http://www.wikidata.org/entity/Q374210">his father</persName> and her. Yt may be you have heard
-               that <persName key="George Fermor" ref="http://www.wikidata.org/entity/Q22998032">Sir George Farmor</persName> <note>Sir George Fermor of Easton Neston,
+               li: and bestowe 500 li on a tombe for <persName key="Edward de Vere, 17th Earl of Oxford" ref="http://www.wikidata.org/entity/Q374210" ana="male">his father</persName> and her. Yt may be you have heard
+               that <persName key="George Fermor" ref="http://www.wikidata.org/entity/Q22998032" ana="male">Sir George Farmor</persName> <note>Sir George Fermor of Easton Neston,
                   Northamptonshire.</note> died above a moneth since, as likewise <persName>Sir John Morris</persName>
-                  <note>Sir John Morris of Fyfield, Berkshire.</note> of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir
-               Henry Neville</persName> and <persName>Sir William Dowier</persName> his executors, but his daughter the <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464">Lady Fenton</persName>
+                  <note>Sir John Morris of Fyfield, Berkshire.</note> of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir
+               Henry Neville</persName> and <persName>Sir William Dowier</persName> his executors, but his daughter the <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">Lady Fenton</persName>
                   <note>His daughter Elizabeth, widow of Sir Edward Norris, a distant cousin,
                   married in 1604 Thomas Erskine, in 1606 created Viscount Fenton</note> hath put
                herself in possession and meanes to carrie yt away by strong hand. <persName key="Anne Lytton">The Lady Webbe</persName>
-                  <note>Cf. Letter 158.</note> (<persName key="Roland Lytton" ref="http://www.wikidata.org/entity/Q7360322">Sir Rowland Lyttons</persName> daughter) a very proper young
+                  <note>Cf. Letter 158.</note> (<persName key="Roland Lytton" ref="http://www.wikidata.org/entity/Q7360322" ana="male">Sir Rowland Lyttons</persName> daughter) a very proper young
                gentlewoman died here in towne this Christmas of the small pockes. The <persName key="Ralph Eure, 3rd Lord Eure" ref="http://www.wikidata.org/entity/Q7287471">Lord Evers</persName>
                   <note>Ralph, third Lord Eure or Evers, married Elizabeth, daughter of Sir John
                   Spencer of Althorp, and widow of George Carey, second Lord Hunsdon.</note> is
