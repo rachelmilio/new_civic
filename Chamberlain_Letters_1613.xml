@@ -5726,7 +5726,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318125350425",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:53:50.425Z",
-	"dcterms:modified": "2025-03-25T13:46:14.641Z",
+	"dcterms:modified": "2025-03-25T13:46:22.325Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5884,7 +5884,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318125427091",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T10:54:27.091Z",
-	"dcterms:modified": "2025-03-18T10:54:27.091Z",
+	"dcterms:modified": "2025-03-25T13:46:36.414Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6120,7 +6120,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130038365",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:00:38.365Z",
-	"dcterms:modified": "2025-03-18T11:00:38.365Z",
+	"dcterms:modified": "2025-03-25T13:46:42.065Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6199,7 +6199,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130054766",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:00:54.766Z",
-	"dcterms:modified": "2025-03-18T11:00:54.766Z",
+	"dcterms:modified": "2025-03-25T13:46:50.061Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6278,7 +6278,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130120598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:01:20.598Z",
-	"dcterms:modified": "2025-03-18T11:01:20.598Z",
+	"dcterms:modified": "2025-03-25T13:47:01.365Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19424,7 +19424,7 @@
                   <note>Edward, second Lord Bruce of Kinloss</note>, which was to be determined
                beyond sea. <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Sackvile</persName> got over, but the Lord Brus was stayed at <placeName key="Dover" ref="http://www.wikidata.org/entity/Q179224">Dover</placeName>; where we heare
                these late winds and tempests have don great harme, and in a manner ruined and
-               defaced the peere or haven. I grow now doubtfull of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodieys</persName> <note>Sir
+               defaced the peere or haven. I grow now doubtfull of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodieys</persName> <note>Sir
                   Thomas Bodley was the stepfather of Lady Winwood</note> recoverie, and though I
                have not much misliked him, and thought yt was but a lingering indisposition that had
                many intervalla, and shewes of reviving, and beleve he hath had what help phisicke,
@@ -19442,15 +19442,15 @@
                Lady I commend you and all yours to the protection of the Almighty. From <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> this
                <date when="1613-01-09">9th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
                States of the United Provinces at the Haghe.</p>
          </div>
          <div>
             <head>160. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 13.]</l>
             <l>[London, January 14, 1613.]</l>
-            <p>My very goode Lord: I doubt all is not well with <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284">Master Waake</persName> <note>Isaac Wake,
+            <p>My very goode Lord: I doubt all is not well with <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName> <note>Isaac Wake,
                   Carleton’s secretary who was then in England.</note> that we heare not of him. He
                made account to be away but eight or ten dayes at most, and yt is now fifteen since
                he went; yt may be the fowle weather hindered his progresse and prolongs his return,
