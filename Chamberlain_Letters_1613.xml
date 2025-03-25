@@ -8884,7 +8884,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318140951777",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:09:51.777Z",
-	"dcterms:modified": "2025-03-18T12:09:51.777Z",
+	"dcterms:modified": "2025-03-25T13:55:57.806Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8963,7 +8963,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318141803493",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:18:03.493Z",
-	"dcterms:modified": "2025-03-18T12:18:03.493Z",
+	"dcterms:modified": "2025-03-25T13:56:06.535Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19258,6 +19258,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325161041630",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-25T14:10:41.630Z",
+	"dcterms:modified": "2025-03-25T14:10:41.630Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325161041630#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325161041630#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[7]/head/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -19545,9 +19624,9 @@
                delight to shew his readines and abilitie in those causes, yet that vigor begins to
                relent, and he must dayly more and more intend his owne health and quiet. And now in
                the nicke to crosse and hinder that goode we expected, there is a great breach fallen
-               out twixt <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
+               out twixt <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
                hostilitie, and is gon with open mouth to complain of him to the King: though yf that
-               be true that is constantly reported, <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464">his Lady</persName> hath don all the wrong, as well in
+               be true that is constantly reported, <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">his Lady</persName> hath don all the wrong, as well in
                beating, kicking and reviling <persName key="Margaret Home" ref="http://www.wikidata.org/entity/Q75272057">her mother in law</persName> <note>Margaret, daughter of George,
                   fourth Lord Home, and mother of Thomas Erskine, Viscount Fenton.</note>, (whom she
                will vouchsafe no other name but the Lady Margerie) and mewing her up in a chamber
@@ -19806,7 +19885,7 @@
                Venice.</p>
          </div>
          <div>
-            <head>164. TO SIR RALPH WINWOOD.</head>
+            <head>164. TO <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">SIR RALPH WINWOOD</persName>.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, February 10, 1613.</l>
             <p>My very goode Lord: I am now in arrierages with you for both your letters of the 21th
