@@ -284,6 +284,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317101904395",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:19:04.395Z",
+	"dcterms:modified": "2025-03-25T13:22:57.261Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -362,6 +363,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317101927275",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:19:27.275Z",
+	"dcterms:modified": "2025-03-25T13:23:07.266Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -440,6 +442,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317102146676",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:21:46.676Z",
+	"dcterms:modified": "2025-03-25T13:23:16.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -518,6 +521,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317102319091",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T08:23:19.091Z",
+	"dcterms:modified": "2025-03-25T13:23:31.004Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19241,12 +19245,12 @@
                theyre advise in goode part, and doth acknowledge as much as they say, with promise
                that he will thincke upon yt, and resolve in goode time, so that we are now come to
                our dischauses again, and the cheife candidati as forward in theyre hopes as at any
-               time before: the King is thought to have no great mind of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir H. N.</persName>
-                  <note>Sir Henry Neville</note> so that yt the importunitie of <persName key="Henry Wriothesley, 3rd Earl of Southampton" ref="http://www.wikidata.org/entity/Q743492">his great patron</persName>
+               time before: the King is thought to have no great mind of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName>
+                  <note>Sir Henry Neville</note> so that yt the importunitie of <persName key="Henry Wriothesley, 3rd Earl of Southampton" ref="http://www.wikidata.org/entity/Q743492" ana="male">his great patron</persName>
                   <note>Henry Wriothesley, third Earl of Southampton</note> prevaile, yt shalbe as
                yt were invita Minerva, and to counterpoise the ballance and content the counter-
-               part, <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667">Sir T. L.</persName> <note>Sir Thomas Lake</note> must be admitted, or rather as yt is now
-               held <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248">Sir Tho Edm</persName><note>Sir Thomas Edmondes</note>, who besides his frends here at
+               part, <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir T. L.</persName> <note>Sir Thomas Lake</note> must be admitted, or rather as yt is now
+               held <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248" ana="male">Sir Tho Edm</persName><note>Sir Thomas Edmondes</note>, who besides his frends here at
                home, hath the <persName key="Henri de La Tour d'Auvergne, Duke of Bouillon" ref="http://www.wikidata.org/entity/Q966628">Duke of Buillon</persName> an earnest solliciter in his behalfe. Yt is verely
                held, and many signes there be of yt, that the Kings inclination holdes firm for <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">our
                frend</persName> <note>Sir Ralph Winwood</note> at the <placeName key="The Hague, Netherlands" ref="https://sws.geonames.org/2747373">Haghe</placeName>, and till I see sombody els in
