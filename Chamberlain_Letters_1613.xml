@@ -7068,7 +7068,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318131034758",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:10:34.758Z",
-	"dcterms:modified": "2025-03-18T11:10:34.758Z",
+	"dcterms:modified": "2025-03-25T13:53:27.853Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7147,7 +7147,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318131410840",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:14:10.840Z",
-	"dcterms:modified": "2025-03-18T11:14:10.840Z",
+	"dcterms:modified": "2025-03-25T13:53:39.800Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7305,7 +7305,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318131441295",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:14:41.295Z",
-	"dcterms:modified": "2025-03-18T11:14:41.295Z",
+	"dcterms:modified": "2025-03-25T13:53:46.743Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7384,7 +7384,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318131855535",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:18:55.535Z",
-	"dcterms:modified": "2025-03-18T11:18:55.535Z",
+	"dcterms:modified": "2025-03-25T13:53:54.232Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7463,7 +7463,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318131909716",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:19:09.716Z",
-	"dcterms:modified": "2025-03-18T11:19:09.716Z",
+	"dcterms:modified": "2025-03-25T13:54:05.672Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19488,12 +19488,12 @@
                hath continued ever since very faire. He is gon to <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName>, and makes
                account not to returne till Candlemas or after: he tooke up a quarrell before he went
                twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Edward Sackevile</persName> <note>Cf. Letter 159.</note> sonne to the last earle of Dorset
-               and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969">Lord Brus or Kinlos</persName>: yt was to be determined beyond sea, and Sackvile was
-               gotten over, but Brus was stayed at the sea side. <persName key="William Segar" ref="http://www.wikidata.org/entity/Q535393">Garter king at armes</persName> <note>William
-                  Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir
-               Rate Winwod</persName> to deliver the order <note>Of the Garter. Cf. Letter 155.</note> to <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count
+               and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969" ana="male">Lord Brus or Kinlos</persName>: yt was to be determined beyond sea, and Sackvile was
+               gotten over, but Brus was stayed at the sea side. <persName key="William Segar" ref="http://www.wikidata.org/entity/Q535393" ana="male">Garter king at armes</persName> <note>William
+                  Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir
+               Rate Winwod</persName> to deliver the order <note>Of the Garter. Cf. Letter 155.</note> to <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count
                Maurice</persName>, and performe the ceremonies, which when they are finished, yf we heare not
-               of <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe</persName> against the wedding <note>Of the Princess Elizabeth and the Elector
+               of <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe</persName> against the wedding <note>Of the Princess Elizabeth and the Elector
                   Palatine.</note>, I will geve over looking after him. <persName key="Richard Moryson" ref="http://www.wikidata.org/entity/Q7327917">Sir Richard Morrison</persName>
                   <note>Sir Richard Moryson, son of Thomas Moryson of Cadeby, Lincolnshire.</note>
                hath concluded (as I heare) with the <persName key="Henry Danvers, 1st Earl of Danby" ref="http://www.wikidata.org/entity/Q5720177">Lord Davers</persName> <note>Henry Lord Danvers of
