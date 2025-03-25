@@ -3280,6 +3280,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131619689",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:16:19.689Z",
+	"dcterms:modified": "2025-03-25T13:38:35.805Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3358,6 +3359,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131643731",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:16:43.731Z",
+	"dcterms:modified": "2025-03-25T13:38:44.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3436,6 +3438,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131724148",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:17:24.148Z",
+	"dcterms:modified": "2025-03-25T13:38:50.332Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3591,6 +3594,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317132937084",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:29:37.084Z",
+	"dcterms:modified": "2025-03-25T13:38:57.750Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3747,6 +3751,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317133021813",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:30:21.813Z",
+	"dcterms:modified": "2025-03-25T13:39:05.647Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19359,18 +19364,18 @@
                li, He was purposed to shew the like bountie towards the King and Quenes servants and
                officers, but the King directly forbad yt. The Quene is noted to have geven no great
                grace nor favor to this match, and there is doubt will do lesse hereafter, for that
-               upon these frownes <persName key="Hans Meinhard von Schönberg" ref="http://www.wikidata.org/entity/Q99511">Schomberg</persName> <note>Hans Meinhard von Schomberg or Schönberg.</note>
-               (that is cheife about him) is saide to have geven out that <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">his master</persName> is a better man
-               then <persName key="Christian IV of Denmark" ref="http://www.wikidata.org/entity/Q153586">the king of Denmarke</persName> and that he is to take place of him in the empire, at
+               upon these frownes <persName key="Hans Meinhard von Schönberg" ref="http://www.wikidata.org/entity/Q99511" ana="male">Schomberg</persName> <note>Hans Meinhard von Schomberg or Schönberg.</note>
+               (that is cheife about him) is saide to have geven out that <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">his master</persName> is a better man
+               then <persName key="Christian IV of Denmark" ref="http://www.wikidata.org/entity/Q153586" ana="male">the king of Denmarke</persName> and that he is to take place of him in the empire, at
                leastwise of a greater king then he the king of Boheme. The mariage is set downe for
                <date when="1613-02-14">Shrovesonday</date>, against which time yt is saide <span ana="The Lord's Masque">the Lords and Ladies about the court have appointed a maske upon theyre owne charge</span>, but I heare there is order geven for
                1500 li to provide one upon the Kings cost and 1000 li for fireworkes. The ynnes of
                court likewise are dealt with for two maskes against that time, and meane to furnish
                themselves for the service. The Prince Palatin makes account to depart homeward some
                fifteen dayes after his mariage, and the Lady is to follow toward Whitsontide,
-               conducted by fowre earles, eight Barons and I know not how many knights. The old <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089">Lord
+               conducted by fowre earles, eight Barons and I know not how many knights. The old <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089" ana="male">Lord
                Admirall</persName> <note>Charles Howard, Earl of Nottingham.</note> meanes to make yt his last
-               service to wafte her over. The King removes this day toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>, where the <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Lord
+               service to wafte her over. The King removes this day toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>, where the <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096" ana="male">Lord
                of Rochester</persName> <note>Robert Carr, Viscount Rochester.</note> shall have more leysure
                and commoditie to negotiat this busines <note>The appointment of a Principal
                   Secretary and a Lord Treasurer.</note> that intertaines every mans thoughts, for
