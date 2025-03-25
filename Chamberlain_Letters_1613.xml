@@ -10581,7 +10581,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144608740",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:46:08.740Z",
-	"dcterms:modified": "2025-03-18T12:46:08.740Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10608,7 +10607,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144608740#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[7]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -10739,7 +10738,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144653110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:46:53.110Z",
-	"dcterms:modified": "2025-03-18T12:46:53.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10766,7 +10764,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144653110#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[8]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -10896,7 +10894,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144721639",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:47:21.639Z",
-	"dcterms:modified": "2025-03-18T12:47:21.639Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10923,7 +10920,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144721639#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[9]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -12834,6 +12831,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325113621454",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-25T09:36:21.454Z",
+	"dcterms:modified": "2025-03-25T09:36:21.454Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325113621454#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325113621454#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/p/persName[9]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q79972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-03-25T09:39:15.269Z",
+	"dcterms:modified": "2025-03-25T09:39:15.269Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[7]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q215530",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -13161,7 +13316,7 @@
                   <note>Sir David Williams, Puisne Justice of King's Bench.</note> died on Friday
                last at his house in the countrie leaving a great state behind him both in land and
                wealth, and the same day <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697">Sir Antonie Senligier</persName> <note>Sir Anthony St. Leger.</note>
-               that was Master of the Rolles in Ireland died here in towne. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName> is
+               that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName> is
                even now likewise at the last cast, and hath lien speachles and without knowledge
                since yesterday at noone. God comfort him and send him a good passage. Our marchants
                have dayly many losses, and now lately, there was a ship of 300 tunne cast away in
@@ -13224,7 +13379,7 @@
                ship that goes for the <placeName key="East Indies" ref="http://www.wikidata.org/entity/Q213137">East Indies</placeName>, leaving theyre litle sonne behind and bequeathing
                him to the care and favor of <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> his God mother: he hath stayed here well by yt
                to litle purpose, having no great reason to hast away, seeing he had allowance of
-               fowre pound a day of the King during his abode here. Sir Thomas Glover is come home
+               fowre pound a day of the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> during his abode here. Sir Thomas Glover is come home
                from Constantinople, contrarie to expectation, for his comportement was given out to
                be such there, that there was an opinion he durst not have shewed his face, but he
                makes offer to justifie himself in whatsoever can be laide to his charge. Here is a
