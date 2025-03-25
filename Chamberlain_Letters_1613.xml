@@ -8252,7 +8252,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318134345449",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:43:45.449Z",
-	"dcterms:modified": "2025-03-18T11:43:45.449Z",
+	"dcterms:modified": "2025-03-25T13:55:06.976Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8331,7 +8331,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318134926367",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:49:26.367Z",
-	"dcterms:modified": "2025-03-18T11:49:26.367Z",
+	"dcterms:modified": "2025-03-25T13:55:14.215Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8410,7 +8410,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318135143265",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:51:43.265Z",
-	"dcterms:modified": "2025-03-18T11:51:43.265Z",
+	"dcterms:modified": "2025-03-25T13:55:26.723Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8489,7 +8489,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318140213787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:02:13.787Z",
-	"dcterms:modified": "2025-03-18T12:02:13.787Z",
+	"dcterms:modified": "2025-03-25T13:55:33.107Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8568,7 +8568,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318140227571",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:02:27.571Z",
-	"dcterms:modified": "2025-03-18T12:02:27.571Z",
+	"dcterms:modified": "2025-03-25T13:55:37.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8647,7 +8647,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318140243254",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:02:43.254Z",
-	"dcterms:modified": "2025-03-18T12:02:43.254Z",
+	"dcterms:modified": "2025-03-25T13:55:46.556Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8805,7 +8805,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318140322508",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:03:22.508Z",
-	"dcterms:modified": "2025-03-18T12:03:22.508Z",
+	"dcterms:modified": "2025-03-25T13:55:52.996Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19526,15 +19526,15 @@
                where he had layde them up: mary he willed me tell you that they were in safe
                custodie, and that he wold be as carefull of them as of any thing that concerned
                himself: I aunswered that I wold attend him some other time, when he might more
-               readilie light upon them: then he caried me up to see <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914">his daughter</persName> <note>Isobel, wife
+               readilie light upon them: then he caried me up to see <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914" ana="female">his daughter</persName> <note>Isobel, wife
                   of Sir Henry Rich.</note> that came to towne but the night before and layes out
                her great bellie as handsomly as the best. He made me a long relation of the great
-               cause now before him twixt the <persName key="Mary Ryder" ref="http://www.wikidata.org/entity/Q76122281">Lady Lakes</persName> <note>Mary, daughter of Sir William Ryder,
-                  and wife of Sir Thomas Lake.</note> and her sister the <persName key="Alice Grant" ref="http://www.wikidata.org/entity/Q75291861">Lady Caesar</persName> <note>Alice,
+               cause now before him twixt the <persName key="Mary Ryder" ref="http://www.wikidata.org/entity/Q76122281" ana="female">Lady Lakes</persName> <note>Mary, daughter of Sir William Ryder,
+                  and wife of Sir Thomas Lake.</note> and her sister the <persName key="Alice Grant" ref="http://www.wikidata.org/entity/Q75291861" ana="female">Lady Caesar</persName> <note>Alice,
                   daughter of Charles Green of Manchester, widow of John Dent of London, and wife of
                   Sir Julius Caesar, Chancellor of the Exchequer.</note>, wherin he shall have much
-               ado to carrie himself so even between wind and water, that he displease not <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667">Sir
-               Thomas</persName> or <persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1712531">Master Chauncellor</persName>. We heare <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> is still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somewhat
+               ado to carrie himself so even between wind and water, that he displease not <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir
+               Thomas</persName> or <persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1712531" ana="male">Master Chauncellor</persName>. We heare <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> is still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somewhat
                troubled with an humor in his great toe that must not yet be christned or called the
                gowt. Presently upon his going hence, the counsaile tooke theyre severall wayes, and
                gave themselves some libertie of recreation for a whole weeke, but are now as close
@@ -19545,7 +19545,7 @@
                delight to shew his readines and abilitie in those causes, yet that vigor begins to
                relent, and he must dayly more and more intend his owne health and quiet. And now in
                the nicke to crosse and hinder that goode we expected, there is a great breach fallen
-               out twixt <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
+               out twixt <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
                hostilitie, and is gon with open mouth to complain of him to the King: though yf that
                be true that is constantly reported, <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464">his Lady</persName> hath don all the wrong, as well in
                beating, kicking and reviling <persName key="Margaret Home" ref="http://www.wikidata.org/entity/Q75272057">her mother in law</persName> <note>Margaret, daughter of George,
