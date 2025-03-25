@@ -2885,6 +2885,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317130935520",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:09:35.520Z",
+	"dcterms:modified": "2025-03-25T13:31:50.991Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2963,6 +2964,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131220046",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:12:20.046Z",
+	"dcterms:modified": "2025-03-25T13:32:03.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3041,6 +3043,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317131254130",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T11:12:54.130Z",
+	"dcterms:modified": "2025-03-25T13:32:10.617Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19341,11 +19344,11 @@
                   had had the charge of the Princess Elizabeth since 1603.</note> in golden and
                guilt plate to the value of 2000 li, to theyre servants 400 li to all the women about
                the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName> 100 li a piece, and a medaglia with his picture: to her waiters as
-               much, and to her cheife gentleman usher a chaine of 150 li, to <persName key="Anne Dudley" ref="http://www.wikidata.org/entity/Q75240574">Mistris Dudley</persName>
+               much, and to her cheife gentleman usher a chaine of 150 li, to <persName key="Anne Dudley" ref="http://www.wikidata.org/entity/Q75240574" ana="female">Mistris Dudley</persName>
                   <note>Anne Sutton, daughter of Edward Sutton, ninth Lord Dudley, accompanied
                   Elizabeth, the Electress Palatine, when she left England.</note> a chaine of perle
-               and diamonds of 500 li, to <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">the Prince</persName> a rapier and payre of spurres set with
-               diamonds, to <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> a battle of one entire agat containing two quarts estemed a
+               and diamonds of 500 li, to <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">the Prince</persName> a rapier and payre of spurres set with
+               diamonds, to <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> a battle of one entire agat containing two quarts estemed a
                very rare and rich jewell, to <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> a very fayre cup of Agat and a jewell: and
                lastly to <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">his mistris</persName>, a rich chaine of diamonds, a tire for her head all of
                diamonds, two very rich pendent diamonds for her eares, and above all two perles, for
