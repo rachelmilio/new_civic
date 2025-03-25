@@ -6357,7 +6357,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130206453",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:02:06.453Z",
-	"dcterms:modified": "2025-03-18T11:02:06.453Z",
+	"dcterms:modified": "2025-03-25T13:47:14.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6436,7 +6436,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130251121",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:02:51.121Z",
-	"dcterms:modified": "2025-03-18T11:02:51.121Z",
+	"dcterms:modified": "2025-03-25T13:47:20.204Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6515,7 +6515,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130651452",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:06:51.452Z",
-	"dcterms:modified": "2025-03-18T11:06:51.452Z",
+	"dcterms:modified": "2025-03-25T13:52:52.160Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6594,7 +6594,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130709463",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:07:09.463Z",
-	"dcterms:modified": "2025-03-18T11:07:09.463Z",
+	"dcterms:modified": "2025-03-25T13:52:56.958Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6673,7 +6673,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130747787",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:07:47.787Z",
-	"dcterms:modified": "2025-03-18T11:07:47.787Z",
+	"dcterms:modified": "2025-03-25T13:53:03.468Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6752,7 +6752,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130804422",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:08:04.422Z",
-	"dcterms:modified": "2025-03-18T11:08:04.422Z",
+	"dcterms:modified": "2025-03-25T13:53:11.522Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6989,7 +6989,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318130959261",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T11:09:59.261Z",
-	"dcterms:modified": "2025-03-18T11:09:59.261Z",
+	"dcterms:modified": "2025-03-25T13:53:20.001Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19458,23 +19458,23 @@
                busines, yf he were not of too much note, or (as you know who turned him) troppo
                conspicuo: which may be some cause of those far fet discourses about your affaires,
                though they were broached before he came: mary (as I understand) they are since
-               growne more ordinarie. I imparted to <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631">Signor Biondi</persName> <note>Giovanni Francesco Biondi
+               growne more ordinarie. I imparted to <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631" ana="male">Signor Biondi</persName> <note>Giovanni Francesco Biondi
                   (knighted, 1622), whom Sir Henry Wotton in 1609 had sent from Venice to England to
                   lay before James I Sarpi's plan for a union of the anti-papal powers. He was
                   pensioned by James and in 1612 was in Turin with Wotton. Twenty-one letters to
                   Carleton, between October 9, 1612, and May 12, 1618, are in State Papers
-                  Domestic.</note> what you wrote touching the <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian ambassador</persName> and how kindly
+                  Domestic.</note> what you wrote touching the <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian ambassador</persName> and how kindly
                you tooke his relation. He accepted the charge very willingly, or any other service
                you shold impose upon him, with much demonstration of all dutie and thanckfulnes for
-               your former favors: but he told me that <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Signor Fuscarini</persName> <note>Antonio Foscarini, the
+               your former favors: but he told me that <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Signor Fuscarini</persName> <note>Antonio Foscarini, the
                   Venetian ambassador.</note> was somewhat distasted that your secretarie had not
                ben with him, and that for his part he had wisht him at his first comming not to
-               neglect him: <persName key="Walter Cope" ref="http://www.wikidata.org/entity/Q7964595">Sir Walter Cope</persName> likewise at my last beeing with him spake to the same
+               neglect him: <persName key="Walter Cope" ref="http://www.wikidata.org/entity/Q7964595" ana="male">Sir Walter Cope</persName> likewise at my last beeing with him spake to the same
                purpose, so that at his returne I will put him in mind of yt, yf yt be not now too
                late. Biondi told me that he hath gotten a graunt of his pension for 100 li a yeare
                by his owne industrie, for going to an audience with the Venetian ambassador, he
-               sollicited his cause himself and procured a patent from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">Kinges</persName> owne month, for
-               that he saw the <persName key="Henry Wotton" ref="http://www.wikidata.org/entity/Q641028">Cavaliere Wotton</persName> <note>Sir Henry Wotton.</note> had so much busines
+               sollicited his cause himself and procured a patent from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">Kinges</persName> owne month, for
+               that he saw the <persName key="Henry Wotton" ref="http://www.wikidata.org/entity/Q641028" ana="male">Cavaliere Wotton</persName> <note>Sir Henry Wotton.</note> had so much busines
                of his owne that he could not intend yt. Your Italian frier <note>Cf. Letters 141,
                   143, 146.</note> was with me this other day, with a long discontented discourse
                for want of monie, and that he was somtimes faire to make his owne bed and sweep his
@@ -19487,7 +19487,7 @@
                The fowle weather kept the King here till Monday, when the ayre began to alter, and
                hath continued ever since very faire. He is gon to <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName>, and makes
                account not to returne till Candlemas or after: he tooke up a quarrell before he went
-               twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714">Edward Sackevile</persName> <note>Cf. Letter 159.</note> sonne to the last earle of Dorset
+               twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Edward Sackevile</persName> <note>Cf. Letter 159.</note> sonne to the last earle of Dorset
                and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969">Lord Brus or Kinlos</persName>: yt was to be determined beyond sea, and Sackvile was
                gotten over, but Brus was stayed at the sea side. <persName key="William Segar" ref="http://www.wikidata.org/entity/Q535393">Garter king at armes</persName> <note>William
                   Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir
