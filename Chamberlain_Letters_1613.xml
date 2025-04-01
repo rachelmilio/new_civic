@@ -9603,7 +9603,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142737670",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:27:37.670Z",
-	"dcterms:modified": "2025-03-18T12:27:37.670Z",
+	"dcterms:modified": "2025-04-01T13:37:54.710Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9635,7 +9635,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q336096",
+		"@id": "https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19222,7 +19222,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325161041630",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T14:10:41.630Z",
-	"dcterms:modified": "2025-03-25T14:10:41.630Z",
+	"dcterms:modified": "2025-04-01T13:38:36.893Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19254,7 +19254,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19573,7 +19573,7 @@
                great briguing <note>Intriguing, contending.</note> ther is for his place, (as I
                heare,) both by <persName key="Dudley Digges" ref="http://www.wikidata.org/entity/Q21296941">Sir Dudley Diggs</persName> and <persName key="Robert Naunton" ref="http://www.wikidata.org/entity/Q15527976">Master Nanton</persName> <note>Robert Naunton.</note> but
                specially by <persName key="John Ogle" ref="http://www.wikidata.org/entity/Q18673938">Colonell Ogle</persName> <note>Sir John Ogle.</note> who offers therupon to resigne
-               his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Lord of
+               his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd">Lord of
                Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is
                arrived <note>From Constantinople.</note> and shewes his face offering to justify and
                cleere himself of whatsoever can be layde to his charge. Here is a proclamation come
@@ -19814,7 +19814,7 @@
                Venice.</p>
          </div>
          <div>
-            <head>164. TO <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">SIR RALPH WINWOOD</persName>.</head>
+            <head>164. TO <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">SIR RALPH WINWOOD</persName>.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, February 10, 1613.</l>
             <p>My very goode Lord: I am now in arrierages with you for both your letters of the 21th
