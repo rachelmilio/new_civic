@@ -8729,6 +8729,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155552996",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:55:52.996Z",
+	"dcterms:modified": "2025-04-01T13:11:29.720Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8760,7 +8761,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15425,7 +15426,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325130826445",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:08:26.445Z",
-	"dcterms:modified": "2025-03-25T11:08:26.445Z",
+	"dcterms:modified": "2025-04-01T13:11:51.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15457,7 +15458,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19545,7 +19546,7 @@
                delight to shew his readines and abilitie in those causes, yet that vigor begins to
                relent, and he must dayly more and more intend his owne health and quiet. And now in
                the nicke to crosse and hinder that goode we expected, there is a great breach fallen
-               out twixt <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
+               out twixt <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Nevill</persName> and the <persName><persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName></persName> about the executorship of <persName>Sir John Norris</persName> <note>Cf. Letter 159.</note>, wherin the vicount as yt were proclaimes
                hostilitie, and is gon with open mouth to complain of him to the King: though yf that
                be true that is constantly reported, <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">his Lady</persName> hath don all the wrong, as well in
                beating, kicking and reviling <persName key="Margaret Home" ref="http://www.wikidata.org/entity/Q75272057">her mother in law</persName> <note>Margaret, daughter of George,
@@ -19711,7 +19712,7 @@
                he was to have no more use of them. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483">Countesse of Salisburie</persName> <note>Katherine,
                   daughter of Thomas Howard, first Earl of Suffolk, and wife of William Cecil,
                   second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName>
-               and <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
+               and <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
                all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">the Lord</persName> is very violent, and
                gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName>, that he cannot have his will against law
                and equitie. Yesternight the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> feasted all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex house</placeName>
