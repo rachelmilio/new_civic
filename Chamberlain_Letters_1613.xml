@@ -675,6 +675,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152439282",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:24:39.282Z",
+	"dcterms:modified": "2025-04-01T13:21:22.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -706,7 +707,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19287,7 +19288,7 @@
                part, <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir T. L.</persName> <note>Sir Thomas Lake</note> must be admitted, or rather as yt is now
                held <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248" ana="male">Sir Tho Edm</persName><note>Sir Thomas Edmondes</note>, who besides his frends here at
                home, hath the <persName key="Henri de La Tour d'Auvergne, Duke of Bouillon" ref="http://www.wikidata.org/entity/Q966628" ana="male">Duke of Buillon</persName> an earnest solliciter in his behalfe. Yt is verely
-               held, and many signes there be of yt, that the Kings inclination holdes firm for <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">our
+               held, and many signes there be of yt, that the Kings inclination holdes firm for <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">our
                frend</persName> <note>Sir Ralph Winwood</note> at the <placeName key="The Hague, Netherlands" ref="https://sws.geonames.org/2747373">Haghe</placeName>, and till I see sombody els in
                possession I cannot beleve otherwise, for yf words and premises be ought worth, and
                hissing of the hand (instead of clapping) be any part of assurance to make up a
