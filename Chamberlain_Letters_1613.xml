@@ -16688,7 +16688,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141523147",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:15:23.147Z",
-	"dcterms:modified": "2025-03-25T12:15:23.147Z",
+	"dcterms:modified": "2025-04-01T13:12:40.022Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16720,7 +16720,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19743,7 +19743,7 @@
                Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
                   Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his
                   wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737">the
-               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir Henry Nevile</persName>
+               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir Henry Nevile</persName>
                was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699">Sir John Lewson</persName> but what passed I have not yet heard. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235">The Lady
                Haddingdon</persName> <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and
                   wife of John Ramsay, Viscount Haddington.</note> was forward with child and
