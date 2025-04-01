@@ -1849,6 +1849,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250317125743072",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-17T10:57:43.072Z",
+	"dcterms:modified": "2025-04-01T13:22:33.821Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1880,7 +1881,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19325,7 +19326,7 @@
             <head>159. TO SIR RALPH WINWOOD.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, January 9, 1613.</l>
-            <p><persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">My very goode Lord</persName>: The holydayes are come and gon and nothing yet don of that which
+            <p><persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">My very goode Lord</persName>: The holydayes are come and gon and nothing yet don of that which
                was so duly expected, I meane the translating and creating of new officers. <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">The King</persName>
                was moved by the counsaile in this matter, specially for secretaries, for that the
                state of affaires required yt, and suffered much for the want of a sufficient man
