@@ -11473,7 +11473,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318145526639",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:55:26.639Z",
-	"dcterms:modified": "2025-03-18T12:55:26.639Z",
+	"dcterms:modified": "2025-04-01T13:04:20.334Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -11505,7 +11505,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -12816,7 +12816,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325113621454",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:36:21.454Z",
-	"dcterms:modified": "2025-03-25T09:36:21.454Z",
+	"dcterms:modified": "2025-04-01T13:04:30.863Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12848,7 +12848,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15579,7 +15579,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325134650032",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:46:50.032Z",
-	"dcterms:modified": "2025-03-25T11:46:50.032Z",
+	"dcterms:modified": "2025-04-01T13:04:42.435Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15611,7 +15611,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19612,7 +19612,7 @@
                meane not to mend yt, but still devise new phrases and tricks and excusandas
                excusationes. Yet still I kepe mine old course, and send them those ordinarie
                occurrents that come in my way, which though they be poore and sleight, yet are not
-               unwelcome to them that seldome are otherwise better provided. We heare <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> is
+               unwelcome to them that seldome are otherwise better provided. We heare <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName> is
                still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somwhat troubled with an humor in his great toe which must not yet
                be christned or called the gowte. Presently upon his going the counsaile tooke theyre
                severall wayes, and gave themselves some libertie of recreation for a whole weeke,
@@ -19644,7 +19644,7 @@
                ship that goes for the <placeName key="East Indies" ref="http://www.wikidata.org/entity/Q213137">East Indies</placeName>, leaving theyre litle sonne behind and bequeathing
                him to the care and favor of <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> his God mother: he hath stayed here well by yt
                to litle purpose, having no great reason to hast away, seeing he had allowance of
-               fowre pound a day of the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> during his abode here. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is come home
+               fowre pound a day of the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">King</persName> during his abode here. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is come home
                from <placeName key="Constantinople" ref="http://www.wikidata.org/entity/Q16869">Constantinople</placeName>, contrarie to expectation, for his comportement was given out to
                be such there, that there was an opinion he durst not have shewed his face, but he
                makes offer to justifie himself in whatsoever can be laide to his charge. Here is a
@@ -19709,7 +19709,7 @@
                   second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName>
                and <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
                all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">the Lord</persName> is very violent, and
-               gon with open month to complain to <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName>, that he cannot have his will against law
+               gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName>, that he cannot have his will against law
                and equitie. Yesternight the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> feasted all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex house</placeName>
                where in regard of the goode entertainment he found with th <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, he
                shewed more kindnes and caresses to him and his followers then to all the rest put
