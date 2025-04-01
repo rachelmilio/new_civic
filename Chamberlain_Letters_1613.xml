@@ -17868,7 +17868,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325150728963",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:07:28.963Z",
-	"dcterms:modified": "2025-03-25T13:07:28.963Z",
+	"dcterms:modified": "2025-04-01T13:05:17.789Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17900,7 +17900,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q745833",
+		"@id": "https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19757,7 +19757,7 @@
                she is a Kings daughter. The worst is mee thincks he is much too young and small
                timbred to undertake such a taske. The <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> at the receving of the garter in
                the <placeName key="Low Countries" ref="http://www.wikidata.org/entity/Q476033">Lowe Countries</placeName> shewed himself very bountifull, and gave great rewards to the king
-               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">your brother</persName> may understand from <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe
+               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">your brother</persName> may understand from <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe
                Winwod</persName>, though yt may be he will not certifie that himself had a cup of gold for a
                present worth five hundred pound: he hath ben very fortunat for such wind-falls
                though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName>, where there was more reason
