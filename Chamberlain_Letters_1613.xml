@@ -1609,6 +1609,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152742062",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:42.062Z",
+	"dcterms:modified": "2025-04-01T12:49:46.626Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1640,7 +1641,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q745833",
+		"@id": "https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19304,7 +19305,7 @@
                London this <date when="1613-01-07">7th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
             <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
+            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
                State of Venice</placeName>.</p>
          </div>
          <div>
