@@ -4973,6 +4973,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154506618",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:45:06.618Z",
+	"dcterms:modified": "2025-04-01T13:10:38.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -5004,7 +5005,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19407,7 +19408,7 @@
                li: and bestowe 500 li on a tombe for <persName key="Edward de Vere, 17th Earl of Oxford" ref="http://www.wikidata.org/entity/Q374210" ana="male">his father</persName> and her. Yt may be you have heard
                that <persName key="George Fermor" ref="http://www.wikidata.org/entity/Q22998032" ana="male">Sir George Farmor</persName> <note>Sir George Fermor of Easton Neston,
                   Northamptonshire.</note> died above a moneth since, as likewise <persName>Sir John Morris</persName>
-                  <note>Sir John Morris of Fyfield, Berkshire.</note> of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir
+                  <note>Sir John Morris of Fyfield, Berkshire.</note> of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir
                Henry Neville</persName> and <persName>Sir William Dowier</persName> his executors, but his daughter the <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">Lady Fenton</persName>
                   <note>His daughter Elizabeth, widow of Sir Edward Norris, a distant cousin,
                   married in 1604 Thomas Erskine, in 1606 created Viscount Fenton</note> hath put
