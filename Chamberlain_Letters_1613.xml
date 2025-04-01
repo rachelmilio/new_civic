@@ -361,6 +361,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152307266",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:23:07.266Z",
+	"dcterms:modified": "2025-04-01T13:08:14.669Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -392,7 +393,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q743492",
+		"@id": "https://cwrc.ca/islandora/object/reed:87433b1b-38d9-4f05-884b-b217151c1985",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19276,7 +19277,7 @@
                that he will thincke upon yt, and resolve in goode time, so that we are now come to
                our dischauses again, and the cheife candidati as forward in theyre hopes as at any
                time before: the King is thought to have no great mind of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName>
-                  <note>Sir Henry Neville</note> so that yt the importunitie of <persName key="Henry Wriothesley, 3rd Earl of Southampton" ref="http://www.wikidata.org/entity/Q743492" ana="male">his great patron</persName>
+                  <note>Sir Henry Neville</note> so that yt the importunitie of <persName key="Henry Wriothesley, 3rd Earl of Southampton" ref="https://cwrc.ca/islandora/object/reed:87433b1b-38d9-4f05-884b-b217151c1985" ana="male">his great patron</persName>
                   <note>Henry Wriothesley, third Earl of Southampton</note> prevaile, yt shalbe as
                yt were invita Minerva, and to counterpoise the ballance and content the counter-
                part, <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir T. L.</persName> <note>Sir Thomas Lake</note> must be admitted, or rather as yt is now
