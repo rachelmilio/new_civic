@@ -832,6 +832,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152448995",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:24:48.995Z",
+	"dcterms:modified": "2025-04-01T13:37:12.163Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -863,7 +864,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q336096",
+		"@id": "https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3723,6 +3724,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325153905647",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:39:05.647Z",
+	"dcterms:modified": "2025-04-01T13:37:28.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3754,7 +3756,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q336096",
+		"@id": "https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19297,7 +19299,7 @@
                possession I cannot beleve otherwise, for yf words and premises be ought worth, and
                hissing of the hand (instead of clapping) be any part of assurance to make up a
                bargain, he is in goode case, and cannot misse. But this is a secret and must be
-               sealed up to yourself. The world is of opinion that the <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096" ana="male">Lord of Rochester</persName>
+               sealed up to yourself. The world is of opinion that the <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd" ana="male">Lord of Rochester</persName>
                   <note>Robert Carr, Viscount Rochester</note> is slowe every way as well as for
                himself as his frends, els wold he ere this have compassed and concluded for the
                maine place <note>The office of Lord Treasurer</note> he shoots at; but perhaps he
@@ -19383,7 +19385,7 @@
                fifteen dayes after his mariage, and the Lady is to follow toward Whitsontide,
                conducted by fowre earles, eight Barons and I know not how many knights. The old <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089" ana="male">Lord
                Admirall</persName> <note>Charles Howard, Earl of Nottingham.</note> meanes to make yt his last
-               service to wafte her over. The King removes this day toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>, where the <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096" ana="male">Lord
+               service to wafte her over. The King removes this day toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>, where the <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd" ana="male">Lord
                of Rochester</persName> <note>Robert Carr, Viscount Rochester.</note> shall have more leysure
                and commoditie to negotiat this busines <note>The appointment of a Principal
                   Secretary and a Lord Treasurer.</note> that intertaines every mans thoughts, for
