@@ -126,6 +126,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152228048",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:22:28.048Z",
+	"dcterms:modified": "2025-04-01T12:58:18.366Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -157,7 +158,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1923,6 +1924,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152752014",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:52.014Z",
+	"dcterms:modified": "2025-04-01T12:58:36.664Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1954,7 +1956,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19261,7 +19263,7 @@
                hardly have adventured to write this weeke. But because they say half a loafe is
                better then no bread, I will take upon me to tell you what is saide, though I cannot
                advertise you what is don. Our Christmas is now come to an end, without the least
-               shew of any alteration in court or elswhere, and to morrow the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> removes toward
+               shew of any alteration in court or elswhere, and to morrow the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">King</persName> removes toward
                <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName>: the counsaile have dealt with him to name new officers specially
                secretaries, or one at least, whomsoever he shold please, for that the state of
                affaires requires yt, and suffers much for the want of a sufficient man that might
@@ -19314,7 +19316,7 @@
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, January 9, 1613.</l>
             <p><persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">My very goode Lord</persName>: The holydayes are come and gon and nothing yet don of that which
-               was so duly expected, I meane the translating and creating of new officers. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">The King</persName>
+               was so duly expected, I meane the translating and creating of new officers. <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">The King</persName>
                was moved by the counsaile in this matter, specially for secretaries, for that the
                state of affaires required yt, and suffered much for the want of a sufficient man
                that might ease and help to disburthen his Majestie in the care and paines of that
