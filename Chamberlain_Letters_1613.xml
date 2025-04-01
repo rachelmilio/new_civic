@@ -9206,7 +9206,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318141932698",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:19:32.698Z",
-	"dcterms:modified": "2025-03-18T12:19:32.698Z",
+	"dcterms:modified": "2025-04-01T13:27:12.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9238,7 +9238,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -14799,7 +14799,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123650520",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:36:50.520Z",
-	"dcterms:modified": "2025-03-25T10:36:50.520Z",
+	"dcterms:modified": "2025-04-01T13:34:18.609Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14831,7 +14831,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -17957,7 +17957,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325150745155",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:07:45.155Z",
-	"dcterms:modified": "2025-03-25T13:07:45.155Z",
+	"dcterms:modified": "2025-04-01T13:34:36.344Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17989,7 +17989,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -18273,7 +18273,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151303338",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:13:03.338Z",
-	"dcterms:modified": "2025-03-25T13:13:03.338Z",
+	"dcterms:modified": "2025-04-01T13:34:43.198Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18305,7 +18305,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19566,7 +19566,7 @@
                counsaillor) and of the time. <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284">Master Waake</persName> <note>Isaac Wake.</note> cannot yet
                procure his dispatch so that he must of necessitie stay the Kings comming and perhaps
                the mariage, wherin <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> is fully of my minde and sayes by that time he
-               shall see quel pli les choses prendront. The world hath still a goode opinion of <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">our
+               shall see quel pli les choses prendront. The world hath still a goode opinion of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">our
                frend</persName> <note>Sir Ralph Winwood, ambassador at The Hague.</note> at <placeName key="The Hague" ref="http://www.wikidata.org/entity/Q36600">the Haghe</placeName>, and
                great briguing <note>Intriguing, contending.</note> ther is for his place, (as I
                heare,) both by <persName key="Dudley Digges" ref="http://www.wikidata.org/entity/Q21296941">Sir Dudley Diggs</persName> and <persName key="Robert Naunton" ref="http://www.wikidata.org/entity/Q15527976">Master Nanton</persName> <note>Robert Naunton.</note> but
@@ -19688,7 +19688,7 @@
                   <note>William Hakewill, a kinsman of Sir Thomas Bodley.</note> his executors
                opened the will <note>Printed in full in W. D. Macray, Annals of the Bodleian
                   Library, ed. 1890, pp. 202-418.</note>, a copie wherof no doubt shalbe sent you,
-               for he hath nominated <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, the
+               for he hath nominated <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, the
                <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> <note>Thomas Egerton, Lord Ellesmere.</note>, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>
                   <note>Sir Edward Coke.</note> supravisors and for theyre paines bequeathed them
                cuppes of gold of the value of 50 li a peece. <persName key="William Gent">Master Gent</persName> <note>William Gent.</note>
@@ -19767,7 +19767,7 @@
                she is a Kings daughter. The worst is mee thincks he is much too young and small
                timbred to undertake such a taske. The <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> at the receving of the garter in
                the <placeName key="Low Countries" ref="http://www.wikidata.org/entity/Q476033">Lowe Countries</placeName> shewed himself very bountifull, and gave great rewards to the king
-               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">your brother</persName> may understand from <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe
+               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">your brother</persName> may understand from <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">Sir Rafe
                Winwod</persName>, though yt may be he will not certifie that himself had a cup of gold for a
                present worth five hundred pound: he hath ben very fortunat for such wind-falls
                though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName>, where there was more reason
@@ -19776,7 +19776,7 @@
                els to do withall, and is in no way worth twenty marke. He died on Thursday last
                between fowre and five in the afternoon having lien speachles and without knowing any
                body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712">Master Hackwell</persName> a
-               younge lawier, <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> his overseers, and supravisors
+               younge lawier, <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> his overseers, and supravisors
                over them the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName>, the <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>, to
                each of these last bequeathing a cup of gold of the value of fifty pound, wheras to
                his brothers <note>His brothers, Sir Josias Bodley, military engineer in Ireland, and
