@@ -6148,6 +6148,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154650061",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:46:50.061Z",
+	"dcterms:modified": "2025-04-01T13:26:40.484Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6179,7 +6180,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -7244,6 +7245,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155346743",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:53:46.743Z",
+	"dcterms:modified": "2025-04-01T13:26:50.405Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7275,7 +7277,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -7400,6 +7402,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155405672",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:54:05.672Z",
+	"dcterms:modified": "2025-04-01T13:26:59.861Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7431,7 +7434,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7288287",
+		"@id": "https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19446,7 +19449,7 @@
                <date when="1613-01-09">9th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
             <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
+            <p>To the right honorable <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
                States of the United Provinces at the Haghe.</p>
          </div>
          <div>
@@ -19493,10 +19496,10 @@
                twixt <persName key="Edward Sackville, 4th Earl of Dorset" ref="http://www.wikidata.org/entity/Q337714" ana="male">Edward Sackevile</persName> <note>Cf. Letter 159.</note> sonne to the last earle of Dorset
                and the <persName key="Edward Bruce, 2nd Baron Bruce of Kinlosse" ref="http://www.wikidata.org/entity/Q75500969" ana="male">Lord Brus or Kinlos</persName>: yt was to be determined beyond sea, and Sackvile was
                gotten over, but Brus was stayed at the sea side. <persName key="William Segar" ref="http://www.wikidata.org/entity/Q535393" ana="male">Garter king at armes</persName> <note>William
-                  Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir
+                  Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir
                Rate Winwod</persName> to deliver the order <note>Of the Garter. Cf. Letter 155.</note> to <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count
                Maurice</persName>, and performe the ceremonies, which when they are finished, yf we heare not
-               of <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe</persName> against the wedding <note>Of the Princess Elizabeth and the Elector
+               of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe</persName> against the wedding <note>Of the Princess Elizabeth and the Elector
                   Palatine.</note>, I will geve over looking after him. <persName key="Richard Moryson" ref="http://www.wikidata.org/entity/Q7327917" ana="male">Sir Richard Morrison</persName>
                   <note>Sir Richard Moryson, son of Thomas Moryson of Cadeby, Lincolnshire.</note>
                hath concluded (as I heare) with the <persName key="Henry Danvers, 1st Earl of Danby" ref="http://www.wikidata.org/entity/Q5720177" ana="male">Lord Davers</persName> <note>Henry Lord Danvers of
