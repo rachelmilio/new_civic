@@ -283,6 +283,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152257261",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:22:57.261Z",
+	"dcterms:modified": "2025-04-01T13:09:32.203Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -314,7 +315,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2004,6 +2005,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152803487",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:28:03.487Z",
+	"dcterms:modified": "2025-04-01T13:09:44.824Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -2035,7 +2037,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q2775812",
+		"@id": "https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19276,7 +19278,7 @@
                theyre advise in goode part, and doth acknowledge as much as they say, with promise
                that he will thincke upon yt, and resolve in goode time, so that we are now come to
                our dischauses again, and the cheife candidati as forward in theyre hopes as at any
-               time before: the King is thought to have no great mind of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName>
+               time before: the King is thought to have no great mind of himself to <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir H. N.</persName>
                   <note>Sir Henry Neville</note> so that yt the importunitie of <persName key="Henry Wriothesley, 3rd Earl of Southampton" ref="https://cwrc.ca/islandora/object/reed:87433b1b-38d9-4f05-884b-b217151c1985" ana="male">his great patron</persName>
                   <note>Henry Wriothesley, third Earl of Southampton</note> prevaile, yt shalbe as
                yt were invita Minerva, and to counterpoise the ballance and content the counter-
@@ -19329,7 +19331,7 @@
                theyre advise in goode part and promised to resolve in goode time, and further that
                when he did yt he would perfect yt: which later clause I take for bonum omen, and
                applie yt to the person I wish best to. The world conceves the King hath no great
-               inclination of himself to <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName> <note>Cf Letter 158</note> so that yf he prevaile
+               inclination of himself to <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir H. N.</persName> <note>Cf Letter 158</note> so that yf he prevaile
                yt must be as yt were invita Minerva, and by the importunitie of his great patron:
                and then to counterpoise the balance and please the counterpart <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir Tho: Lakes</persName> may be
                admitted, or rather (as the voyce goes now) <persName key="Thomas Edmondes" ref="http://www.wikidata.org/entity/Q7789248" ana="male">Sir Thomas Edmunds</persName>, who besides his owne
