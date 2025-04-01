@@ -1224,6 +1224,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152704360",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:04.360Z",
+	"dcterms:modified": "2025-04-01T13:47:25.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1255,7 +1256,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q82631",
+		"@id": "https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4119,6 +4120,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154131264",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:41:31.264Z",
+	"dcterms:modified": "2025-04-01T13:47:48.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -4150,7 +4152,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q82631",
+		"@id": "https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19313,7 +19315,7 @@
                and raines have overthrowne <placeName key="Port of Dover" ref="http://www.wikidata.org/entity/Q739207">Dover peere</placeName>, and quite defaced those workes and
                fortifications against the sea, wherin there hath ben bestowed so much time and cost.
                Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Counti</persName>
-               to condole for <persName key="Henry Frederick, Prince of Wales" ref="http://www.wikidata.org/entity/Q82631" ana="male">the Princes</persName> death. His houshold is broken up, and the inventarie of
+               to condole for <persName key="Henry Frederick, Prince of Wales" ref="https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d" ana="male">the Princes</persName> death. His houshold is broken up, and the inventarie of
                his goods brought in far beyond his debts: the account of his yearly revenew riseth
                to 57000 li. I have heard an uncertain report that <persName>Sir Mathew Carie</persName> is like to loose
                and be cousened of eight or nine thousand pound in a purchase of one <persName key="Sir William Bond" ref="http://www.wikidata.org/entity/Q75487691" cert="medium" ana="male">Sir William Bond</persName>
@@ -19404,7 +19406,7 @@
                made goode, so that they went away acquitted, and he not much condemned for seeking
                the Kings benefit. We have here dayly many banckrouts and as many protections which
                do marvay- lously hinder all manner of commerce. The last weeke here came an
-               ambassador from <placeName key="Lorraine" ref="http://www.wikidata.org/entity/Q1137">Lorrain</placeName> to condole <persName key="Henry Frederick, Prince of Wales" ref="http://www.wikidata.org/entity/Q82631" ana="male">the Princes</persName> death, and some say to propound I know
+               ambassador from <placeName key="Lorraine" ref="http://www.wikidata.org/entity/Q1137">Lorrain</placeName> to condole <persName key="Henry Frederick, Prince of Wales" ref="https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d" ana="male">the Princes</persName> death, and some say to propound I know
                not what match. He was a very proper man, sonne (as is saide) to the <persName key="Louis II of Lorraine, cardinal of Guise" ref="http://www.wikidata.org/entity/Q510693" ana="male">Cardinall of
                Guise</persName> that was strangled at <placeName key="Blois" ref="http://www.wikidata.org/entity/Q160927">Blois</placeName>, and in great favor or (as they terme him) the
                Lerma of the <persName key="Henry II, Duke of Lorraine" ref="http://www.wikidata.org/entity/Q704178" ana="male">Duke of Lorrain</persName>. Here is likewise a gentleman from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>,
