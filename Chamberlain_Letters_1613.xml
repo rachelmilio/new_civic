@@ -11098,7 +11098,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318145042736",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:50:42.736Z",
-	"dcterms:modified": "2025-03-18T12:50:42.736Z",
+	"dcterms:modified": "2025-04-01T13:51:01.248Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -11130,7 +11130,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -15992,7 +15992,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325135100854",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:51:00.854Z",
-	"dcterms:modified": "2025-03-25T11:51:00.854Z",
+	"dcterms:modified": "2025-04-01T13:51:12.109Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16024,7 +16024,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19150,7 +19150,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152130182",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:21:30.182Z",
-	"dcterms:modified": "2025-03-25T13:21:30.182Z",
+	"dcterms:modified": "2025-04-01T13:51:23.703Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19182,7 +19182,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19614,7 +19614,7 @@
                House</placeName>. So with all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532">my Lady</persName> and Mistris Carleton I commend you to
                the protection of the Almighty. From London this <date when="1613-01-28">28th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
             <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
                <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">Venice</placeName>.</p>
          </div>
@@ -19736,7 +19736,7 @@
                and all yours to the protection of the Almighty. From London this <date when="1613-01-29">29th of January
                1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
          </div>
          <div>
             <head>163. TO ALICE CARLETON.</head>
@@ -19816,7 +19816,7 @@
                is, nothing but vanitie and in that meditation I will leave and commit you to God.
                From <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> this <date when="1613-02-04">4th of February 1612</date>.</p>
             <l>Yours most assuredly</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
             <p>To my assured goods frend Mistris Alice Carleton at the Lord Ambassadors at
                Venice.</p>
          </div>
