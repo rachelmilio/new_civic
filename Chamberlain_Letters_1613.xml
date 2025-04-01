@@ -3016,6 +3016,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325153210617",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:32:10.617Z",
+	"dcterms:modified": "2025-04-01T12:58:52.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3047,7 +3048,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -3873,6 +3874,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154116855",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:41:16.855Z",
+	"dcterms:modified": "2025-04-01T12:59:04.030Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -3904,7 +3906,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6608,6 +6610,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155303468",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:53:03.468Z",
+	"dcterms:modified": "2025-04-01T12:59:20.411Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6639,7 +6642,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -8564,6 +8567,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155546556",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:55:46.556Z",
+	"dcterms:modified": "2025-04-01T12:59:35.254Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -8595,7 +8599,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q79972",
+		"@id": "https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19349,7 +19353,7 @@
                   <note>Anne Sutton, daughter of Edward Sutton, ninth Lord Dudley, accompanied
                   Elizabeth, the Electress Palatine, when she left England.</note> a chaine of perle
                and diamonds of 500 li, to <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">the Prince</persName> a rapier and payre of spurres set with
-               diamonds, to <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> a battle of one entire agat containing two quarts estemed a
+               diamonds, to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">the King</persName> a battle of one entire agat containing two quarts estemed a
                very rare and rich jewell, to <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> a very fayre cup of Agat and a jewell: and
                lastly to <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">his mistris</persName>, a rich chaine of diamonds, a tire for her head all of
                diamonds, two very rich pendent diamonds for her eares, and above all two perles, for
@@ -19380,7 +19384,7 @@
                as his frends, for besides the maine place he shoots at, he is now about the
                reversion of the <persName key="Thomas Darcy, 1st Earl Rivers" ref="http://www.wikidata.org/entity/Q16863606" ana="male">Lord Darcies</persName> <note>Cf. Letter 158.</note> lands, which for want of
                heyres males are like to return to the crowne, according to the first graunt. A day
-               or two before Christ- mas the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> himself gave a hearing to a controversie twixt the
+               or two before Christ- mas the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">King</persName> himself gave a hearing to a controversie twixt the
                farmers of the customes and <persName key="John Swynnerton" ref="http://www.wikidata.org/entity/Q6259847" ana="male">Sir John Swinerton</persName> now Lord Mayor, who accused them of
                defrauding the King yearly of 70000 li but when yt came to proofe yt could not be
                made goode, so that they went away acquitted, and he not much condemned for seeking
@@ -19465,7 +19469,7 @@
                purpose, so that at his returne I will put him in mind of yt, yf yt be not now too
                late. Biondi told me that he hath gotten a graunt of his pension for 100 li a yeare
                by his owne industrie, for going to an audience with the Venetian ambassador, he
-               sollicited his cause himself and procured a patent from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">Kinges</persName> owne month, for
+               sollicited his cause himself and procured a patent from the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">Kinges</persName> owne month, for
                that he saw the <persName key="Henry Wotton" ref="http://www.wikidata.org/entity/Q641028" ana="male">Cavaliere Wotton</persName> <note>Sir Henry Wotton.</note> had so much busines
                of his owne that he could not intend yt. Your Italian frier <note>Cf. Letters 141,
                   143, 146.</note> was with me this other day, with a long discontented discourse
@@ -19526,7 +19530,7 @@
                   daughter of Charles Green of Manchester, widow of John Dent of London, and wife of
                   Sir Julius Caesar, Chancellor of the Exchequer.</note>, wherin he shall have much
                ado to carrie himself so even between wind and water, that he displease not <persName key="Thomas Lake" ref="http://www.wikidata.org/entity/Q7791667" ana="male">Sir
-               Thomas</persName> or <persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1712531" ana="male">Master Chauncellor</persName>. We heare <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> is still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somewhat
+               Thomas</persName> or <persName key="Julius Caesar" ref="http://www.wikidata.org/entity/Q1712531" ana="male">Master Chauncellor</persName>. We heare <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">the King</persName> is still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somewhat
                troubled with an humor in his great toe that must not yet be christned or called the
                gowt. Presently upon his going hence, the counsaile tooke theyre severall wayes, and
                gave themselves some libertie of recreation for a whole weeke, but are now as close
