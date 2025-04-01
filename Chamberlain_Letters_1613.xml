@@ -1538,6 +1538,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152728922",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:28.922Z",
+	"dcterms:modified": "2025-04-01T13:50:20.789Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1569,7 +1570,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -6076,6 +6077,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154642065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:46:42.065Z",
+	"dcterms:modified": "2025-04-01T13:50:38.981Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -6107,7 +6109,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -7800,6 +7802,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325155426868",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:54:26.868Z",
+	"dcterms:modified": "2025-04-01T13:50:49.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -7831,7 +7834,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q6225650",
+		"@id": "https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -19327,7 +19330,7 @@
                remembrance to my goode Lady I commend you to the protection of the Almighty. From
                London this <date when="1613-01-07">7th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
             <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
                State of Venice</placeName>.</p>
          </div>
@@ -19454,7 +19457,7 @@
                Lady I commend you and all yours to the protection of the Almighty. From <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> this
                <date when="1613-01-09">9th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
             <p>To the right honorable <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
                States of the United Provinces at the Haghe.</p>
          </div>
@@ -19517,7 +19520,7 @@
                commend you to the protection of the Almighty. From London this <date when="1613-01-14">14th of January
                1612.</date></p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
             <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> knight Lord Ambassador</l>
             <l>for his Majestie to the <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">State of Venice</placeName>.</l>
          </div>
