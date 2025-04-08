@@ -14234,7 +14234,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123051765",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:30:51.765Z",
-	"dcterms:modified": "2025-03-25T10:30:51.765Z",
+	"dcterms:modified": "2025-04-08T13:23:11.628Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14313,7 +14313,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123231872",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:32:31.872Z",
-	"dcterms:modified": "2025-03-25T10:32:31.872Z",
+	"dcterms:modified": "2025-04-08T13:23:16.887Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14471,7 +14471,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123415025",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:34:15.025Z",
-	"dcterms:modified": "2025-03-25T10:34:15.025Z",
+	"dcterms:modified": "2025-04-08T13:23:24.357Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14550,7 +14550,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123442692",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:34:42.692Z",
-	"dcterms:modified": "2025-03-25T10:34:42.692Z",
+	"dcterms:modified": "2025-04-08T13:23:30.971Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14629,7 +14629,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123530221",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:35:30.221Z",
-	"dcterms:modified": "2025-03-25T10:35:30.221Z",
+	"dcterms:modified": "2025-04-08T13:23:35.876Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14787,6 +14787,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163418609",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:34:18.609Z",
+	"dcterms:modified": "2025-04-08T13:23:41.846Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19652,21 +19653,21 @@
                surely I thincke he cannot last many dayes, yet he bestirres himself in busines and
                bargaines as yf there were no such matter; and relies upon phisicke as much as when
                he first fell sicke, having run over all the best phisicians of this towne, and is
-               now fallen into <persName key="Richard Forster" ref="http://www.wikidata.org/entity/Q7325729">Doctor Fosters</persName> <note>Richard Forster.</note> hands: yet he is
-               somewhat discouraged that he cannot get <persName key="William Butler" ref="http://www.wikidata.org/entity/Q16206274">Butler</persName> <note>William Butler.</note> of
+               now fallen into <persName key="Richard Forster" ref="http://www.wikidata.org/entity/Q7325729" ana="male">Doctor Fosters</persName> <note>Richard Forster.</note> hands: yet he is
+               somewhat discouraged that he cannot get <persName key="William Butler" ref="http://www.wikidata.org/entity/Q16206274" ana="male">Butler</persName> <note>William Butler.</note> of
                <placeName key="University of Cambridge" ref="http://www.wikidata.org/entity/Q35794">Cambrige</placeName> to come at him, not so much as to speake with him, for he sayes wordes
                cannot cure him, and he can do nothing els to him: for upon sight of his water he
                sent him word what case he was in. He hath setled all things as he sayes, and wold
                seeme resolute, but God send him a goode resolution, for I doubt he is very neere his
                dissolution. Having written thus far on Wensday morning by way of provision, and
                seeing the wind so setled that there was no hope of sending away, I forbare to seale
-               yt up, in expectation what might fall out, and that afternoone <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName> grew
+               yt up, in expectation what might fall out, and that afternoone <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName> grew
                speachles and out of knowlege, and so continued till yesterday between fowre and five
-               in the afternoone that he departed. Presently <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712">Master Hackwell</persName>
+               in the afternoone that he departed. Presently <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712" ana="male">Master Hackwell</persName>
                   <note>William Hakewill, a kinsman of Sir Thomas Bodley.</note> his executors
                opened the will <note>Printed in full in W. D. Macray, Annals of the Bodleian
                   Library, ed. 1890, pp. 202-418.</note>, a copie wherof no doubt shalbe sent you,
-               for he hath nominated <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, the
+               for he hath nominated <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, the
                <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> <note>Thomas Egerton, Lord Ellesmere.</note>, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>
                   <note>Sir Edward Coke.</note> supravisors and for theyre paines bequeathed them
                cuppes of gold of the value of 50 li a peece. <persName key="William Gent">Master Gent</persName> <note>William Gent.</note>
