@@ -16207,7 +16207,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325135825170",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:58:25.170Z",
-	"dcterms:modified": "2025-03-25T11:58:25.170Z",
+	"dcterms:modified": "2025-04-08T13:32:50.074Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16286,7 +16286,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325140650359",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:06:50.359Z",
-	"dcterms:modified": "2025-03-25T12:06:50.359Z",
+	"dcterms:modified": "2025-04-08T13:32:58.137Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16365,7 +16365,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325140723499",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:07:23.499Z",
-	"dcterms:modified": "2025-03-25T12:07:23.499Z",
+	"dcterms:modified": "2025-04-08T13:33:04.928Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16444,7 +16444,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325140802464",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:08:02.464Z",
-	"dcterms:modified": "2025-03-25T12:08:02.464Z",
+	"dcterms:modified": "2025-04-08T13:33:10.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16602,7 +16602,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141407361",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:14:07.361Z",
-	"dcterms:modified": "2025-03-25T12:14:07.361Z",
+	"dcterms:modified": "2025-04-08T13:33:16.962Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19726,11 +19726,11 @@
                to you, or begg a letter at her hands; but I remember in one of your last lettres you
                gave me commission to speake to <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName> to go to her, who indeed is more fit as
                comming lately from you, and beeing to go so shortly towards you. Yesterday there was
-               a great meeting at <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Saviles</persName> about the conclusion of a match for <persName key="Elizabeth Savile" ref="http://www.wikidata.org/entity/Q76092735">Mistris
+               a great meeting at <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Saviles</persName> about the conclusion of a match for <persName key="Elizabeth Savile" ref="http://www.wikidata.org/entity/Q76092735" ana="female">Mistris
                Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
                   Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his
-                  wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737">the
-               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir Henry Nevile</persName>
+                  wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737" ana="male">the
+               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="male">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir Henry Nevile</persName>
                was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699">Sir John Lewson</persName> but what passed I have not yet heard. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235">The Lady
                Haddingdon</persName> <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and
                   wife of John Ramsay, Viscount Haddington.</note> was forward with child and
