@@ -9977,6 +9977,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318143420702",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:34:20.702Z",
+	"dcterms:modified": "2025-04-08T13:19:48.936Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10134,6 +10135,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318143503474",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:35:03.474Z",
+	"dcterms:modified": "2025-04-08T13:19:59.541Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10212,6 +10214,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144045975",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:40:45.975Z",
+	"dcterms:modified": "2025-04-08T13:20:08.158Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10290,6 +10293,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144322643",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:43:22.643Z",
+	"dcterms:modified": "2025-04-08T13:20:14.190Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10368,6 +10372,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144435400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:44:35.400Z",
+	"dcterms:modified": "2025-04-08T13:20:20.683Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10446,6 +10451,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144456827",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:44:56.827Z",
+	"dcterms:modified": "2025-04-08T13:20:27.111Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19549,16 +19555,16 @@
                slaine by them in his owne house; whereupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwick" ref="http://www.wikidata.org/entity/Q549761">Warwicke</placeName> they shut
                theyre gates and mustered theyre souldiers, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and those parts the
                people made barricados and all other manner of provision, as yf they looked presently
-               to be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517">Lady of Shrewsburie</persName> <note>Mary, wife of Gilbert Talbot, seventy
+               to be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517" ana="female">Lady of Shrewsburie</persName> <note>Mary, wife of Gilbert Talbot, seventy
                   Earl of Shrewsbury. Since 1610 she had been a prisoner in the Tower for acquiescing
                   in the marriage of her niece, the Lady Arabella Stuart.</note> that hath ben long
-               in <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">the Towre</placeName>, and had the libertie of the place, and somtimes leave to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230">her
+               in <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">the Towre</placeName>, and had the libertie of the place, and somtimes leave to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230" ana="male">her
                Lord</persName> in his sicknes, is now of late restrained and kept more close, upon somewhat
-               discovered against her (they say) by her niece <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074">the Lady Arbella</persName>. <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140">Judge Williams</persName>
+               discovered against her (they say) by her niece <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074" ana="female">the Lady Arbella</persName>. <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140" ana="male">Judge Williams</persName>
                   <note>Sir David Williams, Puisne Justice of King's Bench.</note> died on Friday
                last at his house in the countrie leaving a great state behind him both in land and
-               wealth, and the same day <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697">Sir Antonie Senligier</persName> <note>Sir Anthony St. Leger.</note>
-               that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName> is
+               wealth, and the same day <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697" ana="male">Sir Antonie Senligier</persName> <note>Sir Anthony St. Leger.</note>
+               that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName> is
                even now likewise at the last cast, and hath lien speachles and without knowledge
                since yesterday at noone. God comfort him and send him a good passage. Our marchants
                have dayly many losses, and now lately, there was a ship of 300 tunne cast away in
