@@ -12498,7 +12498,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318165217853",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T14:52:17.853Z",
-	"dcterms:modified": "2025-03-18T14:52:17.853Z",
+	"dcterms:modified": "2025-04-08T13:22:01.806Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12735,7 +12735,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325113540334",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:35:40.334Z",
-	"dcterms:modified": "2025-03-25T09:35:40.334Z",
+	"dcterms:modified": "2025-04-08T13:22:10.048Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12814,6 +12814,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401160430863",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:04:30.863Z",
+	"dcterms:modified": "2025-04-08T13:22:15.626Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12971,7 +12972,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325114149756",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:41:49.756Z",
-	"dcterms:modified": "2025-03-25T09:41:49.756Z",
+	"dcterms:modified": "2025-04-08T13:22:21.515Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13129,7 +13130,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325115021400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:50:21.400Z",
-	"dcterms:modified": "2025-03-25T09:50:21.400Z",
+	"dcterms:modified": "2025-04-08T13:22:27.799Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19627,18 +19628,18 @@
                Williams</persName> <note>For comments on this letter, see also Letter 161.</note> died on
                Friday last, leaving a great estate behind him both in land and wealth: likewise <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697" ana="male">Sir
                Antonie Senligier</persName> that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne the
-               last weeke. <persName key="Robert Shirley" ref="http://www.wikidata.org/entity/Q1859875" ana="male">Master Robert Sherly</persName> with his <persName key="Teresia Sampsonia" ref="http://www.wikidata.org/entity/Q20685752">Persian Lady</persName> are shipt away homeward in a
+               last weeke. <persName key="Robert Shirley" ref="http://www.wikidata.org/entity/Q1859875" ana="male">Master Robert Sherly</persName> with his <persName key="Teresia Sampsonia" ref="http://www.wikidata.org/entity/Q20685752" ana="female">Persian Lady</persName> are shipt away homeward in a
                ship that goes for the <placeName key="East Indies" ref="http://www.wikidata.org/entity/Q213137">East Indies</placeName>, leaving theyre litle sonne behind and bequeathing
-               him to the care and favor of <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> his God mother: he hath stayed here well by yt
+               him to the care and favor of <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> his God mother: he hath stayed here well by yt
                to litle purpose, having no great reason to hast away, seeing he had allowance of
-               fowre pound a day of the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">King</persName> during his abode here. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is come home
+               fowre pound a day of the <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">King</persName> during his abode here. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072" ana="male">Sir Thomas Glover</persName> is come home
                from <placeName key="Constantinople" ref="http://www.wikidata.org/entity/Q16869">Constantinople</placeName>, contrarie to expectation, for his comportement was given out to
                be such there, that there was an opinion he durst not have shewed his face, but he
                makes offer to justifie himself in whatsoever can be laide to his charge. Here is a
                proclamation come foorth against pocket dagges: and order is gon into most shires to
                disarme the papists; what secret cause there may be I know not but the world growes
                suspicious and apprehends great daunger from them; and many rumors are raised as
-               namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449">earle of Huntington</persName> was slaine by them in his owne
+               namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449" ana="male">earle of Huntington</persName> was slaine by them in his owne
                house, wherupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwickshire" ref="http://www.wikidata.org/entity/Q67575123">Warwicke</placeName> they shut theyre gates, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and
                those parts the people made all manner of provision, as yf they looked presently to
                be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517">Lady of Shrewsburie</persName> that hath ben long in the <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">Towre</placeName>, and had the
