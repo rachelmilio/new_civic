@@ -15498,7 +15498,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325134626431",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:46:26.431Z",
-	"dcterms:modified": "2025-03-25T11:46:26.431Z",
+	"dcterms:modified": "2025-04-08T13:31:48.635Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15577,6 +15577,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401160442435",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:04:42.435Z",
+	"dcterms:modified": "2025-04-08T13:31:54.574Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15655,7 +15656,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325134713120",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:47:13.120Z",
-	"dcterms:modified": "2025-03-25T11:47:13.120Z",
+	"dcterms:modified": "2025-04-08T13:32:00.920Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15813,7 +15814,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325135032968",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:50:32.968Z",
-	"dcterms:modified": "2025-03-25T11:50:32.968Z",
+	"dcterms:modified": "2025-04-08T13:32:06.935Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15970,6 +15971,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401165112109",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:51:12.109Z",
+	"dcterms:modified": "2025-04-08T13:32:13.084Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16126,7 +16128,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325135805767",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:58:05.767Z",
-	"dcterms:modified": "2025-03-25T11:58:05.767Z",
+	"dcterms:modified": "2025-04-08T13:32:18.566Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19698,16 +19700,16 @@
                   daughter of Thomas Howard, first Earl of Suffolk, and wife of William Cecil,
                   second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="male">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName>
                and <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
-               all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">the Lord</persName> is very violent, and
-               gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName>, that he cannot have his will against law
-               and equitie. Yesternight the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> feasted all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex house</placeName>
-               where in regard of the goode entertainment he found with th <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, he
+               all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">the Lord</persName> is very violent, and
+               gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">the King</persName>, that he cannot have his will against law
+               and equitie. Yesternight the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince Palatin</persName> feasted all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex house</placeName>
+               where in regard of the goode entertainment he found with th <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">Lord Archbishop</persName>, he
                shewed more kindnes and caresses to him and his followers then to all the rest put
                together: so with the remembrance of my best service to my goode Lady I commend you
                and all yours to the protection of the Almighty. From London this <date when="1613-01-29">29th of January
                1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
          </div>
          <div>
             <head>163. TO ALICE CARLETON.</head>
@@ -19722,7 +19724,7 @@
                purpose then to exchaunge a few fine words and phrases, which I was never goode at,
                and cannot now begin: for I thincke you wold not have me expostulat her not writing
                to you, or begg a letter at her hands; but I remember in one of your last lettres you
-               gave me commission to speake to <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284">Master Waake</persName> to go to her, who indeed is more fit as
+               gave me commission to speake to <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName> to go to her, who indeed is more fit as
                comming lately from you, and beeing to go so shortly towards you. Yesterday there was
                a great meeting at <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Saviles</persName> about the conclusion of a match for <persName key="Elizabeth Savile" ref="http://www.wikidata.org/entity/Q76092735">Mistris
                Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
