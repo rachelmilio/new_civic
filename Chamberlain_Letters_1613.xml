@@ -18182,7 +18182,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151228751",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:12:28.751Z",
-	"dcterms:modified": "2025-03-25T13:12:28.751Z",
+	"dcterms:modified": "2025-04-08T13:35:20.880Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18261,6 +18261,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163443198",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:34:43.198Z",
+	"dcterms:modified": "2025-04-08T13:35:29.500Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18339,7 +18340,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151322598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:13:22.598Z",
-	"dcterms:modified": "2025-03-25T13:13:22.598Z",
+	"dcterms:modified": "2025-04-08T13:35:35.171Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18418,7 +18419,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151423470",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:14:23.470Z",
-	"dcterms:modified": "2025-03-25T13:14:23.470Z",
+	"dcterms:modified": "2025-04-08T13:35:41.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18497,7 +18498,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151458451",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:14:58.451Z",
-	"dcterms:modified": "2025-03-25T13:14:58.451Z",
+	"dcterms:modified": "2025-04-08T13:35:47.530Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18576,7 +18577,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151538560",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:15:38.560Z",
-	"dcterms:modified": "2025-03-25T13:15:38.560Z",
+	"dcterms:modified": "2025-04-08T13:35:53.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18655,7 +18656,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151707699",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:17:07.699Z",
-	"dcterms:modified": "2025-03-25T13:17:07.699Z",
+	"dcterms:modified": "2025-04-08T13:35:58.563Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19760,16 +19761,16 @@
                hath left him litle or nothing but his old armorie that he could not tell well what
                els to do withall, and is in no way worth twenty marke. He died on Thursday last
                between fowre and five in the afternoon having lien speachles and without knowing any
-               body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712">Master Hackwell</persName> a
-               younge lawier, <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> his overseers, and supravisors
-               over them the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName>, the <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>, to
+               body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712" ana="male">Master Hackwell</persName> a
+               younge lawier, <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Savile</persName> his overseers, and supravisors
+               over them the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">archbishop of Caunterburie</persName>, the <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342" ana="male">Lord Chauncellor</persName> and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName>, to
                each of these last bequeathing a cup of gold of the value of fifty pound, wheras to
                his brothers <note>His brothers, Sir Josias Bodley, military engineer in Ireland, and
                   Laurence Bodley, canon of Exeter, the four sons of his brother Miles, who died in
                   1594, and the children of his sisters, as well as his wife’s children by her first
                   husband, are all remembered in his will.</note> he hath left very litle, and to
                his brothers sonnes who are his heyres and must hold up his house and name scant any
-               thing. To <persName key="William Gent">Master Gent</persName> and <persName key="Thomas Allen" ref="http://www.wikidata.org/entity/Q3524856">Tom Allen</persName> like a couple of almesmen he hath left his best
+               thing. To <persName key="William Gent">Master Gent</persName> and <persName key="Thomas Allen" ref="http://www.wikidata.org/entity/Q3524856" ana="male">Tom Allen</persName> like a couple of almesmen he hath left his best
                and second gowne and his best and second cloke, but to cast a colour or shadow of
                somwhat upon Master Gent, he makes a clause that he forgeves him all he ought him,
                which Master Gent protests to be never a pennie, and hath much ado to withhold from
