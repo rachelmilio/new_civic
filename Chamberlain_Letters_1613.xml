@@ -19129,6 +19129,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401165123703",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:51:23.703Z",
+	"dcterms:modified": "2025-04-08T13:36:06.189Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19207,6 +19208,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163836893",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:38:36.893Z",
+	"dcterms:modified": "2025-04-08T13:36:14.109Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19793,8 +19795,8 @@
                is, nothing but vanitie and in that meditation I will leave and commit you to God.
                From <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName> this <date when="1613-02-04">4th of February 1612</date>.</p>
             <l>Yours most assuredly</l>
-            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To my assured goods frend Mistris Alice Carleton at the Lord Ambassadors at
+            <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <p>To my assured goods frend <persName>Mistris Alice Carleton</persName> at the Lord Ambassadors at
                Venice.</p>
          </div>
          <div>
