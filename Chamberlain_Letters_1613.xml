@@ -19788,12 +19788,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164344312#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[4]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q164062",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164431082",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-04-08T13:44:31.082Z",
+	"dcterms:modified": "2025-04-08T13:44:31.082Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164431082#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164431082#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[7]/p/persName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q71428",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -20365,8 +20444,8 @@
                diligence might well enough be spared. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> came home
                yesterday from the installation <note>Of <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Frederick, the Elector Palatine</persName>, and of
                   <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice of Nassau</persName> as Knights of the Garter.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName>, where the
-               Count Lodovic of Nassau supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> putting in his caveat
-               salvis consti- tutionibus Foederatarum Provinciarum, as likewise the Prince Palatin
+               <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428">Count Lodovic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> putting in his caveat
+               salvis constitutionibus Foederatarum Provinciarum, as likewise the Prince Palatin
                salvo jure Imperii. I heare our Lords made some difficultie to yeeld that Count
                Maurice shold skip over theyre heads and be placed next the Princes, but the case was
                overruled. The mariage drawes neere and all things are redy. On Sonday was theyre
