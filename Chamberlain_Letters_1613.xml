@@ -15103,7 +15103,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325124550381",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:45:50.381Z",
-	"dcterms:modified": "2025-03-25T10:45:50.381Z",
+	"dcterms:modified": "2025-04-08T13:31:04.379Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15182,7 +15182,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325124920535",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:49:20.535Z",
-	"dcterms:modified": "2025-03-25T10:49:20.535Z",
+	"dcterms:modified": "2025-04-08T13:31:11.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15261,7 +15261,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325125236152",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:52:36.152Z",
-	"dcterms:modified": "2025-03-25T10:52:36.152Z",
+	"dcterms:modified": "2025-04-08T13:31:18.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15340,7 +15340,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325130756347",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T11:07:56.347Z",
-	"dcterms:modified": "2025-03-25T11:07:56.347Z",
+	"dcterms:modified": "2025-04-08T13:31:24.531Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15419,6 +15419,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401161151836",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:11:51.836Z",
+	"dcterms:modified": "2025-04-08T13:31:30.080Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19680,7 +19681,7 @@
                was too litle for that worke. To say the truth I did never relie much upon his
                conscience, but I thought he had ben more reall and ingenious: I cannot learn that he
                hath geven any thing, no not a goode word, nor so much as named any old frend he hath
-               but Master Gent and <persName key="Thomas Allen" ref="http://www.wikidata.org/entity/Q3524856">Tom Allen</persName> <note>Thomas Allen, the mathematician.</note>, who like
+               but Master Gent and <persName key="Thomas Allen" ref="http://www.wikidata.org/entity/Q3524856" ana="male">Tom Allen</persName> <note>Thomas Allen, the mathematician.</note>, who like
                a couple of almesmen must have his best and second gowne, and his best and second
                cloke: but to cast a colour or shadow of somwhat upon Master Gent, he sayes that he
                forgeves him all he ought him which Master Gent protests to be never a pennie: I must
@@ -19693,10 +19694,10 @@
                forgotten: but his thoughts descended not so low as to such mean frends, but
                contrarie to the course of true naturall affection (which they say ever descends)
                mounted altogether aloft to flatter and currie favor with the higher powers now when
-               he was to have no more use of them. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483">Countesse of Salisburie</persName> <note>Katherine,
+               he was to have no more use of them. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="male">Countesse of Salisburie</persName> <note>Katherine,
                   daughter of Thomas Howard, first Earl of Suffolk, and wife of William Cecil,
-                  second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">Vicount Fenton</persName>
-               and <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
+                  second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="male">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName>
+               and <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
                all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163">the Lord</persName> is very violent, and
                gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName>, that he cannot have his will against law
                and equitie. Yesternight the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> feasted all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex house</placeName>
