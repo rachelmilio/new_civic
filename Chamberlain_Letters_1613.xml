@@ -11629,7 +11629,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318145644190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:56:44.190Z",
-	"dcterms:modified": "2025-03-18T12:56:44.190Z",
+	"dcterms:modified": "2025-04-08T13:21:18.365Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -11708,7 +11708,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318145705307",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:57:05.307Z",
-	"dcterms:modified": "2025-03-18T12:57:05.307Z",
+	"dcterms:modified": "2025-04-08T13:21:25.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12261,7 +12261,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318155614920",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T13:56:14.920Z",
-	"dcterms:modified": "2025-03-18T13:56:14.920Z",
+	"dcterms:modified": "2025-04-08T13:21:36.380Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12340,7 +12340,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318155633719",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T13:56:33.719Z",
-	"dcterms:modified": "2025-03-18T13:56:33.719Z",
+	"dcterms:modified": "2025-04-08T13:21:42.095Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12419,7 +12419,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318155806980",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T13:58:06.980Z",
-	"dcterms:modified": "2025-03-18T13:58:06.980Z",
+	"dcterms:modified": "2025-04-08T13:21:51.679Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19606,11 +19606,11 @@
                but are now as close at yt again as ever. Mary they still find defects for want of
                assistance in some busines: and indeed complaine that matters find not that redy
                dispatch that were to be wished, so that no doubt they will importune the King at his
-               return to resolve upon sombody. The day of the Kings departure hence <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q5536034">the Lord
+               return to resolve upon sombody. The day of the Kings departure hence <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q5536034" ana="male">the Lord
                Archbishop</persName> feasted the Palsgraves followers, which he tooke so kindly that when they
                were redy to sit downe, himself came, though he were neither in- vited nor expected:
                the entertainment was very great, and such as became both the giver and recever. The
-               <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517">earle of Arundell</persName> <note>Thomas Howard, second Earl of Arundel and Surrey.</note> is
+               <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517" ana="male">earle of Arundell</persName> <note>Thomas Howard, second Earl of Arundel and Surrey.</note> is
                returned out of <placeName key="Italy" ref="http://www.wikidata.org/entity/Q38">Italie</placeName>, so well satisfied that they say he hath animum revertendi and
                will thether again: though he had a very hard passage homeward, and was almost cast
                away twixt <placeName key="Calais" ref="http://www.wikidata.org/entity/Q6454">Callis</placeName> and <placeName key="Dover" ref="http://www.wikidata.org/entity/Q179224">Dover</placeName> and escaped narrowly. We have had the straungest winter
@@ -19623,11 +19623,11 @@
                <placeName key="London" ref="http://www.wikidata.org/entity/Q84">London</placeName>) especially at a place in <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> called <placeName key="Chart Sutton" ref="http://www.wikidata.org/entity/Q2465206">Chart</placeName>, where in the Christmas holy-dayes
                the people beeing at church, there were 35 blasted with lightning wherof the minister
                in the pulpit was one, though they be all since recovered, saving a miller that was
-               stroke dead in the place, and one more that died sixe or seven dayes after. <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140">Judge
+               stroke dead in the place, and one more that died sixe or seven dayes after. <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140" ana="male">Judge
                Williams</persName> <note>For comments on this letter, see also Letter 161.</note> died on
-               Friday last, leaving a great estate behind him both in land and wealth: likewise <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697">Sir
+               Friday last, leaving a great estate behind him both in land and wealth: likewise <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697" ana="male">Sir
                Antonie Senligier</persName> that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne the
-               last weeke. <persName key="Robert Shirley" ref="http://www.wikidata.org/entity/Q1859875">Master Robert Sherly</persName> with his <persName key="Teresia Sampsonia" ref="http://www.wikidata.org/entity/Q20685752">Persian Lady</persName> are shipt away homeward in a
+               last weeke. <persName key="Robert Shirley" ref="http://www.wikidata.org/entity/Q1859875" ana="male">Master Robert Sherly</persName> with his <persName key="Teresia Sampsonia" ref="http://www.wikidata.org/entity/Q20685752">Persian Lady</persName> are shipt away homeward in a
                ship that goes for the <placeName key="East Indies" ref="http://www.wikidata.org/entity/Q213137">East Indies</placeName>, leaving theyre litle sonne behind and bequeathing
                him to the care and favor of <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> his God mother: he hath stayed here well by yt
                to litle purpose, having no great reason to hast away, seeing he had allowance of
