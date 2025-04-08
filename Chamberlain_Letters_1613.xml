@@ -13525,7 +13525,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325115608780",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:56:08.780Z",
-	"dcterms:modified": "2025-03-25T09:56:08.780Z",
+	"dcterms:modified": "2025-04-08T13:22:37.086Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13683,7 +13683,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325120054110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:00:54.110Z",
-	"dcterms:modified": "2025-03-25T10:00:54.110Z",
+	"dcterms:modified": "2025-04-08T13:22:43.398Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13762,7 +13762,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325120543227",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:05:43.227Z",
-	"dcterms:modified": "2025-03-25T10:05:43.227Z",
+	"dcterms:modified": "2025-04-08T13:22:49.249Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13841,7 +13841,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325120558495",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:05:58.495Z",
-	"dcterms:modified": "2025-03-25T10:05:58.495Z",
+	"dcterms:modified": "2025-04-08T13:22:57.492Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14155,7 +14155,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325120923479",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:09:23.479Z",
-	"dcterms:modified": "2025-03-25T10:09:23.479Z",
+	"dcterms:modified": "2025-04-08T13:23:05.635Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19642,13 +19642,13 @@
                namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449" ana="male">earle of Huntington</persName> was slaine by them in his owne
                house, wherupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwickshire" ref="http://www.wikidata.org/entity/Q67575123">Warwicke</placeName> they shut theyre gates, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and
                those parts the people made all manner of provision, as yf they looked presently to
-               be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517">Lady of Shrewsburie</persName> that hath ben long in the <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">Towre</placeName>, and had the
-               libertie of the place, and somtimes to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230">her Lord</persName> in his sicknes, is now of late
+               be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517" ana="female">Lady of Shrewsburie</persName> that hath ben long in the <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">Towre</placeName>, and had the
+               libertie of the place, and somtimes to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230" ana="male">her Lord</persName> in his sicknes, is now of late
                restrained and kept more close, upon somwhat discovered against her (as they say) by
-               her niece the <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074">Lady Arbella</persName>. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> goes to be installed at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName> <date when="1613-02-07">the
+               her niece the <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074" ana="female">Lady Arbella</persName>. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince Palatin</persName> goes to be installed at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName> <date when="1613-02-07">the
                seventh of the next moneth</date>, and great preparations here are of braverie, maskes, and
                fire-workes against the mariage: the opinion is now that they shall go away both
-               together before <date when="1613-04-23">St. Georges day</date>. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName> is come to the last cast, and
+               together before <date when="1613-04-23">St. Georges day</date>. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName> is come to the last cast, and
                surely I thincke he cannot last many dayes, yet he bestirres himself in busines and
                bargaines as yf there were no such matter; and relies upon phisicke as much as when
                he first fell sicke, having run over all the best phisicians of this towne, and is
