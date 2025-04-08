@@ -17629,7 +17629,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325145822058",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:58:22.058Z",
-	"dcterms:modified": "2025-03-25T12:58:22.058Z",
+	"dcterms:modified": "2025-04-08T13:34:40.594Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17708,7 +17708,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325150558076",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:05:58.076Z",
-	"dcterms:modified": "2025-03-25T13:05:58.076Z",
+	"dcterms:modified": "2025-04-08T13:34:48.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17866,6 +17866,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401160517789",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:05:17.789Z",
+	"dcterms:modified": "2025-04-08T13:34:59.012Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17944,6 +17945,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163436344",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:34:36.344Z",
+	"dcterms:modified": "2025-04-08T13:35:04.548Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18022,7 +18024,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151054311",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:10:54.311Z",
-	"dcterms:modified": "2025-03-25T13:10:54.311Z",
+	"dcterms:modified": "2025-04-08T13:35:10.059Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18101,7 +18103,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325151156419",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:11:56.419Z",
-	"dcterms:modified": "2025-03-25T13:11:56.419Z",
+	"dcterms:modified": "2025-04-08T13:35:14.755Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19744,21 +19746,21 @@
                his comming into <persName key="Kingdom of England" ref="http://www.wikidata.org/entity/Q179876">England</persName>. On Sonday last and on Candlemas day he and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">his Lady</persName> were
                solemnly asked openly in the chappell by <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931" ana="male">the bishop of Bath and Wells</persName> <note>James
                   Montagu.</note>, and the next Sonday is the last time of asking. <span ana="waterfight">Here is extraordinarie preparation for fireworkes and fights upon the water, with three Castles built upon eight westem barges, and one great castle upon the land over against the court. One or two of the Kings pinnesses are come already from <placeName key="Rochester" ref="http://www.wikidata.org/entity/Q507517">Rochester</placeName> and divers other vessells to the number of sixe and thirty are provided some like gallies, some galleasses, and some like carraques and other ships of warre, and above five hundred watermen alredy pressed, and a thousand musketters of the trained bande in the shires hereabout made redy for this service, which in all computation cannot stand the King in so litle as five thousand pound.</span> On Tewsday I tooke occasion
-               to go to court because I had never seen the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palsgrave</persName>, nor the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName> (neere
+               to go to court because I had never seen the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palsgrave</persName>, nor the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName> (neere
                hand) of a long time: I had my full view of them both, but will not tell you all I
                thincke, but only this, that he owes his mistres nothing yf he were a Kings sonne as
                she is a Kings daughter. The worst is mee thincks he is much too young and small
-               timbred to undertake such a taske. The <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> at the receving of the garter in
+               timbred to undertake such a taske. The <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count Maurice</persName> at the receving of the garter in
                the <placeName key="Low Countries" ref="http://www.wikidata.org/entity/Q476033">Lowe Countries</placeName> shewed himself very bountifull, and gave great rewards to the king
-               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">your brother</persName> may understand from <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">Sir Rafe
+               of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">your brother</persName> may understand from <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe
                Winwod</persName>, though yt may be he will not certifie that himself had a cup of gold for a
                present worth five hundred pound: he hath ben very fortunat for such wind-falls
-               though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodley</persName>, where there was more reason
+               though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName>, where there was more reason
                to expect yt: for dieng in his house (which he bought of him above a yeare since,) he
                hath left him litle or nothing but his old armorie that he could not tell well what
                els to do withall, and is in no way worth twenty marke. He died on Thursday last
                between fowre and five in the afternoon having lien speachles and without knowing any
-               body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712">Master Hackwell</persName> a
+               body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712">Master Hackwell</persName> a
                younge lawier, <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> his overseers, and supravisors
                over them the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName>, the <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>, to
                each of these last bequeathing a cup of gold of the value of fifty pound, wheras to
