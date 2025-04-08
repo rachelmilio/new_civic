@@ -9424,7 +9424,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142016481",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:20:16.481Z",
-	"dcterms:modified": "2025-03-18T12:20:16.481Z",
+	"dcterms:modified": "2025-04-08T13:19:07.545Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9503,7 +9503,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142050374",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:20:50.374Z",
-	"dcterms:modified": "2025-03-18T12:20:50.374Z",
+	"dcterms:modified": "2025-04-08T13:19:18.105Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9582,6 +9582,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163754710",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:37:54.710Z",
+	"dcterms:modified": "2025-04-08T13:19:24.202Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9660,7 +9661,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318142824093",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:28:24.093Z",
-	"dcterms:modified": "2025-03-18T12:28:24.093Z",
+	"dcterms:modified": "2025-04-08T13:19:32.992Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13197,7 +13198,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325115042871",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:50:42.871Z",
-	"dcterms:modified": "2025-03-25T09:50:42.871Z",
+	"dcterms:modified": "2025-04-08T13:19:39.217Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19535,16 +19536,16 @@
                shall see quel pli les choses prendront. The world hath still a goode opinion of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">our
                frend</persName> <note>Sir Ralph Winwood, ambassador at The Hague.</note> at <placeName key="The Hague" ref="http://www.wikidata.org/entity/Q36600">the Haghe</placeName>, and
                great briguing <note>Intriguing, contending.</note> ther is for his place, (as I
-               heare,) both by <persName key="Dudley Digges" ref="http://www.wikidata.org/entity/Q21296941" ana="male">Sir Dudley Diggs</persName> and <persName key="Robert Naunton" ref="http://www.wikidata.org/entity/Q15527976">Master Nanton</persName> <note>Robert Naunton.</note> but
-               specially by <persName key="John Ogle" ref="http://www.wikidata.org/entity/Q18673938">Colonell Ogle</persName> <note>Sir John Ogle.</note> who offers therupon to resigne
-               his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd">Lord of
-               Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072">Sir Thomas Glover</persName> is
+               heare,) both by <persName key="Dudley Digges" ref="http://www.wikidata.org/entity/Q21296941" ana="male">Sir Dudley Diggs</persName> and <persName key="Robert Naunton" ref="http://www.wikidata.org/entity/Q15527976" ana="male">Master Nanton</persName> <note>Robert Naunton.</note> but
+               specially by <persName key="John Ogle" ref="http://www.wikidata.org/entity/Q18673938" ana="male">Colonell Ogle</persName> <note>Sir John Ogle.</note> who offers therupon to resigne
+               his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd" ana="male">Lord of
+               Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072" ana="male">Sir Thomas Glover</persName> is
                arrived <note>From Constantinople.</note> and shewes his face offering to justify and
                cleere himself of whatsoever can be layde to his charge. Here is a proclamation come
                foorth against pocket dagges <note>Pistols. (S. T. C., 8181.)</note>, and order is
                gon into most shires to disarme the papists; what secret cause there may be I know
                not, but the world here growes suspicious and apprehends great daunger from them, and
-               many rumours are raised, as namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449">earle of Huntington</persName> was
+               many rumours are raised, as namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449" ana="male">earle of Huntington</persName> was
                slaine by them in his owne house; whereupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwick" ref="http://www.wikidata.org/entity/Q549761">Warwicke</placeName> they shut
                theyre gates and mustered theyre souldiers, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and those parts the
                people made barricados and all other manner of provision, as yf they looked presently
