@@ -10608,6 +10608,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144641144",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:46:41.144Z",
+	"dcterms:modified": "2025-04-08T13:20:34.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10920,6 +10921,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250318144847605",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:48:47.605Z",
+	"dcterms:modified": "2025-04-08T13:20:44.407Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -11154,6 +11156,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401155328502",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T12:53:28.502Z",
+	"dcterms:modified": "2025-04-08T13:20:51.882Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -11468,6 +11471,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401160420334",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:04:20.334Z",
+	"dcterms:modified": "2025-04-08T13:21:00.283Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19569,17 +19573,17 @@
                since yesterday at noone. God comfort him and send him a good passage. Our marchants
                have dayly many losses, and now lately, there was a ship of 300 tunne cast away in
                the river of Hamborough laden with goods to the value of 80000 li, and now the last
-               weeke a ship bound for the straights suncke between this and <placeName key="Gravesend" ref="http://www.wikidata.org/entity/Q676689">Gravesend</placeName>. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince
+               weeke a ship bound for the straights suncke between this and <placeName key="Gravesend" ref="http://www.wikidata.org/entity/Q676689">Gravesend</placeName>. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince
                Palatin</persName> goes to be installed <note>As Knight of the Garter.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName> <date when="1613-02-07">the
                seventh of the next moneth</date>, and great preparations here are of braverie, maskes, and
                fireworkes against the mariage <note>Of Frederick, the Elector Palatine, and the
                   Princess Elizabeth.</note>: the opinion is now that they shall go away both
                together before the end of April. This night he feasts all the counsaile at <placeName key="Essex House" ref="http://www.wikidata.org/entity/Q3733299">Essex
-               House</placeName>. So with all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532">my Lady</persName> and Mistris Carleton I commend you to
+               House</placeName>. So with all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532" ana="female">my Lady</persName> and Mistris Carleton I commend you to
                the protection of the Almighty. From London this <date when="1613-01-28">28th of January 1612</date>.</p>
             <l>Your Lordships to command</l>
             <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
+            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
                <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">Venice</placeName>.</p>
          </div>
          <div>
@@ -19595,7 +19599,7 @@
                meane not to mend yt, but still devise new phrases and tricks and excusandas
                excusationes. Yet still I kepe mine old course, and send them those ordinarie
                occurrents that come in my way, which though they be poore and sleight, yet are not
-               unwelcome to them that seldome are otherwise better provided. We heare <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541">the King</persName> is
+               unwelcome to them that seldome are otherwise better provided. We heare <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">the King</persName> is
                still at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> somwhat troubled with an humor in his great toe which must not yet
                be christned or called the gowte. Presently upon his going the counsaile tooke theyre
                severall wayes, and gave themselves some libertie of recreation for a whole weeke,
