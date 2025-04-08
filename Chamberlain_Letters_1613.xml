@@ -16602,7 +16602,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141407361",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:14:07.361Z",
-	"dcterms:modified": "2025-04-08T13:33:16.962Z",
+	"dcterms:modified": "2025-04-08T13:33:22.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16681,6 +16681,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401161240022",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:12:40.022Z",
+	"dcterms:modified": "2025-04-08T13:33:29.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16759,7 +16760,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325141737528",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:17:37.528Z",
-	"dcterms:modified": "2025-03-25T12:17:37.528Z",
+	"dcterms:modified": "2025-04-08T13:33:35.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16838,7 +16839,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325142336409",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:23:36.409Z",
-	"dcterms:modified": "2025-03-25T12:23:36.409Z",
+	"dcterms:modified": "2025-04-08T13:33:42.492Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16917,7 +16918,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325142433296",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:24:33.296Z",
-	"dcterms:modified": "2025-03-25T12:24:33.296Z",
+	"dcterms:modified": "2025-04-08T13:33:54.355Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19730,11 +19731,11 @@
                Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
                   Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his
                   wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737" ana="male">the
-               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="male">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870">Sir Henry Nevile</persName>
-               was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699">Sir John Lewson</persName> but what passed I have not yet heard. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235">The Lady
+               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="female">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Nevile</persName>
+               was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699" ana="male">Sir John Lewson</persName> but what passed I have not yet heard. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235" ana="female">The Lady
                Haddingdon</persName> <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and
                   wife of John Ramsay, Viscount Haddington.</note> was forward with child and
-               miscaried the last weeke. About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483">Countesse of Salisburie</persName>
+               miscaried the last weeke. About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
                   <note>For notes on this letter, see also Letter 162.</note> was brought abed of a
                <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName>, and <span>lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds</span>.
                <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">The Prince Palatin</persName> feasted all the counsaile the last weeke, and carried himself with
