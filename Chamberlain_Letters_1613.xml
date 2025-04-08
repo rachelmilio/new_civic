@@ -16997,7 +16997,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325142513454",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:25:13.454Z",
-	"dcterms:modified": "2025-03-25T12:25:13.454Z",
+	"dcterms:modified": "2025-04-08T13:34:02.817Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17076,7 +17076,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325142620463",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:26:20.463Z",
-	"dcterms:modified": "2025-03-25T12:26:20.463Z",
+	"dcterms:modified": "2025-04-08T13:34:08.719Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17155,7 +17155,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143229883",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:32:29.883Z",
-	"dcterms:modified": "2025-03-25T12:32:29.883Z",
+	"dcterms:modified": "2025-04-08T13:34:13.625Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17313,7 +17313,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143314612",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:33:14.612Z",
-	"dcterms:modified": "2025-03-25T12:33:14.612Z",
+	"dcterms:modified": "2025-04-08T13:34:19.220Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17392,7 +17392,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143408102",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:34:08.102Z",
-	"dcterms:modified": "2025-03-25T12:34:08.102Z",
+	"dcterms:modified": "2025-04-08T13:34:26.516Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17550,7 +17550,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325144136208",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:41:36.208Z",
-	"dcterms:modified": "2025-03-25T12:41:36.208Z",
+	"dcterms:modified": "2025-04-08T13:34:33.477Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19737,14 +19737,14 @@
                   wife of John Ramsay, Viscount Haddington.</note> was forward with child and
                miscaried the last weeke. About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
                   <note>For notes on this letter, see also Letter 162.</note> was brought abed of a
-               <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName>, and <span>lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds</span>.
-               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">The Prince Palatin</persName> feasted all the counsaile the last weeke, and carried himself with
-               great commendation, but specially he respected <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">the archbishop</persName> and his followers above
+               <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName>, and <span>lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds</span>.
+               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">The Prince Palatin</persName> feasted all the counsaile the last weeke, and carried himself with
+               great commendation, but specially he respected <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">the archbishop</persName> and his followers above
                all the rest, as having receved only at his hands entertainment and kind usage since
-               his comming into <persName key="Kingdom of England" ref="http://www.wikidata.org/entity/Q179876">England</persName>. On Sonday last and on Candlemas day he and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">his Lady</persName> were
-               solemnly asked openly in the chappell by <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931">the bishop of Bath and Wells</persName> <note>James
+               his comming into <persName key="Kingdom of England" ref="http://www.wikidata.org/entity/Q179876">England</persName>. On Sonday last and on Candlemas day he and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">his Lady</persName> were
+               solemnly asked openly in the chappell by <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931" ana="male">the bishop of Bath and Wells</persName> <note>James
                   Montagu.</note>, and the next Sonday is the last time of asking. <span ana="waterfight">Here is extraordinarie preparation for fireworkes and fights upon the water, with three Castles built upon eight westem barges, and one great castle upon the land over against the court. One or two of the Kings pinnesses are come already from <placeName key="Rochester" ref="http://www.wikidata.org/entity/Q507517">Rochester</placeName> and divers other vessells to the number of sixe and thirty are provided some like gallies, some galleasses, and some like carraques and other ships of warre, and above five hundred watermen alredy pressed, and a thousand musketters of the trained bande in the shires hereabout made redy for this service, which in all computation cannot stand the King in so litle as five thousand pound.</span> On Tewsday I tooke occasion
-               to go to court because I had never seen the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName>, nor the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName> (neere
+               to go to court because I had never seen the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palsgrave</persName>, nor the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName> (neere
                hand) of a long time: I had my full view of them both, but will not tell you all I
                thincke, but only this, that he owes his mistres nothing yf he were a Kings sonne as
                she is a Kings daughter. The worst is mee thincks he is much too young and small
