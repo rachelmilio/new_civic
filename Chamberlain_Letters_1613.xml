@@ -14708,7 +14708,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123628199",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:36:28.199Z",
-	"dcterms:modified": "2025-03-25T10:36:28.199Z",
+	"dcterms:modified": "2025-04-08T13:23:48.731Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14866,7 +14866,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123752742",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:37:52.742Z",
-	"dcterms:modified": "2025-03-25T10:37:52.742Z",
+	"dcterms:modified": "2025-04-08T13:23:54.691Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -14945,7 +14945,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123837732",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:38:37.732Z",
-	"dcterms:modified": "2025-03-25T10:38:37.732Z",
+	"dcterms:modified": "2025-04-08T13:23:59.790Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15024,7 +15024,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325123855347",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T10:38:55.347Z",
-	"dcterms:modified": "2025-03-25T10:38:55.347Z",
+	"dcterms:modified": "2025-04-08T13:24:06.281Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19667,8 +19667,8 @@
                   <note>William Hakewill, a kinsman of Sir Thomas Bodley.</note> his executors
                opened the will <note>Printed in full in W. D. Macray, Annals of the Bodleian
                   Library, ed. 1890, pp. 202-418.</note>, a copie wherof no doubt shalbe sent you,
-               for he hath nominated <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">Lord Archbishop</persName>, the
-               <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342">Lord Chauncellor</persName> <note>Thomas Egerton, Lord Ellesmere.</note>, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName>
+               for he hath nominated <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">you</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Savile</persName> overseers and the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">Lord Archbishop</persName>, the
+               <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342" ana="male">Lord Chauncellor</persName> <note>Thomas Egerton, Lord Ellesmere.</note>, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName>
                   <note>Sir Edward Coke.</note> supravisors and for theyre paines bequeathed them
                cuppes of gold of the value of 50 li a peece. <persName key="William Gent">Master Gent</persName> <note>William Gent.</note>
                came to me this morning as yt were to bemoan himself of the litle regard hath ben had
