@@ -20333,7 +20333,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511142757120#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[10]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -20932,7 +20932,7 @@
                part English toward nineteen or twenty. The time of his and her departure hence is
                already prefixed to be about Thursday in Easter weeke, that falles to be the <date when="1613-04-08">8th of
                Aprill</date>. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> at his beeing at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> made seven or eight knights wherof <persName key="Humphrey May" ref="http://www.wikidata.org/entity/Q5941521">Sir
-               Humfry May</persName> was the leader, Sir Robert Wingfeld (that lately maried a daughter of <persName key="Roger Aston" ref="http://www.wikidata.org/entity/Q16203797">Sir
+               Humfry May</persName> was the leader, <persName>Sir Robert Wingfeld</persName> (that lately maried a daughter of <persName key="Roger Aston" ref="http://www.wikidata.org/entity/Q16203797">Sir
                Roger Ashtons</persName>), Sir Olave Lee, Sir... Undrill <note>Sir Edward Underhill.</note> late
                proctor of Oxford, Sir... Clopton, Sir... Wild <note>Sir Edmund Wyld.</note> and I
                know not who els. The Lady Haddington <note>Cf. Letter 163.</note> was forward with
