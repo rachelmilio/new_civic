@@ -23271,6 +23271,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511153839565",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-11T12:38:39.565Z",
+	"dcterms:modified": "2025-05-11T12:38:39.565Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511153839565#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511153839565#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[8]/p/persName[12]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q5941521",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154102420",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-11T12:41:02.420Z",
+	"dcterms:modified": "2025-05-11T12:41:02.420Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154102420#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154102420#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[8]/p/persName[14]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q16203797",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -23927,8 +24085,8 @@
                women are for the most part English toward nineteen or twenty. The time of his and
                her departure hence is already prefixed to be about Thursday in Easterweeke which
                falls out to be the <date when="1613-04-08">eighth of Aprill</date>. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">The King</persName> at his beeing at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> made seven
-               or eight knights, wherof Sir Humfry May was leder, the rest Sir Robert Wingfeld,
-               (that lately maried a daughter of Sir Roger Ashtons) Sir Olave Lee, Sir Ed: Undrill
+               or eight knights, wherof <persName key="Humphrey May" ref="http://www.wikidata.org/entity/Q5941521">Sir Humfry May</persName> was leder, the rest <persName key="Robert Wingfield">Sir Robert Wingfeld</persName>,
+               (that lately maried a daughter of <persName key="Roger Aston" ref="http://www.wikidata.org/entity/Q16203797">Sir Roger Ashtons</persName>) Sir Olave Lee, Sir Ed: Undrill
                of Hamshire (that was the late proctor of Oxford and the last yeare buried his father
                and two elder brethren) Sir... Clopton, Sir... Wild and I know not who els. We have
                many devises on foote to find monie and among the rest they speake of a benevolence,
