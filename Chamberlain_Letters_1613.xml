@@ -24848,6 +24848,163 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511160554153",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-11T13:05:54.153Z",
+	"dcterms:modified": "2025-05-11T13:05:54.153Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511160554153#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511160554153#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/span[2]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q79972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250511160623621",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-11T13:06:23.621Z",
+	"dcterms:modified": "2025-05-11T13:06:23.621Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250511160623621#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250511160623621#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1613-02-14"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -25535,8 +25692,8 @@
                discourse of all that passed at this wedding <note>Of the Princess Elizabeth and
                   Frederick, Elector Palatine, which took place on February 14.</note>, yet because
                this is like to arrive there before him, I will geve you a litle touch or taste of
-               that, wherof you may receive from him full and complete satisfaction. <span ana="fireworks">On <date when="1613-02-11">Thursday night</date> the fireworks were reasonablie well performed all save the last castle (of five) which bred most expectation and had most devises, but when yt came to execution, had worst successe.</span> <span ana="sea_fight">On <date when="1613-02-13">Saterday</date> likewise the fight upon the water came short of that shew and bragges had ben made of yt, but they pretend the best to be behind and left for another day, which was the winning of the castle on land: but the King and indeed all the compare tooke so litle delight to see no other activitie but shooting and potting of gunnes that yt is quite geven over and the navie unrigged and the castle pulled downe, the rather for that there were divers hurt in the former fight, (as one lost both his eyes, another both his hands, another one hande, with divers others maymed and hurt) so that to avoyde further harme, yt was thought best to let yt alone, and this is the conclusion of all the preparation with so much expence of powder and monie which amounted to no lesse then nine thousand pound.</span> On
-               Sonday I was fetcht from Sowles (where l was set at the sermon) to see the bridge go
+               that, wherof you may receive from him full and complete satisfaction. <span ana="fireworks">On <date when="1613-02-11">Thursday night</date> the fireworks were reasonablie well performed all save the last castle (of five) which bred most expectation and had most devises, but when yt came to execution, had worst successe.</span> <span ana="sea_fight">On <date when="1613-02-13">Saterday</date> likewise the fight upon the water came short of that shew and bragges had ben made of yt, but they pretend the best to be behind and left for another day, which was the winning of the castle on land: but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> and indeed all the compare tooke so litle delight to see no other activitie but shooting and potting of gunnes that yt is quite geven over and the navie unrigged and the castle pulled downe, the rather for that there were divers hurt in the former fight, (as one lost both his eyes, another both his hands, another one hande, with divers others maymed and hurt) so that to avoyde further harme, yt was thought best to let yt alone, and this is the conclusion of all the preparation with so much expence of powder and monie which amounted to no lesse then nine thousand pound.</span> On
+               <date when="1613-02-14">Sonday</date> I was fetcht from Powles (where l was set at the sermon) to see the bride go
                to church, and though yt were past ten a clocke before we came there yet we found a
                whole window reserved in the jewell-house, which was over against her comming downe a
                payre stayres out of the gallerie in the preaching-place to a long stage or gallerie
