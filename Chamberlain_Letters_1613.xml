@@ -22798,6 +22798,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511152721668",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-11T12:27:21.668Z",
+	"dcterms:modified": "2025-05-11T12:27:21.668Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511152721668#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511152721668#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[8]/p/placeName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q215530",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -23443,13 +23522,9 @@
                but by reason of contrarie weather he arrived not till yesternight. The mariage
                drawes neere and all thinges are redy. On Sonday was theyre last time of asking
                opening in the chappell: the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> growes every day more favorable, and there is hope
-               she will grace yt with her presence. Here is a band of 500 musketters made redy by
-               the citie to gard the court during these triumphs, and we have extraordinarie watches
-               of substantiall housholders every night, and an alderman in person to oversee them.
-               Many searches are made, and much listening there is, which geves occasion to suspect
-               that there is intelligence of some intended treacherie. Order is gon out likewise for
+               she will grace yt with her presence. <span ana="national_security">Here is a band of 500 musketters made redy by the citie to gard the court during these triumphs, and we have extraordinarie watches of substantiall housholders every night, and an alderman in person to oversee them. Many searches are made, and much listening there is, which geves occasion to suspect that there is intelligence of some intended treacherie.</span> Order is gon out likewise for
                generall musters through out all England to be finished by the end of March, and
-               there is almost a confirmed opinion that we are to looke for troubles in Ireland. The
+               there is almost a confirmed opinion that we are to looke for troubles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName>. The
                preparations for fire workes and fights upon the water are very great, and have
                already consumed 6000 li which a man wold easilie beleve that sees the provision of
                sixe and thirty sayle of great pinesses, galeasses, carraques with great store of
