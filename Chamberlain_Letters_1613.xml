@@ -29033,6 +29033,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-12T14:00:29.678Z",
+	"dcterms:modified": "2025-05-12T14:00:29.678Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName[5]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7327659",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -29744,7 +29823,7 @@ presented in the hall at court, wheras the Lords was in the <placeName key="Banq
 <note>In Chancery Lane.</note>
 all up <placeName key="Fleet Street" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName> and <placeName key="Strand" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, and made such a gallant and glorious shew that yt is highly commended. They had forty gentlemen of best choise out of both houses rode before them in theyre best array, upon the Kings horses: and the twelve maskers with theyre torch-bearers and pages rode likewise upon horses excedingly well trapped and furnished: besides a dousen litle boyes, dresst like babones that served for an antimaske, (and they say performed yt exceedingly well when they came to yt), and three open chariots drawne with fowre horses a peece that caried theyre musicians, and other personages that had parts to speake: all which together with theyre trumpetters and other attendants were so well set out, that yt is generally held for the best shew that hath ben seen many a day. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">The Kinge</persName> stood in the gallerie to behold them and made them ride about the tilt-yard, and then were receved into <placeName key="St James's Park" ref="http://www.wikidata.org/entity/Q216914">St. James Parke</placeName> and went all along the galleries into the hall, where themselves and their devises (which they say were excellent) made such a glittering shew that <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> and all the companie were excedingly pleased, and especially with theyre dauncing, which was beyond all that hath ben yet. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">The King</persName> made the maskers kisse his hand at parting, and gave them many thanckes, sayeng he never saw so many proper men together, and himself accompanied them at the banket, and tooke care yt shold be well ordered, and speakes much of them behind their backes, and strokes the <persName key="Edward Phelips" ref="http://www.wikidata.org/entity/Q5344847">master of the rolles</persName>
 <note>Sir Edward Phelips.</note>
-and Dick Martin
+and <persName key="Richard Martin" ref="http://www.wikidata.org/entity/Q7327659">Dick Martin</persName>
 <note>Richard Martin of the Middle Temple.</note>
 who were the cheife dooers and undertakers.</span> On Tewsday yt
                came to Grayes Ynne and the Inner Temples turne to come with theyre maske, wherof Sir
