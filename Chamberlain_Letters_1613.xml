@@ -27121,7 +27121,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512154939143#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[9]/p/persName[4]"
+			"rdf:value": "TEI/text/body/div[9]/p/span[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -27200,12 +27200,91 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512154953656#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[9]/p/persName[5]"
+			"rdf:value": "TEI/text/body/div[9]/p/span[5]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
 		"@id": "http://www.wikidata.org/entity/Q81506",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155011911",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-12T12:50:11.911Z",
+	"dcterms:modified": "2025-05-12T12:50:11.911Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155011911#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155011911#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/span[5]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q57195",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -27910,13 +27989,7 @@
 <note>By Thomas Campion. It is printed with A relation of the late royall entertainment given by the Lord Knowles. (S. T. C., 4545; Chambers, iii, 241-244.</note>
 wherof I heare no great commendation save only for riches, theyre devises beeing long and tedious and more like a play then a maske.</span> The next morning <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> went to visit these young turtles that were coupled
                on St. Valentines day, and did strictly examine him whether he were his true sonne in
-               law, and was sufficiently assured. That afternoone the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, Count Palatin
-               with divers others ran at the ring, and when that was ended, and the King and Prince
-               gon, the Palsgrave mounted upon a high bounding horse, which he managed so like a
-               horsman, that he was excedingly commended and had many showts and acclamations of the
-               beholders, and indeed I never saw any of his age come neere him in that exercise. Yt
-               were long and tedious to tell you all the particularities of the excessive braverie
-               both of men and women, but you may conceive the rest by one or two. The Lady Wotton
+               law, and was sufficiently assured. <span ana="running_at_the_ring">That afternoone the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> with divers others ran at the ring, and when that was ended, and the King and Prince gon, the Palsgrave mounted upon a high bounding horse, which he managed so like a horsman, that he was excedingly commended and had many showts and acclamations of the beholders, and indeed I never saw any of his age come neere him in that exercise. Yt were long and tedious to tell you all the particularities of the excessive braverie both of men and women, but you may conceive the rest by one or two.</span> The Lady Wotton
                   <note>Margaret, daughter of Philip, third Lord Wharton, and the second wife of
                   Edward, first Lord Wotton of Marley.</note> had a gowne that cost fifty pound a
                yard the embrodering. I heare the earle of Northumberlands daughter <note>Henry
