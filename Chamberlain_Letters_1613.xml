@@ -28480,6 +28480,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162417193",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-12T13:24:17.193Z",
+	"dcterms:modified": "2025-05-12T13:24:17.193Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162417193#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162417193#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/span[6]/placeName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q846686",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162428847",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-12T13:24:28.847Z",
+	"dcterms:modified": "2025-05-12T13:24:28.847Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162428847#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250512162428847#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/span[6]/placeName[4]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q756819",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -29189,7 +29347,7 @@ wherof I heare no great commendation save only for riches, theyre devises beeing
 <note>By George Chapman. (S. T. C., 4981, 4982; Chambers, ii, 260-262. )</note>
 presented in the hall at court, wheras the Lords was in the <placeName key="Banqueting House" ref="http://www.wikidata.org/entity/Q642039">bancketting roome</placeName>. Yt went from <placeName key="Domus Conversorum" ref="http://www.wikidata.org/entity/Q4583335">the Rolles</placeName>
 <note>In Chancery Lane.</note>
-all up Fleet-street and the Strand, and made such a gallant and glorious shew that yt is highly commended. They had forty gentlemen of best choise out of both houses rode before them in theyre best array, upon the Kings horses: and the twelve maskers with theyre torch-bearers and pages rode likewise upon horses excedingly well trapped and furnished: besides a dousen litle boyes, dresst like babones that served for an antimaske, (and they say performed yt exceedingly well when they came to yt), and three open chariots drawne with fowre horses a peece that caried theyre musicians, and other personages that had parts to speake: all which together with theyre trumpetters and other attendants were so well set out, that yt is generally held for the best shew that hath ben seen many a day. The Kinge stood in the gallerie to behold them and made them ride about the tilt-yard, and then were receved into St. James Parke and went all along the galleries into the hall, where themselves and their devises (which they say were excellent) made such a glittering shew that the King and all the companie were excedingly pleased, and especially with theyre dauncing, which was beyond all that hath ben yet. The King made the maskers kisse his hand at parting, and gave them many thanckes, sayeng he never saw so many proper men together, and himself accompanied them at the banket, and tooke care yt shold be well ordered, and speakes much of them behind their backes, and strokes the master of the rolles
+all up <placeName key="Fleet Street" ref="http://www.wikidata.org/entity/Q846686">Fleet-street</placeName> and <placeName key="Strand" ref="http://www.wikidata.org/entity/Q756819">the Strand</placeName>, and made such a gallant and glorious shew that yt is highly commended. They had forty gentlemen of best choise out of both houses rode before them in theyre best array, upon the Kings horses: and the twelve maskers with theyre torch-bearers and pages rode likewise upon horses excedingly well trapped and furnished: besides a dousen litle boyes, dresst like babones that served for an antimaske, (and they say performed yt exceedingly well when they came to yt), and three open chariots drawne with fowre horses a peece that caried theyre musicians, and other personages that had parts to speake: all which together with theyre trumpetters and other attendants were so well set out, that yt is generally held for the best shew that hath ben seen many a day. The Kinge stood in the gallerie to behold them and made them ride about the tilt-yard, and then were receved into St. James Parke and went all along the galleries into the hall, where themselves and their devises (which they say were excellent) made such a glittering shew that the King and all the companie were excedingly pleased, and especially with theyre dauncing, which was beyond all that hath ben yet. The King made the maskers kisse his hand at parting, and gave them many thanckes, sayeng he never saw so many proper men together, and himself accompanied them at the banket, and tooke care yt shold be well ordered, and speakes much of them behind their backes, and strokes the master of the rolles
 <note>Sir Edward Phelips.</note>
 and Dick Martin
 <note>Richard Martin of the Middle Temple.</note>
