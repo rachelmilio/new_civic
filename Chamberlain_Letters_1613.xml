@@ -27881,10 +27881,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160647027",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:06:47.027Z",
-	"dcterms:modified": "2025-05-12T13:06:47.027Z",
+	"dcterms:created": "2025-05-12T13:07:25.366Z",
+	"dcterms:modified": "2025-05-12T13:07:25.366Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27895,7 +27895,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160647027#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27909,14 +27909,14 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160647027#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[9]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div[9]/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7790518",
+		"@id": "http://www.wikidata.org/entity/Q7328504",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -27960,10 +27960,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:07:25.366Z",
-	"dcterms:modified": "2025-05-12T13:07:25.366Z",
+	"dcterms:created": "2025-05-12T13:09:10.156Z",
+	"dcterms:modified": "2025-05-12T13:09:10.156Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27974,7 +27974,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27988,14 +27988,14 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[9]/p/persName[9]"
+			"rdf:value": "TEI/text/body/div[9]/p/persName[8]/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q7328504",
+		"@id": "http://www.wikidata.org/entity/Q3023437",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -28710,7 +28710,7 @@ wherof I heare no great commendation save only for riches, theyre devises beeing
                   Doncaster, 1618, Earl of Carlisle, 1622).</note> was very gallant, and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943">Lord
                Montague</persName> <note>Anthony Browne, second Viscount Montague.</note> (that hath paide
                reasonablie well for recusancie) bestowed fifteen hundred pound in apparell for his
-               two daughters. The <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Vicount Rochester</persName>, the <persName key="Thomas Hayes" ref="http://www.wikidata.org/entity/Q7790518">Lord Hayes</persName> and the <persName key="Richard Preston, 1st Earl of Desmond" ref="http://www.wikidata.org/entity/Q7328504">Lord Dingwell</persName> were
+               two daughters. The <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Vicount Rochester</persName>, the <persName key="Thomas Hayes" ref="http://www.wikidata.org/entity/Q7790518"><persName key="James Hay, 1st Earl of Carlisle" ref="http://www.wikidata.org/entity/Q3023437">Lord Hayes</persName></persName> and the <persName key="Richard Preston, 1st Earl of Desmond" ref="http://www.wikidata.org/entity/Q7328504">Lord Dingwell</persName> were
                exceding rich and costly but above all they speake of the erle of Dorset, but this
                extreem cost and riches makes us all poore. On Monday night was the Middle Temple and
                Lincolns Ynne maske <note>By George Chapman. (S. T. C., 4981, 4982; Chambers, ii,
