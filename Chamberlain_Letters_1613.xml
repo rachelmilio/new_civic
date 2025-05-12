@@ -28007,6 +28007,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-12T13:16:55.721Z",
+	"dcterms:modified": "2025-05-12T13:16:55.721Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[9]/p/persName[10]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q1564273",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -28711,31 +28790,16 @@ wherof I heare no great commendation save only for riches, theyre devises beeing
                Montague</persName> <note>Anthony Browne, second Viscount Montague.</note> (that hath paide
                reasonablie well for recusancie) bestowed fifteen hundred pound in apparell for his
                two daughters. The <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Vicount Rochester</persName>, the <persName key="Thomas Hayes" ref="http://www.wikidata.org/entity/Q7790518"><persName key="James Hay, 1st Earl of Carlisle" ref="http://www.wikidata.org/entity/Q3023437">Lord Hayes</persName></persName> and the <persName key="Richard Preston, 1st Earl of Desmond" ref="http://www.wikidata.org/entity/Q7328504">Lord Dingwell</persName> were
-               exceding rich and costly but above all they speake of the erle of Dorset, but this
-               extreem cost and riches makes us all poore. On Monday night was the Middle Temple and
-               Lincolns Ynne maske <note>By George Chapman. (S. T. C., 4981, 4982; Chambers, ii,
-                  260-262. )</note> presented in the hall at court, wheras the Lords was in the
-               bancketting roome. Yt went from the Rolles <note>In Chancery Lane.</note> all up
-               Fleet-street and the Strand, and made such a gallant and glorious shew that yt is
-               highly commended. They had forty gentlemen of best choise out of both houses rode
-               before them in theyre best array, upon the Kings horses: and the twelve maskers with
-               theyre torch-bearers and pages rode likewise upon horses excedingly well trapped and
-               furnished: besides a dousen litle boyes, dresst like babones that served for an
-               antimaske, (and they say performed yt exceedingly well when they came to yt), and
-               three open chariots drawne with fowre horses a peece that caried theyre musicians,
-               and other personages that had parts to speake: all which together with theyre
-               trumpetters and other attendants were so well set out, that yt is generally held for
-               the best shew that hath ben seen many a day. The Kinge stood in the gallerie to
-               behold them and made them ride about the tilt-yard, and then were receved into St.
-               James Parke and went all along the galleries into the hall, where themselves and
-               their devises (which they say were excellent) made such a glittering shew that the
-               King and all the companie were excedingly pleased, and especially with theyre
-               dauncing, which was beyond all that hath ben yet. The King made the maskers kisse his
-               hand at parting, and gave them many thanckes, sayeng he never saw so many proper men
-               together, and himself accompanied them at the banket, and tooke care yt shold be well
-               ordered, and speakes much of them behind their backes, and strokes the master of the
-               rolles <note>Sir Edward Phelips.</note> and Dick Martin <note>Richard Martin of the
-                  Middle Temple.</note> who were the cheife dooers and undertakers. On Tewsday yt
+               exceding rich and costly but above all they speake of the <persName key="Richard Sackville, 3rd Earl of Dorset" ref="http://www.wikidata.org/entity/Q1564273">erle of Dorset</persName>, but this
+               extreem cost and riches makes us all poore. <span ana="memorable_masque">On Monday night was the Middle Temple and Lincolns Ynne maske
+<note>By George Chapman. (S. T. C., 4981, 4982; Chambers, ii, 260-262. )</note>
+presented in the hall at court, wheras the Lords was in the bancketting roome. Yt went from the Rolles
+<note>In Chancery Lane.</note>
+all up Fleet-street and the Strand, and made such a gallant and glorious shew that yt is highly commended. They had forty gentlemen of best choise out of both houses rode before them in theyre best array, upon the Kings horses: and the twelve maskers with theyre torch-bearers and pages rode likewise upon horses excedingly well trapped and furnished: besides a dousen litle boyes, dresst like babones that served for an antimaske, (and they say performed yt exceedingly well when they came to yt), and three open chariots drawne with fowre horses a peece that caried theyre musicians, and other personages that had parts to speake: all which together with theyre trumpetters and other attendants were so well set out, that yt is generally held for the best shew that hath ben seen many a day. The Kinge stood in the gallerie to behold them and made them ride about the tilt-yard, and then were receved into St. James Parke and went all along the galleries into the hall, where themselves and their devises (which they say were excellent) made such a glittering shew that the King and all the companie were excedingly pleased, and especially with theyre dauncing, which was beyond all that hath ben yet. The King made the maskers kisse his hand at parting, and gave them many thanckes, sayeng he never saw so many proper men together, and himself accompanied them at the banket, and tooke care yt shold be well ordered, and speakes much of them behind their backes, and strokes the master of the rolles
+<note>Sir Edward Phelips.</note>
+and Dick Martin
+<note>Richard Martin of the Middle Temple.</note>
+who were the cheife dooers and undertakers.</span> On Tewsday yt
                came to Grayes Ynne and the Inner Temples turne to come with theyre maske, wherof Sir
                Fra: Bacon was the cheife contriver, and because the former came on horse backe, and
                open chariots, they made choise to come by water from Winchester Place in Southwarke:
