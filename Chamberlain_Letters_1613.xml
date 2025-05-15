@@ -39841,6 +39841,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515140043281",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-15T11:00:43.281Z",
+	"dcterms:modified": "2025-05-15T11:00:43.281Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515140043281#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515140043281#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[11]/p/orgName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q157412",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -40727,8 +40806,8 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                the <persName key="Robert Dudley, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q318017">earle of Lecester</persName> <note>Robert Dudley, Earl of Leicester, Queen Elizabeth’s
                   favorite.</note> who were all his maine raisers, whereby may be seen, what mind he
                caried to his best benefactors. Here was an odde fray fell out the last weeke twixt
-               one <persName key="Thomas Hutchinson" ref="http://www.wikidata.org/entity/Q7790934">Huchinson</persName> <note>Thomas Hutchinson of Owthorpe, Nottinghamshire.</note> of Grayes
-               Ynne and Sir German Poole, who assaulting the other upon advantage, hurt him in three
+               one <persName key="Thomas Hutchinson" ref="http://www.wikidata.org/entity/Q7790934">Huchinson</persName> <note>Thomas Hutchinson of Owthorpe, Nottinghamshire.</note> of <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes
+               Ynne</orgName> and Sir German Poole, who assaulting the other upon advantage, hurt him in three
                or fowre places, and cut of three of his fingers before he could draw his weapon,
                wherupon inraged he flew upon him and getting him downe bit of a goode part of his
                nose and carried yt away in his pocket. I had almost forgotten one accident at this
