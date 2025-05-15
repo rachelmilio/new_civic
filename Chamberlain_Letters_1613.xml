@@ -33841,6 +33841,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124933126",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-15T09:49:33.126Z",
+	"dcterms:modified": "2025-05-15T09:49:33.126Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124933126#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124933126#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[10]/p/span[3]/orgName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q157412",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124941119",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-15T09:49:41.119Z",
+	"dcterms:modified": "2025-05-15T09:49:41.119Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124941119#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124941119#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[10]/p/span[3]/orgName[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "org:Organization",
+		"@id": "http://www.wikidata.org/entity/Q1233784",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -34616,7 +34774,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                they pretend the best was kept backe for another day, but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> and indeed all the
                companie were so sufficiently unsatisfied with this, that they cared not nor desired
                to see any more, the rather for that there was much hurt don, and divers maymed. <span ana="lordes_masque">The Lords maske likewise on the <date when="1613-02-14">mariage night</date>, though yt were very rich and sumptous, yet yt was very long and tedious, and with many devises more like a play then a maske</span>,
-               but <span ana="memorable_masque">the <orgName key="Middle Temple" ref="http://www.wikidata.org/entity/Q925942">Middle Templers</orgName> and <orgName key="Lincoln's Inn" ref="http://www.wikidata.org/entity/Q69482">Lincolns Ynne</orgName> gave great contentment on <date when="1613-02-15">Monday night</date>, as well with theyre gracefull comming on horsebacke, as in all the rest of theyre apt invention, apparell, fashion, and specially theyre excellent dauncing, wherewith the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> was so much delighted that he gave them many thanks, and much commendation as well to theyre faces as behind theyre backs.</span> <span ana="water_procession">But the next day our Grayes Ynne men and the Inner Temple had not the same fortune, though they deserved no lesse: for striving to varie from theyre competitors, (and theyre devise beeing the marieng of the Thames to the Rhine,) they made choise to go by water from Winchester-house in Southwarke, with theyre boats and barges excedingly trimmed, and furnished with store of lights that made a glorious shew, and three peale of ordinance (at theyre taking water, at theyre passing by the Temple, and at theyre landing,) which passage by water cost them better then 300 li. But when they were landed at the court, (by what mischaunce I know not) they were faine to return as they went without dooing any thing, the reason wherof some say was because the hall was so full that yt could not be avoyded nor roome made for them, and most of the principall Ladies (that were in the galleries to see theyre leading) excluded: but the most probable is that the King was so satiated, and overwearied with watching the two nights before, that he could hold out no longer and so was driven to put yt of till Saterday, when yt was very well performed in the new banketing house, which for a kind of amends was graunted to them though with much repining and contradiction of theyre emulators</span> <note>The masque
+               but <span ana="memorable_masque">the <orgName key="Middle Temple" ref="http://www.wikidata.org/entity/Q925942">Middle Templers</orgName> and <orgName key="Lincoln's Inn" ref="http://www.wikidata.org/entity/Q69482">Lincolns Ynne</orgName> gave great contentment on <date when="1613-02-15">Monday night</date>, as well with theyre gracefull comming on horsebacke, as in all the rest of theyre apt invention, apparell, fashion, and specially theyre excellent dauncing, wherewith the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> was so much delighted that he gave them many thanks, and much commendation as well to theyre faces as behind theyre backs.</span> <span ana="water_procession">But the next day our <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes Ynne</orgName> men and the <orgName key="Inner Temple" ref="http://www.wikidata.org/entity/Q1233784">Inner Temple</orgName> had not the same fortune, though they deserved no lesse: for striving to varie from theyre competitors, (and theyre devise beeing the marieng of the Thames to the Rhine,) they made choise to go by water from Winchester-house in Southwarke, with theyre boats and barges excedingly trimmed, and furnished with store of lights that made a glorious shew, and three peale of ordinance (at theyre taking water, at theyre passing by the Temple, and at theyre landing,) which passage by water cost them better then 300 li. But when they were landed at the court, (by what mischaunce I know not) they were faine to return as they went without dooing any thing, the reason wherof some say was because the hall was so full that yt could not be avoyded nor roome made for them, and most of the principall Ladies (that were in the galleries to see theyre leading) excluded: but the most probable is that the King was so satiated, and overwearied with watching the two nights before, that he could hold out no longer and so was driven to put yt of till Saterday, when yt was very well performed in the new banketing house, which for a kind of amends was graunted to them though with much repining and contradiction of theyre emulators</span> <note>The masque
                   was by Francis Beaumont. (S. T. C., 1663; Chambers, iii, 233-235.</note>. The next
                day the King made them all a solemne super in the new mariage roome, and used them so
                well and graciously that he sent both parties away well pleased. At this great
