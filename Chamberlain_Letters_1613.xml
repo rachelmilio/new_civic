@@ -33369,6 +33369,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515124347288",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-15T09:43:47.288Z",
+	"dcterms:modified": "2025-05-15T09:43:47.288Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515124347288#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515124347288#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[10]/p/persName[26]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q79972",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -34141,11 +34220,9 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                other on <date when="1613-02-13">Saterday</date> in the afternoone before the mariage) there was nothing in either
                aunswerable to the great expectation conceved, or the cost bestowed, which amounted
                to more than 9000 li so that according to the proverb Parturiunt montes et ct. Marry
-               they pretend the best was kept backe for another day, but the King and indeed all the
+               they pretend the best was kept backe for another day, but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> and indeed all the
                companie were so sufficiently unsatisfied with this, that they cared not nor desired
-               to see any more, the rather for that there was much hurt don, and divers maymed. The
-               Lords maske likewise on the mariage night, though yt were very rich and sumptous, yet
-               yt was very long and tedious, and with many devises more like a play then a maske,
+               to see any more, the rather for that there was much hurt don, and divers maymed. <span ana="lordes_masque">The Lords maske likewise on the mariage night, though yt were very rich and sumptous, yet yt was very long and tedious, and with many devises more like a play then a maske</span>,
                but the Middle Templers and Lincolns Ynne gave great contentment on Monday night, as
                well with theyre gracefull comming on horsebacke, as in all the rest of theyre apt
                invention, apparell, fashion, and specially theyre excellent dauncing, wherewith the
