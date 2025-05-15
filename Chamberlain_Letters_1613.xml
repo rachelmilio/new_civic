@@ -39446,6 +39446,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135306426",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-05-15T10:53:06.426Z",
+	"dcterms:modified": "2025-05-15T10:53:06.426Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/rachelmilio",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Rachel Milio"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135306426#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.6.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135306426#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[11]/p/persName[43]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q75762630",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.6.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -40322,7 +40401,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                against the parlement that is to be held there in May. This weeke here died the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322">Lady
                Mary Nevill</persName> (daughter to the late <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967">Treasurer Dorset</persName>), of a longe languishing sicknes;
                and the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263">Lady Conway</persName> of the Brill much after the same sort, as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084">Sir William
-               Cookes</persName> Lady <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
+               Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630">Lady</persName> <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
                   Warwickshire.</note> of Charing Crosse. Sir Henry Savile shewed me the last weeke
                his notes taken in the reading of Sir Thomas Bodleys life <note>Cf. Letter
                   164.</note>, written by himself in seven sheets of paper with vanitie enough,
