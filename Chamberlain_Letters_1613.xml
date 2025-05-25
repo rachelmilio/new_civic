@@ -35454,7 +35454,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131045216",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:10:45.216Z",
-	"dcterms:modified": "2025-05-15T10:10:45.216Z",
+	"dcterms:modified": "2025-05-25T17:56:29.084Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35691,7 +35691,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131117973",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:11:17.973Z",
-	"dcterms:modified": "2025-05-15T10:11:17.973Z",
+	"dcterms:modified": "2025-05-25T17:56:15.792Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35849,7 +35849,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131145853",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:11:45.853Z",
-	"dcterms:modified": "2025-05-15T10:11:45.853Z",
+	"dcterms:modified": "2025-05-25T17:56:02.911Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36085,7 +36085,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131233955",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:12:33.955Z",
-	"dcterms:modified": "2025-05-15T10:12:33.955Z",
+	"dcterms:modified": "2025-05-25T17:55:40.919Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36164,7 +36164,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131851810",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:18:51.810Z",
-	"dcterms:modified": "2025-05-15T10:18:51.810Z",
+	"dcterms:modified": "2025-05-25T17:55:32.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40869,15 +40869,15 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                   Governor of the Brill.</note>, and the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322">Lady Mary Nevill</persName> <note>Mary, daughter of
                   Thomas Sackville, first Earl of Dorset, and wife of Sir Henry Neville, ultimately
                   Lord Abergavenny.</note> (the <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967">Lord Treasurer Dorsets</persName> daughter): yesterday there
-               was a sodain bruit that the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">Lord Zouch</persName> was dead or in great daunger. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> went
+               was a sodain bruit that the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">Lord Zouch</persName> was dead or in great daunger. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went
                yesterday to Tiballs and so toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> to enjoy this fayre weather,
-               and the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> is to follow that way, and so to <placeName key="Cambridge" ref="http://www.wikidata.org/entity/Q350">Cambrige</placeName> very shortly. The
-               <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> removes this weeke to <placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Greenwich</placeName>: and this beeing all I have for the present I
+               and the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> is to follow that way, and so to <placeName key="Cambridge" ref="http://www.wikidata.org/entity/Q350">Cambrige</placeName> very shortly. The
+               <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> removes this weeke to <placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Greenwich</placeName>: and this beeing all I have for the present I
                will commend your goode Lady and all yours to Gods holy protection. From London this
                <date when="1613-02-23">23th of February 1612</date>.</p>
             <l>Your Lordships to command</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable Sir <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <p>To the right honorable Sir <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
                the States of the United Provinces at the Haghe.</p>
          </div>
          <div>
