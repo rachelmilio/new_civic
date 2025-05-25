@@ -32301,7 +32301,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512174635492",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:46:35.492Z",
-	"dcterms:modified": "2025-05-12T14:46:35.492Z",
+	"dcterms:modified": "2025-05-25T17:52:49.823Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -32616,7 +32616,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512174840579",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:48:40.579Z",
-	"dcterms:modified": "2025-05-12T14:48:40.579Z",
+	"dcterms:modified": "2025-05-25T17:52:35.327Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36243,7 +36243,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515131917704",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:19:17.704Z",
-	"dcterms:modified": "2025-05-15T10:19:17.704Z",
+	"dcterms:modified": "2025-05-25T17:52:24.012Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40894,8 +40894,8 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                On Friday <persName key="Walter Cope" ref="http://www.wikidata.org/entity/Q7964595">Sir Walter Cope</persName> sent for me to see a sacrifice made of your papers
                   <note>Cf. Letter 161.</note>, which in the presence of <persName key="Sir Anthony Cope, 1st Baronet" ref="http://www.wikidata.org/entity/Q7526008">Sir Antony Cope</persName> and myself
                he threw into the fire and saw them consumed, beeing to my remembrance fowre or five,
-               I know not whether. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> went away on Monday to Tiballs and so toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and
-               <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName>, whence he is not expected till the <date when="1613-03-22">22th of March</date>. The <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count
+               I know not whether. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went away on Monday to Tiballs and so toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and
+               <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName>, whence he is not expected till the <date when="1613-03-22">22th of March</date>. The <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count
                Palatin</persName> follow him this day, and meane the next weeke to visit <placeName key="Cambridge" ref="http://www.wikidata.org/entity/Q350">Cambrige</placeName>: and there is
                speach that before Easter they will make a progresse to <placeName key="Oxford" ref="http://www.wikidata.org/entity/Q34217">Oxford</placeName>: which wilbe a goode
                errand for the young maried gentleman, whose frends and followers wish he might
