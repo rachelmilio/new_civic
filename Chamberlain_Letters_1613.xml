@@ -24096,7 +24096,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154922934",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:49:22.934Z",
-	"dcterms:modified": "2025-05-11T12:49:22.934Z",
+	"dcterms:modified": "2025-05-25T18:56:29.734Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24254,7 +24254,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511155411832",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:54:11.832Z",
-	"dcterms:modified": "2025-05-11T12:54:11.832Z",
+	"dcterms:modified": "2025-05-25T18:56:42.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24333,7 +24333,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511155638746",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:56:38.746Z",
-	"dcterms:modified": "2025-05-11T12:56:38.746Z",
+	"dcterms:modified": "2025-05-25T18:56:52.226Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24490,7 +24490,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511155903856",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:59:03.856Z",
-	"dcterms:modified": "2025-05-11T12:59:03.856Z",
+	"dcterms:modified": "2025-05-25T18:57:00.039Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40743,14 +40743,14 @@
                for <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> sayes he will make no more use of Non obstantes that Judges may ride and
                kepe assises in theyre owne countrie. The <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487" ana="female">Lady of Bedford</persName> lies in weake case (and
                they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> was to be christned this
-               day in the Kings chappell, but yt is now put of till next weeke. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> and the
+               day in the Kings chappell, but yt is now put of till next weeke. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> and the
                <persName key="Elizabeth de Vere, Countess of Derby" ref="http://www.wikidata.org/entity/Q760788" ana="female">Countesse of Darbie</persName> <note>Elizabeth, daughter of Edward de Vere, seventeenth Earl of
                   Oxford, and wife of William Stanley, sixth Earl of Derby.</note> are to be
-               Godmothers and <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089">the Lord Admirall</persName> Godfather. So will all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532">my Lady</persName>
+               Godmothers and <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089" ana="male">the Lord Admirall</persName> Godfather. So will all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532" ana="female">my Lady</persName>
                and <persName key="Alice Carleton">Mistris Carleton</persName> I commend you to the protection of the Almighty. From London
                this <date when="1612-02-11">11th of February 1612</date>.</p>
             <l>Your Lordships to commaund</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
             <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
                Venice.</l>
          </div>
