@@ -27331,7 +27331,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155157278",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:51:57.278Z",
-	"dcterms:modified": "2025-05-12T12:51:57.278Z",
+	"dcterms:modified": "2025-05-25T19:04:49.152Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27410,7 +27410,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155209661",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:52:09.661Z",
-	"dcterms:modified": "2025-05-12T12:52:09.661Z",
+	"dcterms:modified": "2025-05-25T19:04:59.912Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27489,7 +27489,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155221732",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:52:21.732Z",
-	"dcterms:modified": "2025-05-12T12:52:21.732Z",
+	"dcterms:modified": "2025-05-25T19:05:19.249Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27568,7 +27568,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155455896",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:54:55.896Z",
-	"dcterms:modified": "2025-05-12T12:54:55.896Z",
+	"dcterms:modified": "2025-05-25T19:05:37.449Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27647,7 +27647,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155617855",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:56:17.855Z",
-	"dcterms:modified": "2025-05-12T12:56:17.855Z",
+	"dcterms:modified": "2025-05-25T19:05:44.514Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40770,10 +40770,10 @@
 <note>By Thomas Campion. It is printed with A relation of the late royall entertainment given by the Lord Knowles. (S. T. C., 4545; Chambers, iii, 241-244.</note>
 wherof I heare no great commendation save only for riches, theyre devises beeing long and tedious and more like a play then a maske.</span> The next morning <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> went to visit these young turtles that were coupled
                on St. Valentines day, and did strictly examine him whether he were his true sonne in
-               law, and was sufficiently assured. <span ana="running_at_the_ring">That afternoone the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> with divers others ran at the ring, and when that was ended, and the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> and <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName> gon, the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName> mounted upon a high bounding horse, which he managed so like a horsman, that he was excedingly commended and had many showts and acclamations of the beholders, and indeed I never saw any of his age come neere him in that exercise. Yt were long and tedious to tell you all the particularities of the excessive braverie both of men and women, but you may conceive the rest by one or two.</span> <persName key="Margaret Wharton" ref="http://www.wikidata.org/entity/Q76211872">The Lady Wotton</persName>
+               law, and was sufficiently assured. <span ana="running_at_the_ring">That afternoone the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> with divers others ran at the ring, and when that was ended, and the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> and <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName> gon, the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palsgrave</persName> mounted upon a high bounding horse, which he managed so like a horsman, that he was excedingly commended and had many showts and acclamations of the beholders, and indeed I never saw any of his age come neere him in that exercise. Yt were long and tedious to tell you all the particularities of the excessive braverie both of men and women, but you may conceive the rest by one or two.</span> <persName key="Margaret Wharton" ref="http://www.wikidata.org/entity/Q76211872" ana="female">The Lady Wotton</persName>
                   <note>Margaret, daughter of Philip, third Lord Wharton, and the second wife of
                   Edward, first Lord Wotton of Marley.</note> had a gowne that cost fifty pound a
-               yard the embrodering. I heare the <persName key="Henry Percy, 9th Earl of Northumberland" ref="http://www.wikidata.org/entity/Q359143">earle of Northumberlands</persName> daughter <note>Henry
+               yard the embrodering. I heare the <persName key="Henry Percy, 9th Earl of Northumberland" ref="http://www.wikidata.org/entity/Q359143" ana="male">earle of Northumberlands</persName> daughter <note>Henry
                   Percy, ninth Earl of Northumberland, then a prisoner in the Tower, had two
                   daughters: Dorothy, who in 1616 married Sir Robert Sidney (second Earl of
                   Leicester, 1626), and Lucy, who in 1617 married James, first Lord Hay (Viscount
