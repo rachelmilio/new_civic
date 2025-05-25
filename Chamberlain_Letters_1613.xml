@@ -31356,7 +31356,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173504822",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:35:04.822Z",
-	"dcterms:modified": "2025-05-12T14:35:04.822Z",
+	"dcterms:modified": "2025-05-25T18:35:59.620Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31435,7 +31435,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173812902",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:38:12.902Z",
-	"dcterms:modified": "2025-05-12T14:38:12.902Z",
+	"dcterms:modified": "2025-05-25T18:35:50.935Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31514,7 +31514,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173831366",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:38:31.366Z",
-	"dcterms:modified": "2025-05-12T14:38:31.366Z",
+	"dcterms:modified": "2025-05-25T18:35:42.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -32695,7 +32695,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515121913190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:19:13.190Z",
-	"dcterms:modified": "2025-05-15T09:19:13.190Z",
+	"dcterms:modified": "2025-05-25T18:35:33.874Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -32774,7 +32774,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515121946571",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:19:46.571Z",
-	"dcterms:modified": "2025-05-15T09:19:46.571Z",
+	"dcterms:modified": "2025-05-25T18:35:24.205Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -32932,7 +32932,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515123356041",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:33:56.041Z",
-	"dcterms:modified": "2025-05-15T09:33:56.041Z",
+	"dcterms:modified": "2025-05-25T18:35:12.827Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -33090,7 +33090,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515123630833",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:36:30.833Z",
-	"dcterms:modified": "2025-05-15T09:36:30.833Z",
+	"dcterms:modified": "2025-05-25T18:35:00.985Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40834,10 +40834,10 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                were to no end to write of the curiositie and excesse of braverie both of men and
                women: with the extreme daubing on of cost and riches, only a touch shall serve in a
                few for a pattern of the rest. The <persName key="Margaret Wharton" ref="http://www.wikidata.org/entity/Q76211872">Lady Wotton</persName> was saide to have a gowne that cost
-               fifty pound a yeard the embrodering: and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943">Lord Montague</persName> (that hath paide
+               fifty pound a yeard the embrodering: and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943" ana="male">Lord Montague</persName> (that hath paide
                reasonable well for recusancie) bestowed 1500 in apparell upon his two daughters. The
-               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">bridegroome</persName> and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">bride</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053">States</persName>
-               ambassadors dined in a roome built of purpose for this mariage. The <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093">Spaniard</persName> was, or
+               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">bridegroome</persName> and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">bride</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">States</persName>
+               ambassadors dined in a roome built of purpose for this mariage. The <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093" ana="male">Spaniard</persName> was, or
                wold be sicke, and the archdukes ambassador beeing invited for the next day made his
                excuse, and the ambassadors that were present, were not altogether pleased (as I
                heare) but every one found some puntillo of disgust. There was a matter happened the
