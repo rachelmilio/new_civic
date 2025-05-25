@@ -21964,7 +21964,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151230574",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:12:30.574Z",
-	"dcterms:modified": "2025-05-11T12:12:30.574Z",
+	"dcterms:modified": "2025-05-25T18:41:47.976Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22043,7 +22043,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151432186",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:14:32.186Z",
-	"dcterms:modified": "2025-05-11T12:14:32.186Z",
+	"dcterms:modified": "2025-05-25T18:41:54.118Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22122,7 +22122,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151501601",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:15:01.601Z",
-	"dcterms:modified": "2025-05-11T12:15:01.601Z",
+	"dcterms:modified": "2025-05-25T18:42:01.013Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22201,7 +22201,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151515706",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:15:15.706Z",
-	"dcterms:modified": "2025-05-11T12:15:15.706Z",
+	"dcterms:modified": "2025-05-25T18:42:08.938Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22359,7 +22359,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151651844",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:16:51.844Z",
-	"dcterms:modified": "2025-05-11T12:16:51.844Z",
+	"dcterms:modified": "2025-05-25T18:42:17.234Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40703,7 +40703,7 @@
                yours to the protection of the Almighty. From London this 10th of February 1612.</p>
             <l>Your Lordships to commaund</l>
             <l>JOHN CHAMBERLAIN.</l>
-            <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">Sir Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
+            <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
                the States of the United Provinces at the Haghe.</p>
          </div>
          <div>
@@ -40711,9 +40711,9 @@
             <l>[S. P. Dom., Jac. I, lxxii, 26.]</l>
             <l>[London, February 11, 1613.]</l>
             <p>My very goode Lord: Though here be much ado and great noise and stirring, yet have I
-               litle to advertise. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> came home on Tewsday from the
+               litle to advertise. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> came home on Tewsday from the
                installation <note>For notes on this letter, see Letter 164.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName>, where
-               the <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428">Count Lodowic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName>, putting in his
+               the <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428" ana="male">Count Lodowic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName>, putting in his
                caveat salvis constitutionibus Provinciarum foederatarum, as likewise the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince
                Palatin</persName> salvo jure Imperii. I heare that our Lords made some difficultie to yeeld
                that <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> shold skip over theyre heades and be placed next to the Princes,
