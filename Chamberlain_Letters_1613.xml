@@ -37743,7 +37743,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133322242",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:33:22.242Z",
-	"dcterms:modified": "2025-05-15T10:33:22.242Z",
+	"dcterms:modified": "2025-05-25T17:44:09.225Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37822,7 +37822,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133359038",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:33:59.038Z",
-	"dcterms:modified": "2025-05-15T10:33:59.038Z",
+	"dcterms:modified": "2025-05-25T17:43:52.734Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37901,7 +37901,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133813921",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:38:13.921Z",
-	"dcterms:modified": "2025-05-15T10:38:13.921Z",
+	"dcterms:modified": "2025-05-25T17:43:40.778Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37980,7 +37980,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133834896",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:38:34.896Z",
-	"dcterms:modified": "2025-05-15T10:38:34.896Z",
+	"dcterms:modified": "2025-05-25T17:43:28.427Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40928,9 +40928,9 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                praskers (above fowrescore in all) sat at another long table, so that there was no
                roome for them that made the feast but they were faire to be lookers on, which the
                young <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914">Lady Rich</persName> <note>Isobel, daughter of Sir Walter Cope, and wife of Sir Henry
-                  Rich.</note> tooke no great pleasure in to see her <persName key="Henry Rich, 1st Earl of Holland" ref="http://www.wikidata.org/entity/Q3131912">husband</persName> (who was one that
+                  Rich.</note> tooke no great pleasure in to see her <persName key="Henry Rich, 1st Earl of Holland" ref="http://www.wikidata.org/entity/Q3131912" ana="male">husband</persName> (who was one that
                payde) not so much as drincke for his monie. The ambassadors that were at this
-               wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States:
+               wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States:
                the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093" ana="male">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for
                the second day made a sullen excuse: and those that were present were not altogether
                so pleased, but that I heare every one had some puntillo of disgust. The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979" ana="male">Duke of
