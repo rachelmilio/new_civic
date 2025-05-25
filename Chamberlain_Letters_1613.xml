@@ -35138,7 +35138,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515130133926",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:01:33.926Z",
-	"dcterms:modified": "2025-05-15T10:01:33.926Z",
+	"dcterms:modified": "2025-05-25T18:06:35.107Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35217,7 +35217,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515130606239",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:06:06.239Z",
-	"dcterms:modified": "2025-05-15T10:06:06.239Z",
+	"dcterms:modified": "2025-05-25T18:06:25.152Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35296,7 +35296,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515130629159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:06:29.159Z",
-	"dcterms:modified": "2025-05-15T10:06:29.159Z",
+	"dcterms:modified": "2025-05-25T18:06:14.450Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35375,7 +35375,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515130708533",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:07:08.533Z",
-	"dcterms:modified": "2025-05-15T10:07:08.533Z",
+	"dcterms:modified": "2025-05-25T18:06:03.606Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40864,12 +40864,12 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                   and Surrey.</note>, <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828">the vicount Lile</persName> <note>Robert Sidney, Viscount Lisle.</note>,
                <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">the Lord Zouch</persName> <note>Edward, eleventh Lord Zouche.</note> and <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">the Lord Harrington</persName>
                   <note>John, first Lord Harington of Exton.</note> are named, and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399">Levinus</persName> for
-               secretarie in that service. I doubt not but you have heard of the death of the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263">Lady
+               secretarie in that service. I doubt not but you have heard of the death of the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady
                Conway</persName> <note>Dorothy, daughter of Sir John Tracy, and wife of Sir Edward Conway,
-                  Governor of the Brill.</note>, and the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322">Lady Mary Nevill</persName> <note>Mary, daughter of
+                  Governor of the Brill.</note>, and the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322" ana="female">Lady Mary Nevill</persName> <note>Mary, daughter of
                   Thomas Sackville, first Earl of Dorset, and wife of Sir Henry Neville, ultimately
-                  Lord Abergavenny.</note> (the <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967">Lord Treasurer Dorsets</persName> daughter): yesterday there
-               was a sodain bruit that the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">Lord Zouch</persName> was dead or in great daunger. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went
+                  Lord Abergavenny.</note> (the <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967" ana="male">Lord Treasurer Dorsets</persName> daughter): yesterday there
+               was a sodain bruit that the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">Lord Zouch</persName> was dead or in great daunger. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went
                yesterday to Tiballs and so toward <placeName key="Royston" ref="http://www.wikidata.org/entity/Q19804">Roiston</placeName> and <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> to enjoy this fayre weather,
                and the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> is to follow that way, and so to <placeName key="Cambridge" ref="http://www.wikidata.org/entity/Q350">Cambrige</placeName> very shortly. The
                <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> removes this weeke to <placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Greenwich</placeName>: and this beeing all I have for the present I
