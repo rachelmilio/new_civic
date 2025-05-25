@@ -22438,7 +22438,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151711527",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:17:11.527Z",
-	"dcterms:modified": "2025-05-11T12:17:11.527Z",
+	"dcterms:modified": "2025-05-25T18:52:05.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22517,7 +22517,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151743870",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:17:43.870Z",
-	"dcterms:modified": "2025-05-11T12:17:43.870Z",
+	"dcterms:modified": "2025-05-25T18:52:13.585Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22596,7 +22596,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511151802505",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:18:02.505Z",
-	"dcterms:modified": "2025-05-11T12:18:02.505Z",
+	"dcterms:modified": "2025-05-25T18:52:22.105Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22675,7 +22675,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511152013028",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:20:13.028Z",
-	"dcterms:modified": "2025-05-11T12:20:13.028Z",
+	"dcterms:modified": "2025-05-25T18:52:30.288Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40713,11 +40713,11 @@
             <p>My very goode Lord: Though here be much ado and great noise and stirring, yet have I
                litle to advertise. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> came home on Tewsday from the
                installation <note>For notes on this letter, see Letter 164.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName>, where
-               the <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428" ana="male">Count Lodowic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName>, putting in his
-               caveat salvis constitutionibus Provinciarum foederatarum, as likewise the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince
+               the <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428" ana="male">Count Lodowic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count Maurice</persName>, putting in his
+               caveat salvis constitutionibus Provinciarum foederatarum, as likewise the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince
                Palatin</persName> salvo jure Imperii. I heare that our Lords made some difficultie to yeeld
-               that <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> shold skip over theyre heades and be placed next to the Princes,
-               but the case was overruled. <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry of Nassau</persName> was dayly expected, as appointed by
+               that <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count Maurice</persName> shold skip over theyre heades and be placed next to the Princes,
+               but the case was overruled. <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry of Nassau</persName> was dayly expected, as appointed by
                the States to performe that ceremonie for his brother, and to assist at the wedding,
                but by reason of contrarie weather he arrived not till yesternight. The mariage
                drawes neere and all thinges are redy. On Sonday was theyre last time of asking
