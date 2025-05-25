@@ -20464,7 +20464,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511144648370",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:46:48.370Z",
-	"dcterms:modified": "2025-05-11T11:46:48.370Z",
+	"dcterms:modified": "2025-05-25T18:39:39.730Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -20543,7 +20543,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511144817447",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:48:17.447Z",
-	"dcterms:modified": "2025-05-11T11:48:17.447Z",
+	"dcterms:modified": "2025-05-25T18:39:51.291Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -20622,7 +20622,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511144913440",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:49:13.440Z",
-	"dcterms:modified": "2025-05-11T11:49:13.440Z",
+	"dcterms:modified": "2025-05-25T18:40:01.406Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -20701,7 +20701,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511144931625",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:49:31.625Z",
-	"dcterms:modified": "2025-05-11T11:49:31.625Z",
+	"dcterms:modified": "2025-05-25T18:40:09.263Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -20780,7 +20780,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511145053698",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:50:53.698Z",
-	"dcterms:modified": "2025-05-11T11:50:53.698Z",
+	"dcterms:modified": "2025-05-25T18:40:18.345Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -20859,7 +20859,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511145126513",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:51:26.513Z",
-	"dcterms:modified": "2025-05-11T11:51:26.513Z",
+	"dcterms:modified": "2025-05-25T18:40:25.865Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -21175,7 +21175,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511145253720",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T11:52:53.720Z",
-	"dcterms:modified": "2025-05-11T11:52:53.720Z",
+	"dcterms:modified": "2025-05-25T18:40:36.615Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40663,16 +40663,16 @@
                Roger Ashtons</persName>), <persName>Sir Olave Lee</persName>, <persName key="Edward Underhill">Sir... Undrill</persName> <note>Sir Edward Underhill.</note> late
                proctor of Oxford, <persName>Sir... Clopton</persName>, <persName>Sir... Wild</persName> <note>Sir Edmund Wyld.</note> and I
                know not who els. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235" ana="female">The Lady Haddington</persName> <note>Cf. Letter 163.</note> was forward with
-               child and miscaried the last weeke. <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487">The Lady of Bedford</persName> <note>Lucy, daughter of John,
+               child and miscaried the last weeke. <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487" ana="female">The Lady of Bedford</persName> <note>Lucy, daughter of John,
                   first Lord Harington of Exton, and wife of Edward Russell, third Earl of
-                  Bedford.</note> lies in weake case (and they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483">Countesse of
-               Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName> <note>Cf. Letter 162.</note> is to be christned this day in the
-               Kings chappell <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> and the <persName key="Catherine Howard, Countess of Suffolk" ref="http://www.wikidata.org/entity/Q5052734">Countesse of Suffolke</persName> her mother beeing to be
+                  Bedford.</note> lies in weake case (and they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of
+               Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> <note>Cf. Letter 162.</note> is to be christned this day in the
+               Kings chappell <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> and the <persName key="Catherine Howard, Countess of Suffolk" ref="http://www.wikidata.org/entity/Q5052734" ana="female">Countesse of Suffolke</persName> her mother beeing to be
                Godmothers. Here be many devises on foote to find monie and among the rest they
                speake of a benevolence which is to be laide up and called aes or rather aerarium
                sacrum, not to be touched but in cases of extremitie, and in defence of the realme.
-               The circuits are all altered and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName> <note>Sir Edward Coke.</note> put to
-               go <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecestershire</placeName>, for the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> sayes he will make no more
+               The circuits are all altered and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName> <note>Sir Edward Coke.</note> put to
+               go <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecestershire</placeName>, for the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> sayes he will make no more
                use of Non obstantes, that Judges may ride and kepe assises in theyre owne country.
                <persName>Sir William St. John</persName> a sea-man, that was to be one of our cheif commaunders in this
                freshwater fight, is committed to the Fleet for replieng somewhat roundly to a lie
