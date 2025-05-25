@@ -38059,7 +38059,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133855395",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:38:55.395Z",
-	"dcterms:modified": "2025-05-15T10:38:55.395Z",
+	"dcterms:modified": "2025-05-25T17:43:14.753Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38138,7 +38138,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133922736",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:39:22.736Z",
-	"dcterms:modified": "2025-05-15T10:39:22.736Z",
+	"dcterms:modified": "2025-05-25T17:43:02.431Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38217,7 +38217,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133959701",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:39:59.701Z",
-	"dcterms:modified": "2025-05-15T10:39:59.701Z",
+	"dcterms:modified": "2025-05-25T17:42:49.126Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38296,7 +38296,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134057660",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:40:57.660Z",
-	"dcterms:modified": "2025-05-15T10:40:57.660Z",
+	"dcterms:modified": "2025-05-25T17:42:28.323Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40930,11 +40930,11 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                young <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914">Lady Rich</persName> <note>Isobel, daughter of Sir Walter Cope, and wife of Sir Henry
                   Rich.</note> tooke no great pleasure in to see her <persName key="Henry Rich, 1st Earl of Holland" ref="http://www.wikidata.org/entity/Q3131912">husband</persName> (who was one that
                payde) not so much as drincke for his monie. The ambassadors that were at this
-               wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053">Caron</persName> for the States:
-               the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for
+               wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States:
+               the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093" ana="male">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for
                the second day made a sullen excuse: and those that were present were not altogether
-               so pleased, but that I heare every one had some puntillo of disgust. The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979">Duke of
-               Lennox</persName>, the <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828">Vicount Lile</persName>, the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">Lord Zouch</persName>, and the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">Lord Harrington</persName> are in speach to be
+               so pleased, but that I heare every one had some puntillo of disgust. The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979" ana="male">Duke of
+               Lennox</persName>, the <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828" ana="male">Vicount Lile</persName>, the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">Lord Zouch</persName>, and the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">Lord Harrington</persName> are in speach to be
                commissioners to go over with the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName>, to see her and her joynter setled,
                and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399" ana="male">Levinus</persName> <note>Levinus Munck.</note> is named secretarie for that service. I heare
                the <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517" ana="male">earle of Arundell</persName> is added to the number, who meanes to carry over his Lady, and
