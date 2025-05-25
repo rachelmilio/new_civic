@@ -31040,7 +31040,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172946282",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:29:46.282Z",
-	"dcterms:modified": "2025-05-12T14:29:46.282Z",
+	"dcterms:modified": "2025-05-25T18:37:04.031Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31119,7 +31119,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173138555",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:31:38.555Z",
-	"dcterms:modified": "2025-05-12T14:31:38.555Z",
+	"dcterms:modified": "2025-05-25T18:36:53.770Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31198,7 +31198,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173331538",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:33:31.538Z",
-	"dcterms:modified": "2025-05-12T14:33:31.538Z",
+	"dcterms:modified": "2025-05-25T18:36:44.912Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31277,7 +31277,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173431941",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:34:31.941Z",
-	"dcterms:modified": "2025-05-12T14:34:31.941Z",
+	"dcterms:modified": "2025-05-25T18:36:37.180Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40826,14 +40826,14 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                and Wells</persName> preached, and <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">the archbishop</persName> performed the other rites and ceremonies
                upon a stage raised in the middes of the chappell, on the right side wherof sat <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the
                King</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName>, and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> <note>Of Nassau.</note>, on the
-               other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631">Lady Harrington</persName> <note>Anne, wife of John, first
+               other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>Anne, wife of John, first
                   Lord Harington of Exton.</note>, and one or two more. The chappell was kept very
                straight, and none admitted under the degree of a baron, saving the three Lords
                Cheife Justices: the contract and mariage was celebrated all in English, and the
-               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> had learned as much as concerned his part reasonable perfectly. Yt
+               <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince Palatin</persName> had learned as much as concerned his part reasonable perfectly. Yt
                were to no end to write of the curiositie and excesse of braverie both of men and
                women: with the extreme daubing on of cost and riches, only a touch shall serve in a
-               few for a pattern of the rest. The <persName key="Margaret Wharton" ref="http://www.wikidata.org/entity/Q76211872">Lady Wotton</persName> was saide to have a gowne that cost
+               few for a pattern of the rest. The <persName key="Margaret Wharton" ref="http://www.wikidata.org/entity/Q76211872" ana="female">Lady Wotton</persName> was saide to have a gowne that cost
                fifty pound a yeard the embrodering: and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943" ana="male">Lord Montague</persName> (that hath paide
                reasonable well for recusancie) bestowed 1500 in apparell upon his two daughters. The
                <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">bridegroome</persName> and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">bride</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">States</persName>
