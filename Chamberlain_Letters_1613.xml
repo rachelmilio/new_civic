@@ -25356,7 +25356,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511160953777",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:09:53.777Z",
-	"dcterms:modified": "2025-05-11T13:09:53.777Z",
+	"dcterms:modified": "2025-05-25T19:01:00.328Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25435,7 +25435,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161011357",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:10:11.357Z",
-	"dcterms:modified": "2025-05-11T13:10:11.357Z",
+	"dcterms:modified": "2025-05-25T19:01:06.420Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25514,7 +25514,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161148316",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:11:48.316Z",
-	"dcterms:modified": "2025-05-11T13:11:48.316Z",
+	"dcterms:modified": "2025-05-25T19:01:13.521Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25593,7 +25593,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161204903",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:12:04.903Z",
-	"dcterms:modified": "2025-05-11T13:12:04.903Z",
+	"dcterms:modified": "2025-05-25T19:01:21.201Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25672,7 +25672,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161318083",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:13:18.083Z",
-	"dcterms:modified": "2025-05-11T13:13:18.083Z",
+	"dcterms:modified": "2025-05-25T19:01:28.768Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25751,7 +25751,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161332662",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:13:32.662Z",
-	"dcterms:modified": "2025-05-11T13:13:32.662Z",
+	"dcterms:modified": "2025-05-25T19:01:36.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25830,7 +25830,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161344929",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:13:44.929Z",
-	"dcterms:modified": "2025-05-11T13:13:44.929Z",
+	"dcterms:modified": "2025-05-25T19:01:45.793Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -25909,7 +25909,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511161437226",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T13:14:37.226Z",
-	"dcterms:modified": "2025-05-11T13:14:37.226Z",
+	"dcterms:modified": "2025-05-25T19:01:52.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40764,9 +40764,9 @@
                discourse of all that passed at this wedding <note>Of the Princess Elizabeth and
                   Frederick, Elector Palatine, which took place on February 14.</note>, yet because
                this is like to arrive there before him, I will geve you a litle touch or taste of
-               that, wherof you may receive from him full and complete satisfaction. <span ana="fireworks">On <date when="1613-02-11">Thursday night</date> the fireworks were reasonablie well performed all save the last castle (of five) which bred most expectation and had most devises, but when yt came to execution, had worst successe.</span> <span ana="sea_fight">On <date when="1613-02-13">Saterday</date> likewise the fight upon the water came short of that shew and bragges had ben made of yt, but they pretend the best to be behind and left for another day, which was the winning of the castle on land: but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> and indeed all the compare tooke so litle delight to see no other activitie but shooting and potting of gunnes that yt is quite geven over and the navie unrigged and the castle pulled downe, the rather for that there were divers hurt in the former fight, (as one lost both his eyes, another both his hands, another one hande, with divers others maymed and hurt) so that to avoyde further harme, yt was thought best to let yt alone, and this is the conclusion of all the preparation with so much expence of powder and monie which amounted to no lesse then nine thousand pound.</span> <span ana="wedding">On <date when="1613-02-14">Sonday</date> I was fetcht from <placeName key="St Paul's Cathedral" ref="http://www.wikidata.org/entity/Q173882">Powles</placeName> (where l was set at the sermon) to see <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName> go to church, and though yt were past ten a clocke before we came there yet we found a whole window reserved in the jewell-house, which was over against her comming downe a payre stayres out of the gallerie in the preaching-place to a long stage or gallerie made along the court into the hall; so that we had as much view as a short passage could geve, but the excesse of braverie, and the continued succession of new companie did so dasell me that I could not observe the tenth part of that I wisht. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">bridgegrome</persName> and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">bridge</persName> were both in a sute of cloth of silver richly embrodered with silver, her traine carried up by thirteen younge Ladies (or Lords daughters at least) besides five or sixe more that could not come neere yt: these were all in the same liverie with the bride, though not so rich. The bride was maried in her haire that hung downe long, with an exceding rich cornet on her head (which <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> valued the next day at a million of crownes). Her two bridemen were <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">the younge Prince</persName> and <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631">the earle of Northampton</persName>. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> and <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> both followed, the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> all in white but not very rich saving in jewells: the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> me thought was somewhat straungely attired in a cap and a feather, with a Spanish Cape and a longe stocking. The chappell was very straightly kept none suffred to enter under the degree of a baron, but the three Lords Cheife Justices
+               that, wherof you may receive from him full and complete satisfaction. <span ana="fireworks">On <date when="1613-02-11">Thursday night</date> the fireworks were reasonablie well performed all save the last castle (of five) which bred most expectation and had most devises, but when yt came to execution, had worst successe.</span> <span ana="sea_fight">On <date when="1613-02-13">Saterday</date> likewise the fight upon the water came short of that shew and bragges had ben made of yt, but they pretend the best to be behind and left for another day, which was the winning of the castle on land: but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> and indeed all the compare tooke so litle delight to see no other activitie but shooting and potting of gunnes that yt is quite geven over and the navie unrigged and the castle pulled downe, the rather for that there were divers hurt in the former fight, (as one lost both his eyes, another both his hands, another one hande, with divers others maymed and hurt) so that to avoyde further harme, yt was thought best to let yt alone, and this is the conclusion of all the preparation with so much expence of powder and monie which amounted to no lesse then nine thousand pound.</span> <span ana="wedding">On <date when="1613-02-14">Sonday</date> I was fetcht from <placeName key="St Paul's Cathedral" ref="http://www.wikidata.org/entity/Q173882">Powles</placeName> (where l was set at the sermon) to see <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName> go to church, and though yt were past ten a clocke before we came there yet we found a whole window reserved in the jewell-house, which was over against her comming downe a payre stayres out of the gallerie in the preaching-place to a long stage or gallerie made along the court into the hall; so that we had as much view as a short passage could geve, but the excesse of braverie, and the continued succession of new companie did so dasell me that I could not observe the tenth part of that I wisht. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">bridgegrome</persName> and <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">bridge</persName> were both in a sute of cloth of silver richly embrodered with silver, her traine carried up by thirteen younge Ladies (or Lords daughters at least) besides five or sixe more that could not come neere yt: these were all in the same liverie with the bride, though not so rich. The bride was maried in her haire that hung downe long, with an exceding rich cornet on her head (which <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> valued the next day at a million of crownes). Her two bridemen were <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">the younge Prince</persName> and <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631" ana="male">the earle of Northampton</persName>. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> and <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> both followed, the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> all in white but not very rich saving in jewells: the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> me thought was somewhat straungely attired in a cap and a feather, with a Spanish Cape and a longe stocking. The chappell was very straightly kept none suffred to enter under the degree of a baron, but the three Lords Cheife Justices
 <note>Sir Thomas Fleming, Chief Justice of King’s Bench; Sir Edward Coke, Chief Justice of Common Pleas; Sir Lawrence Tanfield, Chief Baron of the Exchequer.</note>
-: in the midst there was a handsome stage or scaffold made, on the one side wherof sat the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">Kinge</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry of Nassau</persName>, on the other side <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">the bride</persName> and one or two more. Upon this stage they were maried by the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName> assisted by the <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931">bishop of Bath and Wells</persName> (who made the sermon). Yt was don all in English, and the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> had learned as much as concerned his part reasonable perfectly. The <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053">States</persName> ambassadors dined that day with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">the bride</persName>. The <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093">Spanish ambassador</persName> was sicke and the archdukes was invited for the next day but wold not come.</span> <span ana="lordes_maske">That night was the Lords maske
+: in the midst there was a handsome stage or scaffold made, on the one side wherof sat the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">Kinge</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry of Nassau</persName>, on the other side <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName> with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">the bride</persName> and one or two more. Upon this stage they were maried by the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">archbishop of Caunterburie</persName> assisted by the <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931">bishop of Bath and Wells</persName> (who made the sermon). Yt was don all in English, and the <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Prince Palatin</persName> had learned as much as concerned his part reasonable perfectly. The <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038">Venetian</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053">States</persName> ambassadors dined that day with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">the bride</persName>. The <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093">Spanish ambassador</persName> was sicke and the archdukes was invited for the next day but wold not come.</span> <span ana="lordes_maske">That night was the Lords maske
 <note>By Thomas Campion. It is printed with A relation of the late royall entertainment given by the Lord Knowles. (S. T. C., 4545; Chambers, iii, 241-244.</note>
 wherof I heare no great commendation save only for riches, theyre devises beeing long and tedious and more like a play then a maske.</span> The next morning <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> went to visit these young turtles that were coupled
                on St. Valentines day, and did strictly examine him whether he were his true sonne in
