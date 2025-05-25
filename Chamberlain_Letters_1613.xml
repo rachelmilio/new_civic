@@ -37033,7 +37033,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132630634",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:26:30.634Z",
-	"dcterms:modified": "2025-05-15T10:26:30.634Z",
+	"dcterms:modified": "2025-05-25T17:47:31.249Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37427,7 +37427,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132825554",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:28:25.554Z",
-	"dcterms:modified": "2025-05-15T10:28:25.554Z",
+	"dcterms:modified": "2025-05-25T17:47:15.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37506,7 +37506,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132836978",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:28:36.978Z",
-	"dcterms:modified": "2025-05-15T10:28:36.978Z",
+	"dcterms:modified": "2025-05-25T17:47:02.391Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40907,7 +40907,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                take speciall comfort in him. Yesterday was the great christning of the <persName key="William Cecil, 2nd Earl of Salisbury" ref="http://www.wikidata.org/entity/Q4019960">earle of
                Salisberies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName> <note>Cf. Letters 162, 164.</note> in the chappell at court,
                whence the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palatin</persName>, <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeths</persName> highnes and all the companie
-               convoyed yt home and went by water to the banket. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> removes to morrow to
+               convoyed yt home and went by water to the banket. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> removes to morrow to
                <placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Grenwich</placeName> to injoy this fayre weather which hath ben exceding cleere, sweet and
                pleasant almost this fortnight. Our revells and triumphes within doores gave great
                content- ment beeing both daintie and curious in devise and sumptuous in shew:
@@ -40917,7 +40917,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes Ynne</orgName> men and the <orgName key="Inner Temple" ref="http://www.wikidata.org/entity/Q1233784">Ynner Templers</orgName> <note>For notes on this letter, see also
                   Letters 166, 167.</note> were nothing discouraged for all the first dodge, but on
                <date when="1613-02-20">Saterday last</date> performed theyre parts exceding well, and with great applause and
-               approbation both from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> and all the companie. The next night the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> invited
+               approbation both from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> and all the companie. The next night the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> invited
                the maskers with theyre assistants to the number of forty to a solemne supper in the
                new mariage roome, where they were well treated and much graced with kissing his
                Majesties hand, and every one having a particuler accoglienza from him. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>
