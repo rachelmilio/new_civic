@@ -37585,7 +37585,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133135129",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:31:35.129Z",
-	"dcterms:modified": "2025-05-15T10:31:35.129Z",
+	"dcterms:modified": "2025-05-25T17:44:54.427Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -37664,7 +37664,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515133307127",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:33:07.127Z",
-	"dcterms:modified": "2025-05-15T10:33:07.127Z",
+	"dcterms:modified": "2025-05-25T17:44:43.583Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40920,14 +40920,14 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                approbation both from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> and all the companie. The next night the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> invited
                the maskers with theyre assistants to the number of forty to a solemne supper in the
                new mariage roome, where they were well treated and much graced with kissing his
-               Majesties hand, and every one having a particuler accoglienza from him. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>
+               Majesties hand, and every one having a particuler accoglienza from him. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>
                husbanded the matter so well that this feast was not at his owne cost, but he and his
                companie wan yt upon a wager of running at the ring of the Prince and his nine
                followers, who payed thirty pound a man: the King, Quene, Prince, Palatin and Lady
                Elizabeth sat at table by themselves: and the great Lords and Ladies with the
                praskers (above fowrescore in all) sat at another long table, so that there was no
                roome for them that made the feast but they were faire to be lookers on, which the
-               young <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914">Lady Rich</persName> <note>Isobel, daughter of Sir Walter Cope, and wife of Sir Henry
+               young <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914" ana="female">Lady Rich</persName> <note>Isobel, daughter of Sir Walter Cope, and wife of Sir Henry
                   Rich.</note> tooke no great pleasure in to see her <persName key="Henry Rich, 1st Earl of Holland" ref="http://www.wikidata.org/entity/Q3131912" ana="male">husband</persName> (who was one that
                payde) not so much as drincke for his monie. The ambassadors that were at this
                wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States:
