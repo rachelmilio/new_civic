@@ -38375,7 +38375,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134114578",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:41:14.578Z",
-	"dcterms:modified": "2025-05-15T10:41:14.578Z",
+	"dcterms:modified": "2025-05-25T17:42:03.040Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38454,7 +38454,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134137223",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:41:37.223Z",
-	"dcterms:modified": "2025-05-15T10:41:37.223Z",
+	"dcterms:modified": "2025-05-25T17:41:49.443Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38533,7 +38533,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134201915",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:42:01.915Z",
-	"dcterms:modified": "2025-05-15T10:42:01.915Z",
+	"dcterms:modified": "2025-05-25T17:41:37.069Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38612,7 +38612,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134315343",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:43:15.343Z",
-	"dcterms:modified": "2025-05-15T10:43:15.343Z",
+	"dcterms:modified": "2025-05-25T17:41:07.137Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38691,7 +38691,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134345971",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:43:45.971Z",
-	"dcterms:modified": "2025-05-15T10:43:45.971Z",
+	"dcterms:modified": "2025-05-25T17:40:52.766Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40934,10 +40934,10 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for
                the second day made a sullen excuse: and those that were present were not altogether
                so pleased, but that I heare every one had some puntillo of disgust. The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979">Duke of
-               Lennox</persName>, the <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828">Vicount Lile</persName>, the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">Lord Zouch</persName>, and the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">Lord Harrington</persName> are in speach to be
-               commissioners to go over with the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName>, to see her and her joynter setled,
-               and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399">Levinus</persName> <note>Levinus Munck.</note> is named secretarie for that service. I heare
-               the <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517">earle of Arundell</persName> is added to the number, who meanes to carry over his Lady, and
+               Lennox</persName>, the <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828">Vicount Lile</persName>, the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">Lord Zouch</persName>, and the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">Lord Harrington</persName> are in speach to be
+               commissioners to go over with the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName>, to see her and her joynter setled,
+               and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399" ana="male">Levinus</persName> <note>Levinus Munck.</note> is named secretarie for that service. I heare
+               the <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517" ana="male">earle of Arundell</persName> is added to the number, who meanes to carry over his Lady, and
                no doubt they will both make another viage into Italie. Till the very howre that the
                <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went hence men were still in suspence, and great expectation there was of new
                officers, and <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName> <note>Sir Henry Neville.</note> frends made full account of
