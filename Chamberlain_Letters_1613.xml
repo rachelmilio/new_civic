@@ -39323,7 +39323,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134741882",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:47:41.882Z",
-	"dcterms:modified": "2025-05-15T10:47:41.882Z",
+	"dcterms:modified": "2025-05-25T17:39:22.049Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39402,7 +39402,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135135972",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:51:35.972Z",
-	"dcterms:modified": "2025-05-15T10:51:35.972Z",
+	"dcterms:modified": "2025-05-25T17:39:11.997Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39481,7 +39481,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135306426",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:53:06.426Z",
-	"dcterms:modified": "2025-05-15T10:53:06.426Z",
+	"dcterms:modified": "2025-05-25T17:39:01.604Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39560,7 +39560,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135414685",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:54:14.685Z",
-	"dcterms:modified": "2025-05-15T10:54:14.685Z",
+	"dcterms:modified": "2025-05-25T17:38:50.853Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39639,7 +39639,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135453107",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:54:53.107Z",
-	"dcterms:modified": "2025-05-15T10:54:53.107Z",
+	"dcterms:modified": "2025-05-25T17:38:38.796Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39718,7 +39718,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135510920",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:55:10.920Z",
-	"dcterms:modified": "2025-05-15T10:55:10.920Z",
+	"dcterms:modified": "2025-05-25T17:38:28.580Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40952,15 +40952,15 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                Ireland</persName> <note>Sir Arthur Chichester.</note> is made Lord Chichester of Belfast
                against the parlement that is to be held there in May. This weeke here died the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322">Lady
                Mary Nevill</persName> (daughter to the late <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967">Treasurer Dorset</persName>), of a longe languishing sicknes;
-               and the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263">Lady Conway</persName> of the Brill much after the same sort, as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084">Sir William
-               Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630">Lady</persName> <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
+               and the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady Conway</persName> of the Brill much after the same sort, as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084" ana="male">Sir William
+               Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630" ana="female">Lady</persName> <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
                   Warwickshire.</note> of Charing Crosse. Sir Henry Savile shewed me the last weeke
-               his notes taken in the reading of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673">Sir Thomas Bodleys</persName> life <note>Cf. Letter
+               his notes taken in the reading of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodleys</persName> life <note>Cf. Letter
                   164.</note>, written by himself in seven sheets of paper with vanitie enough,
                wherin omitting not the least minutezze that might turne to his glorie, he doth not
-               so much as make mention of his wife, nor that he was maried; nor of <persName key="Francis Walsingham" ref="http://www.wikidata.org/entity/Q138409">Secretarie
+               so much as make mention of his wife, nor that he was maried; nor of <persName key="Francis Walsingham" ref="http://www.wikidata.org/entity/Q138409" ana="male">Secretarie
                Walsingham</persName> <note>Sir Francis Walsingham, Secretary of State, 1573-1590.</note> nor
-               the <persName key="Robert Dudley, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q318017">earle of Lecester</persName> <note>Robert Dudley, Earl of Leicester, Queen Elizabeth’s
+               the <persName key="Robert Dudley, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q318017" ana="male">earle of Lecester</persName> <note>Robert Dudley, Earl of Leicester, Queen Elizabeth’s
                   favorite.</note> who were all his maine raisers, whereby may be seen, what mind he
                caried to his best benefactors. Here was an odde fray fell out the last weeke twixt
                one <persName key="Thomas Hutchinson" ref="http://www.wikidata.org/entity/Q7790934">Huchinson</persName> <note>Thomas Hutchinson of Owthorpe, Nottinghamshire.</note> of <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes
