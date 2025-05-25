@@ -27726,7 +27726,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512155745558",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T12:57:45.558Z",
-	"dcterms:modified": "2025-05-12T12:57:45.558Z",
+	"dcterms:modified": "2025-05-25T19:05:53.425Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40777,7 +40777,7 @@ wherof I heare no great commendation save only for riches, theyre devises beeing
                   Percy, ninth Earl of Northumberland, then a prisoner in the Tower, had two
                   daughters: Dorothy, who in 1616 married Sir Robert Sidney (second Earl of
                   Leicester, 1626), and Lucy, who in 1617 married James, first Lord Hay (Viscount
-                  Doncaster, 1618, Earl of Carlisle, 1622).</note> was very gallant, and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943">Lord
+                  Doncaster, 1618, Earl of Carlisle, 1622).</note> was very gallant, and the <persName key="Anthony Maria Browne, 2nd Viscount Montagu" ref="http://www.wikidata.org/entity/Q4771943" ana="male">Lord
                Montague</persName> <note>Anthony Browne, second Viscount Montague.</note> (that hath paide
                reasonablie well for recusancie) bestowed fifteen hundred pound in apparell for his
                two daughters. The <persName key="Robert Carr, 1st Earl of Somerset" ref="http://www.wikidata.org/entity/Q336096">Vicount Rochester</persName>, the <persName key="Thomas Hayes" ref="http://www.wikidata.org/entity/Q7790518"><persName key="James Hay, 1st Earl of Carlisle" ref="http://www.wikidata.org/entity/Q3023437">Lord Hayes</persName></persName> and the <persName key="Richard Preston, 1st Earl of Desmond" ref="http://www.wikidata.org/entity/Q7328504">Lord Dingwell</persName> were
