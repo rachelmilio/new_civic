@@ -36717,7 +36717,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132436255",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:24:36.255Z",
-	"dcterms:modified": "2025-05-15T10:24:36.255Z",
+	"dcterms:modified": "2025-05-25T17:48:37.555Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36796,7 +36796,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132448252",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:24:48.252Z",
-	"dcterms:modified": "2025-05-15T10:24:48.252Z",
+	"dcterms:modified": "2025-05-25T17:48:27.521Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36875,7 +36875,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132600023",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:26:00.023Z",
-	"dcterms:modified": "2025-05-15T10:26:00.023Z",
+	"dcterms:modified": "2025-05-25T17:48:12.184Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -36954,7 +36954,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515132615159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:26:15.159Z",
-	"dcterms:modified": "2025-05-15T10:26:15.159Z",
+	"dcterms:modified": "2025-05-25T17:48:01.399Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40906,7 +40906,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                hopes. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> likewise is well come about, and graces yt all she can and seemes to
                take speciall comfort in him. Yesterday was the great christning of the <persName key="William Cecil, 2nd Earl of Salisbury" ref="http://www.wikidata.org/entity/Q4019960">earle of
                Salisberies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName> <note>Cf. Letters 162, 164.</note> in the chappell at court,
-               whence the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palatin</persName>, <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeths</persName> highnes and all the companie
+               whence the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palatin</persName>, <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeths</persName> highnes and all the companie
                convoyed yt home and went by water to the banket. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> removes to morrow to
                <placeName key="Palace of Placentia" ref="http://www.wikidata.org/entity/Q1424839">Grenwich</placeName> to injoy this fayre weather which hath ben exceding cleere, sweet and
                pleasant almost this fortnight. Our revells and triumphes within doores gave great
