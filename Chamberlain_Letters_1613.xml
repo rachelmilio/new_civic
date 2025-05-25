@@ -34901,7 +34901,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515125926483",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:59:26.483Z",
-	"dcterms:modified": "2025-05-15T09:59:26.483Z",
+	"dcterms:modified": "2025-05-25T18:10:03.286Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -34980,7 +34980,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515125959842",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:59:59.842Z",
-	"dcterms:modified": "2025-05-15T09:59:59.842Z",
+	"dcterms:modified": "2025-05-25T18:09:51.328Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35059,7 +35059,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515130032053",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:00:32.053Z",
-	"dcterms:modified": "2025-05-15T10:00:32.053Z",
+	"dcterms:modified": "2025-05-25T18:09:42.010Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40862,8 +40862,8 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                joynter well setled: the <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979">Duke of Lennox</persName> <note>Ludovick Stuart, second Duke of
                   Lennox.</note>, <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517">the earle of Arundell</persName> <note>Thomas Howard, second Earl of Arundel
                   and Surrey.</note>, <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828">the vicount Lile</persName> <note>Robert Sidney, Viscount Lisle.</note>,
-               <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053">the Lord Zouch</persName> <note>Edward, eleventh Lord Zouche.</note> and <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898">the Lord Harrington</persName>
-                  <note>John, first Lord Harington of Exton.</note> are named, and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399">Levinus</persName> for
+               <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">the Lord Zouch</persName> <note>Edward, eleventh Lord Zouche.</note> and <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">the Lord Harrington</persName>
+                  <note>John, first Lord Harington of Exton.</note> are named, and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399" ana="male">Levinus</persName> for
                secretarie in that service. I doubt not but you have heard of the death of the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady
                Conway</persName> <note>Dorothy, daughter of Sir John Tracy, and wife of Sir Edward Conway,
                   Governor of the Brill.</note>, and the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322" ana="female">Lady Mary Nevill</persName> <note>Mary, daughter of
