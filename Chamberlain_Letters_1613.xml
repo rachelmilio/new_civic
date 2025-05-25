@@ -23464,7 +23464,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154306806",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:43:06.806Z",
-	"dcterms:modified": "2025-05-11T12:43:06.806Z",
+	"dcterms:modified": "2025-05-25T18:55:23.444Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23780,7 +23780,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154429650",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:44:29.650Z",
-	"dcterms:modified": "2025-05-11T12:44:29.650Z",
+	"dcterms:modified": "2025-05-25T18:55:35.450Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23859,7 +23859,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154517739",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:45:17.739Z",
-	"dcterms:modified": "2025-05-11T12:45:17.739Z",
+	"dcterms:modified": "2025-05-25T18:55:43.211Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23938,7 +23938,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154835821",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:48:35.821Z",
-	"dcterms:modified": "2025-05-11T12:48:35.821Z",
+	"dcterms:modified": "2025-05-25T18:55:51.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24017,7 +24017,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511154907772",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:49:07.772Z",
-	"dcterms:modified": "2025-05-11T12:49:07.772Z",
+	"dcterms:modified": "2025-05-25T18:55:58.939Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24175,7 +24175,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250511155146806",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:51:46.806Z",
-	"dcterms:modified": "2025-05-11T12:51:46.806Z",
+	"dcterms:modified": "2025-05-25T18:56:15.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40739,12 +40739,12 @@
                many devises on foote to find monie and among the rest they speake of a benevolence,
                which is to be laide up and called aes or rather aerarium sacrum, not to be touched
                but in cases of extremitie, and for defence of the realme. The circuits are all
-               altered, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435">Lord Cooke</persName> put to go to <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecester- shire</placeName>,
-               for <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the King</persName> sayes he will make no more use of Non obstantes that Judges may ride and
-               kepe assises in theyre owne countrie. The <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487">Lady of Bedford</persName> lies in weake case (and
-               they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030">daughter</persName> was to be christned this
+               altered, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName> put to go to <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecester- shire</placeName>,
+               for <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> sayes he will make no more use of Non obstantes that Judges may ride and
+               kepe assises in theyre owne countrie. The <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487" ana="female">Lady of Bedford</persName> lies in weake case (and
+               they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> was to be christned this
                day in the Kings chappell, but yt is now put of till next weeke. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">Quene</persName> and the
-               <persName key="Elizabeth de Vere, Countess of Derby" ref="http://www.wikidata.org/entity/Q760788">Countesse of Darbie</persName> <note>Elizabeth, daughter of Edward de Vere, seventeenth Earl of
+               <persName key="Elizabeth de Vere, Countess of Derby" ref="http://www.wikidata.org/entity/Q760788" ana="female">Countesse of Darbie</persName> <note>Elizabeth, daughter of Edward de Vere, seventeenth Earl of
                   Oxford, and wife of William Stanley, sixth Earl of Derby.</note> are to be
                Godmothers and <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089">the Lord Admirall</persName> Godfather. So will all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532">my Lady</persName>
                and <persName key="Alice Carleton">Mistris Carleton</persName> I commend you to the protection of the Almighty. From London
