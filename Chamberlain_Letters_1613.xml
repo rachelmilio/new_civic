@@ -31593,7 +31593,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173848648",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:38:48.648Z",
-	"dcterms:modified": "2025-05-12T14:38:48.648Z",
+	"dcterms:modified": "2025-05-25T17:37:54.771Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -31672,7 +31672,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512173859355",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:38:59.355Z",
-	"dcterms:modified": "2025-05-12T14:38:59.355Z",
+	"dcterms:modified": "2025-05-25T17:37:42.254Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39955,7 +39955,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515140401400",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T11:04:01.400Z",
-	"dcterms:modified": "2025-05-15T11:04:01.400Z",
+	"dcterms:modified": "2025-05-25T17:38:05.849Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40968,7 +40968,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                or fowre places, and cut of three of his fingers before he could draw his weapon,
                wherupon inraged he flew upon him and getting him downe bit of a goode part of his
                nose and carried yt away in his pocket. I had almost forgotten one accident at this
-               late wedding, which was not then much noted, but is since much spoken of. <persName key="David Lindsay (secundus)" ref="http://www.wikidata.org/entity/Q93488454">Lion the
+               late wedding, which was not then much noted, but is since much spoken of. <persName key="David Lindsay (secundus)" ref="http://www.wikidata.org/entity/Q93488454" ana="male">Lion the
                Scottish king of Heralds</persName> beeing expressed sent for, had a rich coat of armes provided
                here, with the armes of Scotland before those of England, and ware yt (as he saide)
                by commaundment, which is not much required into but howsoever yt is thought a
@@ -40976,8 +40976,8 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                due remembrance to my Lady and Mistris Carleton I commend you to the protection of
                the Almighty. From London this <date when="1613-02-25">25th of February 1612</date>.</p>
             <l>Your Lordships to commaund</l>
-            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650">JOHN CHAMBERLAIN</persName>.</l>
-            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833">Sir Dudley Carleton</persName> knight Lord Ambassador for his Majestie at
+            <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
+            <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">Sir Dudley Carleton</persName> knight Lord Ambassador for his Majestie at
                Venice.</p>
          </div>
       </body>
