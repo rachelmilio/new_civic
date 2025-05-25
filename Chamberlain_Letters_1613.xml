@@ -38770,7 +38770,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134403601",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:44:03.601Z",
-	"dcterms:modified": "2025-05-15T10:44:03.601Z",
+	"dcterms:modified": "2025-05-25T17:40:39.940Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38849,7 +38849,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134417682",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:44:17.682Z",
-	"dcterms:modified": "2025-05-15T10:44:17.682Z",
+	"dcterms:modified": "2025-05-25T17:40:29.937Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -38928,7 +38928,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134439848",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:44:39.848Z",
-	"dcterms:modified": "2025-05-15T10:44:39.848Z",
+	"dcterms:modified": "2025-05-25T17:40:18.971Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39007,7 +39007,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134457648",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:44:57.648Z",
-	"dcterms:modified": "2025-05-15T10:44:57.648Z",
+	"dcterms:modified": "2025-05-25T17:40:08.426Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39086,7 +39086,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134611373",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:46:11.373Z",
-	"dcterms:modified": "2025-05-15T10:46:11.373Z",
+	"dcterms:modified": "2025-05-25T17:39:57.431Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39165,7 +39165,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134700722",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:47:00.722Z",
-	"dcterms:modified": "2025-05-15T10:47:00.722Z",
+	"dcterms:modified": "2025-05-25T17:39:43.548Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -39244,7 +39244,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515134723868",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:47:23.868Z",
-	"dcterms:modified": "2025-05-15T10:47:23.868Z",
+	"dcterms:modified": "2025-05-25T17:39:35.194Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40939,19 +40939,19 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399">Levinus</persName> <note>Levinus Munck.</note> is named secretarie for that service. I heare
                the <persName key="Thomas Howard, 21st Earl of Arundel" ref="http://www.wikidata.org/entity/Q166517">earle of Arundell</persName> is added to the number, who meanes to carry over his Lady, and
                no doubt they will both make another viage into Italie. Till the very howre that the
-               <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> went hence men were still in suspence, and great expectation there was of new
-               officers, and <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812">Sir H. N.</persName> <note>Sir Henry Neville.</note> frends made full account of
+               <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> went hence men were still in suspence, and great expectation there was of new
+               officers, and <persName key="Henry Neville" ref="http://www.wikidata.org/entity/Q2775812" ana="male">Sir H. N.</persName> <note>Sir Henry Neville.</note> frends made full account of
                him from day to day, but beeing now driven from that hold, they spin out theyre hopes
-               till the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeth</persName> be past the Lowcountries, and then we shall see what will
+               till the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName> be past the Lowcountries, and then we shall see what will
                become of our goode frend there <note>Sir Ralph Winwood</note>, for whom one place is
                thought to be reserved, and for my part I thincke yt most probable but yf we fayle
                then yt shalbe the last time of my looking at any such busines. We were much deceved
                likewise in our expectation of new creations of noble men and knightings, at these
-               solemnities, for the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName> wold not be drawne to yt by any meanes, which hath mard the
-               market, or rather raised the price to extraordinarie rate. Only the <persName key="Arthur Chichester, 1st Baron Chichester" ref="http://www.wikidata.org/entity/Q2485335">Deputie of
+               solemnities, for the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> wold not be drawne to yt by any meanes, which hath mard the
+               market, or rather raised the price to extraordinarie rate. Only the <persName key="Arthur Chichester, 1st Baron Chichester" ref="http://www.wikidata.org/entity/Q2485335" ana="male">Deputie of
                Ireland</persName> <note>Sir Arthur Chichester.</note> is made Lord Chichester of Belfast
-               against the parlement that is to be held there in May. This weeke here died the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322">Lady
-               Mary Nevill</persName> (daughter to the late <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967">Treasurer Dorset</persName>), of a longe languishing sicknes;
+               against the parlement that is to be held there in May. This weeke here died the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322" ana="female">Lady
+               Mary Nevill</persName> (daughter to the late <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967" ana="male">Treasurer Dorset</persName>), of a longe languishing sicknes;
                and the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady Conway</persName> of the Brill much after the same sort, as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084" ana="male">Sir William
                Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630" ana="female">Lady</persName> <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
                   Warwickshire.</note> of Charing Crosse. Sir Henry Savile shewed me the last weeke
