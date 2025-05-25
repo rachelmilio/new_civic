@@ -31985,7 +31985,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512174509440",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:45:09.440Z",
-	"dcterms:modified": "2025-05-12T14:45:09.440Z",
+	"dcterms:modified": "2025-05-25T17:55:00.465Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40887,7 +40887,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
             <p>My very goode Lord: Yt seemes by your letter of the <date when="1613-01-22">22th of the last</date>, that since mine
                of the <date when="1612-12-17">17th of December</date>, two ordinaries together came empty; the reason wherof I
                cannot conceive, seeing I have not fayled any weeke since that time of writing to you
-               or <persName key="Alice Carleton">Mistris Carleton</persName> <note>Alice Carleton.</note>, or both. <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284">Master Waake</persName> <note>Isaac
+               or <persName key="Alice Carleton">Mistris Carleton</persName> <note>Alice Carleton.</note>, or both. <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName> <note>Isaac
                   Wake, Carleton's secretary, who had been in England for several months</note> is
                now in procinctu, having taken his leave of <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">his Majestie</persName> and stayes only for his
                dispatch and letters, which he hath, or is promised to have this day at the farthest.
