@@ -19201,7 +19201,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163921861",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:39:21.861Z",
-	"dcterms:modified": "2025-04-08T13:39:21.861Z",
+	"dcterms:modified": "2025-05-25T18:37:59.557Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19280,7 +19280,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163939688",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:39:39.688Z",
-	"dcterms:modified": "2025-04-08T13:39:39.688Z",
+	"dcterms:modified": "2025-05-25T18:38:08.737Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19359,7 +19359,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163953760",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:39:53.760Z",
-	"dcterms:modified": "2025-04-08T13:39:53.760Z",
+	"dcterms:modified": "2025-05-25T18:38:18.774Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19438,7 +19438,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164014106",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:40:14.106Z",
-	"dcterms:modified": "2025-04-08T13:40:14.106Z",
+	"dcterms:modified": "2025-05-25T18:38:25.406Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -19517,7 +19517,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408164029578",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:40:29.578Z",
-	"dcterms:modified": "2025-04-08T13:40:29.578Z",
+	"dcterms:modified": "2025-05-25T18:38:31.359Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30961,7 +30961,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172645842",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:26:45.842Z",
-	"dcterms:modified": "2025-05-12T14:26:45.842Z",
+	"dcterms:modified": "2025-05-25T18:37:16.204Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40634,9 +40634,9 @@
                have here so diligent an observer <note>Lady Winwood was then in London.</note> of
                all occasions, that nothing can scape unadvertised, so that were yt not more to shew
                my goode will and serviceable affection, then for any matter of worth, my double
-               diligence might well enough be spared. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Count Palatin</persName> came home
-               yesterday from the installation <note>Of <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Frederick, the Elector Palatine</persName>, and of
-                  <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice of Nassau</persName> as Knights of the Garter.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName>, where the
+               diligence might well enough be spared. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>, <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName> and <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Count Palatin</persName> came home
+               yesterday from the installation <note>Of <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Frederick, the Elector Palatine</persName>, and of
+                  <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count Maurice of Nassau</persName> as Knights of the Garter.</note> at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName>, where the
                <persName key="William Louis, Count of Nassau-Dillenburg" ref="http://www.wikidata.org/entity/Q71428">Count Lodovic of Nassau</persName> supplied the place of <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062">Count Maurice</persName> putting in his caveat
                salvis constitutionibus Foederatarum Provinciarum, as likewise the Prince Palatin
                salvo jure Imperii. I heare our Lords made some difficultie to yeeld that Count
@@ -40826,7 +40826,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                and Wells</persName> preached, and <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">the archbishop</persName> performed the other rites and ceremonies
                upon a stage raised in the middes of the chappell, on the right side wherof sat <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the
                King</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName>, and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> <note>Of Nassau.</note>, on the
-               other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>Anne, wife of John, first
+               other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>Anne, wife of John, first
                   Lord Harington of Exton.</note>, and one or two more. The chappell was kept very
                straight, and none admitted under the degree of a baron, saving the three Lords
                Cheife Justices: the contract and mariage was celebrated all in English, and the
