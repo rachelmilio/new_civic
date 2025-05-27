@@ -30637,7 +30637,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172209435",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:22:09.435Z",
-	"dcterms:modified": "2025-05-12T14:22:09.435Z",
+	"dcterms:modified": "2025-05-27T17:45:24.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30716,7 +30716,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172223759",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:22:23.759Z",
-	"dcterms:modified": "2025-05-12T14:22:23.759Z",
+	"dcterms:modified": "2025-05-27T17:45:45.275Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30795,7 +30795,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172628016",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:26:28.016Z",
-	"dcterms:modified": "2025-05-12T14:26:28.016Z",
+	"dcterms:modified": "2025-05-27T17:45:57.905Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40657,7 +40657,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                neere yt, all suted in the same liverie of white and embroiderie. The <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931" ana="male">bishop of Bath
                and Wells</persName> preached, and <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">the archbishop</persName> performed the other rites and ceremonies
                upon a stage raised in the middes of the chappell, on the right side wherof sat <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the
-               King</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName>, and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> <note>Of Nassau.</note>, on the
+               King</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Palsgrave</persName>, and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry</persName> <note>Of Nassau.</note>, on the
                other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>Anne, wife of John, first
                   Lord Harington of Exton.</note>, and one or two more. The chappell was kept very
                straight, and none admitted under the degree of a baron, saving the three Lords
