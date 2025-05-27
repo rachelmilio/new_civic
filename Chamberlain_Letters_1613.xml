@@ -30005,7 +30005,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170809931",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:08:09.931Z",
-	"dcterms:modified": "2025-05-12T14:08:09.931Z",
+	"dcterms:modified": "2025-05-27T17:43:05.843Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30084,7 +30084,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170832127",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:08:32.127Z",
-	"dcterms:modified": "2025-05-12T14:08:32.127Z",
+	"dcterms:modified": "2025-05-27T17:43:25.216Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30163,7 +30163,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171214736",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:12:14.736Z",
-	"dcterms:modified": "2025-05-12T14:12:14.736Z",
+	"dcterms:modified": "2025-05-27T17:43:37.373Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40636,18 +40636,18 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
             <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
          </div>
          <div>
-            <head>167. TO <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287">SIR RALPH WINWOOD</persName>.</head>
+            <head>167. TO <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">SIR RALPH WINWOOD</persName>.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, February 23, 1613.]</l>
             <p>My very goode Lord: Since my last of the 10th of this present here hath ben litle to
-               advertise, but the consummation of the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252">Lady Elizabeths</persName> mariage with the Count
+               advertise, but the consummation of the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeths</persName> mariage with the Count
                Palatin, together with the triumphes and shewes both before and after <note>For notes
                   on this letter, see also Letter 166.</note>. I need not tell you how much this
                match is to the contentment of all well affected people, and what joy they take in
                yt, as beeing a firme foundation for the stablishing of religion, which (upon what
                conceit I know not) was before suspected to be in bransle. But the Roman Catholikes
                maligne yt as much, and do what they can to disgrace yt as beeing the ruine of theyre
-               hopes. <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248">The Quene</persName> that seemed not to taste yt so well at first, is since so come about
+               hopes. <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">The Quene</persName> that seemed not to taste yt so well at first, is since so come about
                that she doth all she can to grace yt, and takes speciall comfort in him. The
                solemnities were performed in the chappell, whether the bride was conveyed on a
                scaffold or open gallerie all alonge the courtyard, arrayed in white, with her haire
