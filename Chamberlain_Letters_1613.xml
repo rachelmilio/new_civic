@@ -30242,7 +30242,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171241468",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:12:41.468Z",
-	"dcterms:modified": "2025-05-12T14:12:41.468Z",
+	"dcterms:modified": "2025-05-27T17:44:10.142Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30321,7 +30321,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172010336",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:20:10.336Z",
-	"dcterms:modified": "2025-05-12T14:20:10.336Z",
+	"dcterms:modified": "2025-05-27T17:44:22.896Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30400,7 +30400,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172055477",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:20:55.477Z",
-	"dcterms:modified": "2025-05-12T14:20:55.477Z",
+	"dcterms:modified": "2025-05-27T17:44:48.021Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30479,7 +30479,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172137927",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:21:37.927Z",
-	"dcterms:modified": "2025-05-12T14:21:37.927Z",
+	"dcterms:modified": "2025-05-27T17:44:58.010Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30558,7 +30558,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172157237",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-12T14:21:57.237Z",
-	"dcterms:modified": "2025-05-12T14:21:57.237Z",
+	"dcterms:modified": "2025-05-27T17:45:09.065Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -40651,12 +40651,12 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
                that she doth all she can to grace yt, and takes speciall comfort in him. The
                solemnities were performed in the chappell, whether the bride was conveyed on a
                scaffold or open gallerie all alonge the courtyard, arrayed in white, with her haire
-               hanging downe long, and a rich coronet on her heade, led by the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">younge Prince</persName> and the
-               <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631">earle of Northampton</persName> her bride-men: and her traine carried up by thirteen younge
+               hanging downe long, and a rich coronet on her heade, led by the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506" ana="male">younge Prince</persName> and the
+               <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631" ana="male">earle of Northampton</persName> her bride-men: and her traine carried up by thirteen younge
                Ladies (or Lords daughters at least) besides five or sixe more that could not come
-               neere yt, all suted in the same liverie of white and embroiderie. The <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931">bishop of Bath
-               and Wells</persName> preached, and <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925">the archbishop</persName> performed the other rites and ceremonies
-               upon a stage raised in the middes of the chappell, on the right side wherof sat <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972">the
+               neere yt, all suted in the same liverie of white and embroiderie. The <persName key="James Montague" ref="http://www.wikidata.org/entity/Q6139931" ana="male">bishop of Bath
+               and Wells</persName> preached, and <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">the archbishop</persName> performed the other rites and ceremonies
+               upon a stage raised in the middes of the chappell, on the right side wherof sat <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the
                King</persName> with the <persName key="Charles I of England" ref="http://www.wikidata.org/entity/Q81506">Prince</persName>, <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195">Palsgrave</persName>, and <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236">Count Henry</persName> <note>Of Nassau.</note>, on the
                other <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName>, with <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">the bride</persName>, the <persName key="Anne Keilway" ref="http://www.wikidata.org/entity/Q107325631" ana="female">Lady Harrington</persName> <note>Anne, wife of John, first
                   Lord Harington of Exton.</note>, and one or two more. The chappell was kept very
