@@ -1062,6 +1062,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152502808",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:25:02.808Z",
+	"dcterms:modified": "2025-03-25T13:25:02.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1088,7 +1089,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152502808#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[12]"
+			"rdf:value": "TEI/text/body/div/p/span/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1140,6 +1141,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152657993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:26:57.993Z",
+	"dcterms:modified": "2025-03-25T13:26:57.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1166,7 +1168,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152657993#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[13]"
+			"rdf:value": "TEI/text/body/div/p/span/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1218,6 +1220,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401164725786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:47:25.786Z",
+	"dcterms:modified": "2025-04-01T13:47:25.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1244,7 +1247,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401164725786#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[14]"
+			"rdf:value": "TEI/text/body/div/p/span/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1296,6 +1299,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152712476",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:12.476Z",
+	"dcterms:modified": "2025-03-25T13:27:12.476Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1322,7 +1326,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152712476#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[16]"
+			"rdf:value": "TEI/text/body/div/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -1375,6 +1379,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152722284",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:22.284Z",
+	"dcterms:modified": "2025-03-25T13:27:22.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1401,7 +1406,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152722284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[17]"
+			"rdf:value": "TEI/text/body/div/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -39936,8 +39941,7 @@
                heyres males, according to the first graunt. We heare that these late great windes
                and raines have overthrowne <placeName key="Port of Dover" ref="http://www.wikidata.org/entity/Q739207">Dover peere</placeName>, and quite defaced those workes and
                fortifications against the sea, wherin there hath ben bestowed so much time and cost.
-               Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Counti</persName>
-               to condole for <persName key="Henry Frederick, Prince of Wales" ref="https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d" ana="male">the Princes</persName> death. His houshold is broken up, and the inventarie of
+               <span ana="diplomats">Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Counti</persName> to condole for <persName key="Henry Frederick, Prince of Wales" ref="https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d" ana="male">the Princes</persName> death.</span> His houshold is broken up, and the inventarie of
                his goods brought in far beyond his debts: the account of his yearly revenew riseth
                to 57000 li. I have heard an uncertain report that <persName>Sir Mathew Carie</persName> is like to loose
                and be cousened of eight or nine thousand pound in a purchase of one <persName key="Sir William Bond" ref="http://www.wikidata.org/entity/Q75487691" cert="medium" ana="male">Sir William Bond</persName>
