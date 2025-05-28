@@ -15136,6 +15136,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163111284",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:11.284Z",
+	"dcterms:modified": "2025-04-08T13:31:11.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15162,7 +15163,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163111284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[5]/p/span/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -15214,6 +15215,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163118440",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:18.440Z",
+	"dcterms:modified": "2025-04-08T13:31:18.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15240,7 +15242,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163118440#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/span/persName"
+			"rdf:value": "TEI/text/body/div[5]/p/span/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -15292,6 +15294,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163124531",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:24.531Z",
+	"dcterms:modified": "2025-04-08T13:31:24.531Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15318,7 +15321,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163124531#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -15370,6 +15373,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163130080",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:30.080Z",
+	"dcterms:modified": "2025-04-08T13:31:30.080Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15396,7 +15400,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163130080#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -15448,6 +15452,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163148635",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:48.635Z",
+	"dcterms:modified": "2025-04-08T13:31:48.635Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15474,7 +15479,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163148635#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[33]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -15526,6 +15531,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163154574",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:31:54.574Z",
+	"dcterms:modified": "2025-04-08T13:31:54.574Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15552,7 +15558,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163154574#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[34]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -15604,6 +15610,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163200920",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:32:00.920Z",
+	"dcterms:modified": "2025-04-08T13:32:00.920Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15630,7 +15637,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163200920#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[35]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[34]"
 		}
 	},
 	"oa:hasBody": {
@@ -15761,6 +15768,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163206935",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:32:06.935Z",
+	"dcterms:modified": "2025-04-08T13:32:06.935Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -15787,7 +15795,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163206935#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/persName[36]"
+			"rdf:value": "TEI/text/body/div[5]/p/persName[35]"
 		}
 	},
 	"oa:hasBody": {
@@ -40334,9 +40342,9 @@
                forgotten: but his thoughts descended not so low as to such mean frends, but
                contrarie to the course of true naturall affection (which they say ever descends)
                mounted altogether aloft to flatter and currie favor with the higher powers now when
-               he was to have no more use of them. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="male">Countesse of Salisburie</persName> <note>Katherine,
-                  daughter of Thomas Howard, first Earl of Suffolk, and wife of William Cecil,
-                  second Earl of Salisbury.</note> <span>was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="male">a daughter</persName> on Wensday night and had a very hard travayle</span>. There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName>
+               he was to have no more use of them. <span ana="birth">The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="male">Countesse of Salisburie</persName>
+<note>Katherine, daughter of Thomas Howard, first Earl of Suffolk, and wife of William Cecil, second Earl of Salisbury.</note>
+was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="male">a daughter</persName> on Wensday night and had a very hard travayle.</span> There is a great breach fallen out twixt <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">Vicount Fenton</persName>
                and <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir H. Nevile</persName> about the executorship to <persName key="John Norris">Sir John Norris</persName>, which may chaunce marre
                all, or at least hinder the fayre course he was in, for <persName key="Thomas Erskine, 1st Earl of Kellie" ref="http://www.wikidata.org/entity/Q7617163" ana="male">the Lord</persName> is very violent, and
                gon with open month to complain to <persName key="James VI and I" ref="https://cwrc.ca/islandora/object/reed:949cf318-a2d8-4449-8df0-191275cbb541" ana="male">the King</persName>, that he cannot have his will against law
