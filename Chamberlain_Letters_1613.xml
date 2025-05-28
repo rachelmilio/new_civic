@@ -27715,10 +27715,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160526379",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203551615",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:05:26.379Z",
-	"dcterms:modified": "2025-05-27T17:35:51.615Z",
+	"dcterms:created": "2025-05-27T17:35:51.615Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27729,7 +27728,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160526379#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203551615#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27743,7 +27742,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160526379#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203551615#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/persName[7]"
 		}
@@ -27794,10 +27793,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203614398",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:07:25.366Z",
-	"dcterms:modified": "2025-05-27T17:36:14.398Z",
+	"dcterms:created": "2025-05-27T17:36:14.398Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27808,7 +27806,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203614398#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27822,7 +27820,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160725366#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203614398#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/persName[9]"
 		}
@@ -27873,10 +27871,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203602121",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:09:10.156Z",
-	"dcterms:modified": "2025-05-27T17:36:02.121Z",
+	"dcterms:created": "2025-05-27T17:36:02.121Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27887,7 +27884,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203602121#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27901,7 +27898,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512160910156#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203602121#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/persName[8]/persName"
 		}
@@ -27952,10 +27949,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203626211",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:16:55.721Z",
-	"dcterms:modified": "2025-05-27T17:36:26.211Z",
+	"dcterms:created": "2025-05-27T17:36:26.211Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -27966,7 +27962,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203626211#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -27980,7 +27976,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512161655721#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203626211#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/persName[10]"
 		}
@@ -28583,10 +28579,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512162506754",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203710295",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:25:06.754Z",
-	"dcterms:modified": "2025-05-27T17:37:10.295Z",
+	"dcterms:created": "2025-05-27T17:37:10.295Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -28597,7 +28592,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512162506754#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203710295#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -28611,7 +28606,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512162506754#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527203710295#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName"
 		}
@@ -28741,10 +28736,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165844522",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204016886",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:58:44.522Z",
-	"dcterms:modified": "2025-05-27T17:40:16.886Z",
+	"dcterms:created": "2025-05-27T17:40:16.886Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -28755,7 +28749,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165844522#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204016886#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -28769,7 +28763,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165844522#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204016886#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName[2]"
 		}
@@ -28820,10 +28814,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165859374",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204028685",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:58:59.374Z",
-	"dcterms:modified": "2025-05-27T17:40:28.685Z",
+	"dcterms:created": "2025-05-27T17:40:28.685Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -28834,7 +28827,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165859374#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204028685#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -28848,7 +28841,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165859374#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204028685#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName[3]"
 		}
@@ -28899,10 +28892,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165940811",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204039249",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T13:59:40.811Z",
-	"dcterms:modified": "2025-05-27T17:40:39.249Z",
+	"dcterms:created": "2025-05-27T17:40:39.249Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -28913,7 +28905,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165940811#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204039249#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -28927,7 +28919,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512165940811#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204039249#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName[4]"
 		}
@@ -28978,10 +28970,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204112347",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:00:29.678Z",
-	"dcterms:modified": "2025-05-27T17:41:12.347Z",
+	"dcterms:created": "2025-05-27T17:41:12.347Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -28992,7 +28983,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204112347#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29006,7 +28997,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170029678#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204112347#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[6]/persName[5]"
 		}
@@ -29293,10 +29284,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170530560",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204127661",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:05:30.560Z",
-	"dcterms:modified": "2025-05-27T17:41:27.661Z",
+	"dcterms:created": "2025-05-27T17:41:27.661Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -29307,7 +29297,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170530560#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204127661#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29321,7 +29311,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170530560#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204127661#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[7]/persName"
 		}
@@ -29530,10 +29520,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170626230",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204140532",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:06:26.230Z",
-	"dcterms:modified": "2025-05-27T17:41:40.532Z",
+	"dcterms:created": "2025-05-27T17:41:40.532Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -29544,7 +29533,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170626230#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204140532#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29558,7 +29547,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170626230#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204140532#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[7]/persName[2]"
 		}
@@ -29609,10 +29598,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170642100",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204153162",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:06:42.100Z",
-	"dcterms:modified": "2025-05-27T17:41:53.162Z",
+	"dcterms:created": "2025-05-27T17:41:53.162Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -29623,7 +29611,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170642100#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204153162#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29637,7 +29625,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170642100#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204153162#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[7]/persName[3]"
 		}
@@ -29688,10 +29676,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170656425",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204211094",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:06:56.425Z",
-	"dcterms:modified": "2025-05-27T17:42:11.094Z",
+	"dcterms:created": "2025-05-27T17:42:11.094Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -29702,7 +29689,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170656425#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204211094#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29716,7 +29703,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170656425#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204211094#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/p/span[7]/persName[4]"
 		}
@@ -29923,10 +29910,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170801404",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204228225",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:08:01.404Z",
-	"dcterms:modified": "2025-05-27T17:42:28.225Z",
+	"dcterms:created": "2025-05-27T17:42:28.225Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -29937,7 +29923,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170801404#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204228225#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -29951,7 +29937,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170801404#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204228225#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[9]/l[4]/persName"
 		}
@@ -30002,10 +29988,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170809931",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204305843",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:08:09.931Z",
-	"dcterms:modified": "2025-05-27T17:43:05.843Z",
+	"dcterms:created": "2025-05-27T17:43:05.843Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30016,7 +30001,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170809931#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204305843#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30030,7 +30015,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170809931#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204305843#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/head/persName"
 		}
@@ -30081,10 +30066,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170832127",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204325216",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:08:32.127Z",
-	"dcterms:modified": "2025-05-27T17:43:25.216Z",
+	"dcterms:created": "2025-05-27T17:43:25.216Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30095,7 +30079,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170832127#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204325216#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30109,7 +30093,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512170832127#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204325216#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName"
 		}
@@ -30160,10 +30144,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171214736",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204337373",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:12:14.736Z",
-	"dcterms:modified": "2025-05-27T17:43:37.373Z",
+	"dcterms:created": "2025-05-27T17:43:37.373Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30174,7 +30157,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171214736#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204337373#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30188,7 +30171,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171214736#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204337373#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[2]"
 		}
@@ -30239,10 +30222,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171241468",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204410142",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:12:41.468Z",
-	"dcterms:modified": "2025-05-27T17:44:10.142Z",
+	"dcterms:created": "2025-05-27T17:44:10.142Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30253,7 +30235,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171241468#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204410142#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30267,7 +30249,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512171241468#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204410142#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[3]"
 		}
@@ -30318,10 +30300,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172010336",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204422896",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:20:10.336Z",
-	"dcterms:modified": "2025-05-27T17:44:22.896Z",
+	"dcterms:created": "2025-05-27T17:44:22.896Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30332,7 +30313,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172010336#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204422896#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30346,7 +30327,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172010336#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204422896#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[4]"
 		}
@@ -30397,10 +30378,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172055477",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204448021",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:20:55.477Z",
-	"dcterms:modified": "2025-05-27T17:44:48.021Z",
+	"dcterms:created": "2025-05-27T17:44:48.021Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30411,7 +30391,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172055477#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204448021#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30425,7 +30405,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172055477#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204448021#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[5]"
 		}
@@ -30476,10 +30456,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172137927",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204458010",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:21:37.927Z",
-	"dcterms:modified": "2025-05-27T17:44:58.010Z",
+	"dcterms:created": "2025-05-27T17:44:58.010Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30490,7 +30469,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172137927#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204458010#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30504,7 +30483,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172137927#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204458010#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[6]"
 		}
@@ -30555,10 +30534,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172157237",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204509065",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:21:57.237Z",
-	"dcterms:modified": "2025-05-27T17:45:09.065Z",
+	"dcterms:created": "2025-05-27T17:45:09.065Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30569,7 +30547,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172157237#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204509065#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30583,7 +30561,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172157237#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204509065#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[7]"
 		}
@@ -30634,10 +30612,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172209435",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204524461",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:22:09.435Z",
-	"dcterms:modified": "2025-05-27T17:45:24.461Z",
+	"dcterms:created": "2025-05-27T17:45:24.461Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30648,7 +30625,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172209435#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204524461#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30662,7 +30639,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172209435#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204524461#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[8]"
 		}
@@ -30713,10 +30690,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172223759",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204545275",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:22:23.759Z",
-	"dcterms:modified": "2025-05-27T17:45:45.275Z",
+	"dcterms:created": "2025-05-27T17:45:45.275Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30727,7 +30703,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172223759#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204545275#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30741,7 +30717,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172223759#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204545275#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[9]"
 		}
@@ -30792,10 +30768,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172628016",
+	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204557905",
 	"type": "oa:Annotation",
-	"dcterms:created": "2025-05-12T14:26:28.016Z",
-	"dcterms:modified": "2025-05-27T17:45:57.905Z",
+	"dcterms:created": "2025-05-27T17:45:57.905Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -30806,7 +30781,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172628016#Target",
+		"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204557905#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
@@ -30820,7 +30795,7 @@
 			"schema:softwareVersion": "3.6.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250512172628016#Selector",
+			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250527204557905#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[10]/p/persName[10]"
 		}
@@ -39912,7 +39887,7 @@
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
-         <div>
+         <div type="letter">
             <head>158. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxii, 6.]</l>
             <l>[London, January 7, 1613.]</l>
@@ -39970,7 +39945,7 @@
             <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> Knight Ambassador for his Majestie to <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">the
                State of Venice</placeName>.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>159. TO SIR RALPH WINWOOD.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, January 9, 1613.</l>
@@ -40097,7 +40072,7 @@
             <p>To the right honorable <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe Winwod</persName> Knight Lord Ambassador for his Majestie to the
                States of the United Provinces at the Haghe.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>160. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 13.]</l>
             <l>[London, January 14, 1613.]</l>
@@ -40160,7 +40135,7 @@
             <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> knight Lord Ambassador</l>
             <l>for his Majestie to the <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">State of Venice</placeName>.</l>
          </div>
-         <div>
+         <div type="letter">
             <head>161. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 19.]</l>
             <l>[London, January 28, 1613.</l>
@@ -40254,7 +40229,7 @@
             <p>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
                <placeName key="Republic of Venice" ref="http://www.wikidata.org/entity/Q4948">Venice</placeName>.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>162. TO SIR RALPH WINWOOD.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, January 29, 1613.]</l>
@@ -40374,7 +40349,7 @@
             <l>Your Lordships to command</l>
             <l><persName key="John Chamberlain" ref="https://cwrc.ca/islandora/object/reed:1bc0d9ab-b2ba-4c4f-865d-51c1e3e11885" ana="male">JOHN CHAMBERLAIN</persName>.</l>
          </div>
-         <div>
+         <div type="letter">
             <head>163. TO ALICE CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 23.]</l>
             <l>[London, February 4, 1613.]</l>
@@ -40456,7 +40431,7 @@
             <p>To my assured goods frend <persName>Mistris Alice Carleton</persName> at the Lord Ambassadors at
                Venice.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>164. TO <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">SIR RALPH WINWOOD</persName>.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, February 10, 1613.</l>
@@ -40538,7 +40513,7 @@
             <p>To the right honorable <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Sir Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
                the States of the United Provinces at the Haghe.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>165. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 26.]</l>
             <l>[London, February 11, 1613.]</l>
@@ -40586,7 +40561,7 @@
             <l>To the right honorable <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="http://www.wikidata.org/entity/Q745833" ana="male">Sir Dudley Carleton</persName> Knight Lord Ambassador for his Majestie at
                Venice.</l>
          </div>
-         <div>
+         <div type="letter">
             <head>166. TO ALICE CARLEION.</head>
             <l>[S. P. Dom., Jac. I, lxxii, 30.</l>
             <l>[London, February 18, 1613.]</l>
@@ -40635,7 +40610,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
             <l>Yours most assuredly</l>
             <l><persName key="John Chamberlain" ref="http://www.wikidata.org/entity/Q6225650" ana="male">JOHN CHAMBERLAIN</persName>.</l>
          </div>
-         <div>
+         <div type="letter">
             <head>167. TO <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">SIR RALPH WINWOOD</persName>.</head>
             <l>[Winwood Papers, vol. viii.]</l>
             <l>[London, February 23, 1613.]</l>
@@ -40712,7 +40687,7 @@ who were the cheife dooers and undertakers.</span> <span ana="water_procession">
             <p>To the right honorable Sir <persName key="Ralph Winwood" ref="http://www.wikidata.org/entity/Q7288287" ana="male">Rafe Winwod</persName> knight Lord Ambassador for his Majestie with
                the States of the United Provinces at the Haghe.</p>
          </div>
-         <div>
+         <div type="letter">
             <head>168. TO SIR DUDLEY CARLETON.</head>
             <l>[S. P. Dom., Jac. I, Ixxii, 48.]</l>
             <l>[London, <date when="1613-02-25">February 25, 1613</date>.]</l>
