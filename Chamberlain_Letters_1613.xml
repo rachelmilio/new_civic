@@ -4923,7 +4923,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318121831818#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/placeName[2]"
+			"rdf:value": "TEI/text/body/div[2]/p/span[7]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -5002,7 +5002,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401161038801#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[2]/p/span[7]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -5081,7 +5081,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154515811#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[2]/p/span[7]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -5160,7 +5160,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154523478#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -5239,7 +5239,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154530379#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[32]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -5318,7 +5318,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154537540#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[33]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -5397,7 +5397,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154548676#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[34]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -5476,7 +5476,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154555787#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[35]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -5555,7 +5555,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154603243#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[36]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -5634,7 +5634,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154609646#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[37]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -5713,7 +5713,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154622325#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[38]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[34]"
 		}
 	},
 	"oa:hasBody": {
@@ -5791,7 +5791,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318125407377#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/placeName[3]"
+			"rdf:value": "TEI/text/body/div[2]/p/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -5870,7 +5870,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325154636414#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/persName[39]"
+			"rdf:value": "TEI/text/body/div[2]/p/persName[35]"
 		}
 	},
 	"oa:hasBody": {
@@ -5948,7 +5948,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318130014723#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[2]/p/placeName[4]"
+			"rdf:value": "TEI/text/body/div[2]/p/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -40053,12 +40053,11 @@ is dead of this new disease, and left <persName key="Henry de Vere, 18th Earl of
 <note>Henry de Vere, eighteenth Earl of Oxford.</note>
 toward 1500 li land, and all her jewells and stuffe on condition he pay her legacies which rise to 2000 li: and bestowe 500 li on a tombe for <persName key="Edward de Vere, 17th Earl of Oxford" ref="http://www.wikidata.org/entity/Q374210" ana="male">his father</persName> and her.</span> <span ana="deaths">Yt may be you have heard that <persName key="George Fermor" ref="http://www.wikidata.org/entity/Q22998032" ana="male">Sir George Farmor</persName>
 <note>Sir George Fermor of Easton Neston, Northamptonshire.</note>
-died above a moneth since,</span> as likewise <persName>Sir John Morris</persName>
-                  <note>Sir John Morris of Fyfield, Berkshire.</note> of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir
-               Henry Neville</persName> and <persName>Sir William Dowier</persName> his executors, but his daughter the <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">Lady Fenton</persName>
-                  <note>His daughter Elizabeth, widow of Sir Edward Norris, a distant cousin,
-                  married in 1604 Thomas Erskine, in 1606 created Viscount Fenton</note> hath put
-               herself in possession and meanes to carrie yt away by strong hand. <persName key="Anne Lytton">The Lady Webbe</persName>
+died above a moneth since,</span><span ana="deaths"> as likewise <persName>Sir John Morris</persName>
+<note>Sir John Morris of Fyfield, Berkshire.</note>
+of <placeName key="Berkshire" ref="http://www.wikidata.org/entity/Q67284726">Berkshire</placeName> who left <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Neville</persName> and <persName>Sir William Dowier</persName> his executors, but his daughter the <persName key="Elizabeth Pierrepont" ref="http://www.wikidata.org/entity/Q58327464" ana="female">Lady Fenton</persName>
+<note>His daughter Elizabeth, widow of Sir Edward Norris, a distant cousin, married in 1604 Thomas Erskine, in 1606 created Viscount Fenton</note>
+hath put herself in possession and meanes to carrie yt away by strong hand.</span> <persName key="Anne Lytton">The Lady Webbe</persName>
                   <note>Cf. Letter 158.</note> (<persName key="Roland Lytton" ref="http://www.wikidata.org/entity/Q7360322" ana="male">Sir Rowland Lyttons</persName> daughter) a very proper young
                gentlewoman died here in towne this Christmas of the small pockes. The <persName key="Ralph Eure, 3rd Lord Eure" ref="http://www.wikidata.org/entity/Q7287471" ana="male">Lord Evers</persName>
                   <note>Ralph, third Lord Eure or Evers, married Elizabeth, daughter of Sir John
