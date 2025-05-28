@@ -9765,7 +9765,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143209222",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:32:09.222Z",
-	"dcterms:modified": "2025-03-18T12:32:09.222Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9792,7 +9791,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143209222#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[3]"
+			"rdf:value": "TEI/text/body/div[4]/p/span/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -9844,7 +9843,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143225029",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:32:25.029Z",
-	"dcterms:modified": "2025-03-18T12:32:25.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9871,7 +9869,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143225029#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[4]"
+			"rdf:value": "TEI/text/body/div[4]/p/span/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -9923,7 +9921,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143242651",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:32:42.651Z",
-	"dcterms:modified": "2025-03-18T12:32:42.651Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -9950,7 +9947,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143242651#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[5]"
+			"rdf:value": "TEI/text/body/div[4]/p/span/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -10002,6 +9999,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161948936",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:19:48.936Z",
+	"dcterms:modified": "2025-04-08T13:19:48.936Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10028,7 +10026,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161948936#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -10080,7 +10078,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143436836",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:34:36.836Z",
-	"dcterms:modified": "2025-03-18T12:34:36.836Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10107,7 +10104,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318143436836#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[6]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -10159,6 +10156,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161959541",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:19:59.541Z",
+	"dcterms:modified": "2025-04-08T13:19:59.541Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10185,7 +10183,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161959541#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -10237,6 +10235,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162008158",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:08.158Z",
+	"dcterms:modified": "2025-04-08T13:20:08.158Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10263,7 +10262,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162008158#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -10315,6 +10314,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162014190",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:14.190Z",
+	"dcterms:modified": "2025-04-08T13:20:14.190Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10341,7 +10341,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162014190#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -10393,6 +10393,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162020683",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:20.683Z",
+	"dcterms:modified": "2025-04-08T13:20:20.683Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10419,7 +10420,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162020683#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -10471,6 +10472,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162027111",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:27.111Z",
+	"dcterms:modified": "2025-04-08T13:20:27.111Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10497,7 +10499,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162027111#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -10549,6 +10551,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144608740",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:46:08.740Z",
+	"dcterms:modified": "2025-03-18T12:46:08.740Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10575,7 +10578,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144608740#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[8]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -10627,6 +10630,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162034223",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:34.223Z",
+	"dcterms:modified": "2025-04-08T13:20:34.223Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10653,7 +10657,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162034223#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -10705,6 +10709,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144653110",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:46:53.110Z",
+	"dcterms:modified": "2025-03-18T12:46:53.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10731,7 +10736,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144653110#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[9]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -10861,6 +10866,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144721639",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-18T12:47:21.639Z",
+	"dcterms:modified": "2025-03-18T12:47:21.639Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10887,7 +10893,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250318144721639#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[10]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -10939,6 +10945,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162044407",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:20:44.407Z",
+	"dcterms:modified": "2025-04-08T13:20:44.407Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -10965,7 +10972,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162044407#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -12900,7 +12907,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T09:39:15.269Z",
-	"dcterms:modified": "2025-03-25T09:39:15.269Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -12927,7 +12933,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/placeName[7]"
+			"rdf:value": "TEI/text/body/div[4]/p/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -13214,6 +13220,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161939217",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:19:39.217Z",
+	"dcterms:modified": "2025-04-08T13:19:39.217Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -13240,7 +13247,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408161939217#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[4]/p/span/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -40218,15 +40225,9 @@ was somewhat distasted that your secretarie had not ben with him, and that for h
                his regiment to <persName key="Arthur Wilmot">Sir Arthur Wilmot</persName> a speciall follower and favorite of my <persName key="Robert Carr, 1st Earl of Somerset" ref="https://cwrc.ca/islandora/object/reed:50044ba6-aa5f-45a2-9c9b-d9ce7c12a2bd" ana="male">Lord of
                Rochesters</persName> <note>Robert Carr, Viscount Rochester.</note>. <persName key="Thomas Glover" ref="http://www.wikidata.org/entity/Q7790072" ana="male">Sir Thomas Glover</persName> is
                arrived <note>From Constantinople.</note> and shewes his face offering to justify and
-               cleere himself of whatsoever can be layde to his charge. Here is a proclamation come
-               foorth against pocket dagges <note>Pistols. (S. T. C., 8181.)</note>, and order is
-               gon into most shires to disarme the papists; what secret cause there may be I know
-               not, but the world here growes suspicious and apprehends great daunger from them, and
-               many rumours are raised, as namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449" ana="male">earle of Huntington</persName> was
-               slaine by them in his owne house; whereupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwick" ref="http://www.wikidata.org/entity/Q549761">Warwicke</placeName> they shut
-               theyre gates and mustered theyre souldiers, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and those parts the
-               people made barricados and all other manner of provision, as yf they looked presently
-               to be assaulted. The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517" ana="female">Lady of Shrewsburie</persName> <note>Mary, wife of Gilbert Talbot, seventy
+               cleere himself of whatsoever can be layde to his charge.<span ana="papists"> Here is a proclamation come foorth against pocket dagges
+<note>Pistols. (S. T. C., 8181.)</note>
+, and order is gon into most shires to disarme the papists; what secret cause there may be I know not, but the world here growes suspicious and apprehends great daunger from them, and many rumours are raised, as namely the last weeke that the <persName key="Henry Hastings, 5th Earl of Huntingdon" ref="http://www.wikidata.org/entity/Q15459449" ana="male">earle of Huntington</persName> was slaine by them in his owne house; whereupon at <placeName key="Coventry" ref="http://www.wikidata.org/entity/Q6225">Coventrie</placeName> and <placeName key="Warwick" ref="http://www.wikidata.org/entity/Q549761">Warwicke</placeName> they shut theyre gates and mustered theyre souldiers, and at <placeName key="Banbury" ref="http://www.wikidata.org/entity/Q806160">Banburie</placeName> and those parts the people made barricados and all other manner of provision, as yf they looked presently to be assaulted.</span> The <persName key="Mary Talbot, Countess of Shrewsbury" ref="http://www.wikidata.org/entity/Q83517" ana="female">Lady of Shrewsburie</persName> <note>Mary, wife of Gilbert Talbot, seventy
                   Earl of Shrewsbury. Since 1610 she had been a prisoner in the Tower for acquiescing
                   in the marriage of her niece, the Lady Arabella Stuart.</note> that hath ben long
                in <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">the Towre</placeName>, and had the libertie of the place, and somtimes leave to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230" ana="male">her
