@@ -37503,7 +37503,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204454427#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[12]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -37582,7 +37582,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204443583#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[13]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -37661,7 +37661,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204409225#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[14]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -37740,7 +37740,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204352734#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[15]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[6]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -37819,7 +37819,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204340778#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[16]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[6]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -37898,7 +37898,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204328427#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[6]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -37977,7 +37977,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204314753#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[6]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -38056,7 +38056,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204302431#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[6]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -38135,7 +38135,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204249126#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -38214,7 +38214,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204228323#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -38293,7 +38293,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204203040#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -38372,7 +38372,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204149443#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -38451,7 +38451,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204137069#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -38530,7 +38530,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204107137#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -38609,7 +38609,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204052766#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -38688,7 +38688,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204039940#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -38767,7 +38767,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204029937#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -38846,7 +38846,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204018971#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -38925,7 +38925,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525204008426#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -39004,7 +39004,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203957431#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -39083,7 +39083,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203943548#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[32]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -39162,7 +39162,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203935194#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[33]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -39241,7 +39241,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203922049#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[34]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -39320,7 +39320,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203911997#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[35]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -39399,7 +39399,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203901604#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[36]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[30]"
 		}
 	},
 	"oa:hasBody": {
@@ -39478,7 +39478,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203850853#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[37]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -39557,7 +39557,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203838796#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[38]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[32]"
 		}
 	},
 	"oa:hasBody": {
@@ -39636,7 +39636,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203828580#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[39]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[33]"
 		}
 	},
 	"oa:hasBody": {
@@ -39714,7 +39714,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135642385#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[40]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[34]"
 		}
 	},
 	"oa:hasBody": {
@@ -39871,7 +39871,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203805849#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[42]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[36]"
 		}
 	},
 	"oa:hasBody": {
@@ -40777,20 +40777,13 @@ were nothing discouraged for all the first dodge, but on
 performed theyre parts exceding well, and with great applause and approbation both from the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> and all the companie.</span> The next night the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> invited
                the maskers with theyre assistants to the number of forty to a solemne supper in the
                new mariage roome, where they were well treated and much graced with kissing his
-               Majesties hand, and every one having a particuler accoglienza from him. The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName>
-               husbanded the matter so well that this feast was not at his owne cost, but he and his
-               companie wan yt upon a wager of running at the ring of the Prince and his nine
-               followers, who payed thirty pound a man: the King, Quene, Prince, Palatin and Lady
+               Majesties hand, and every one having a particuler accoglienza from him. <span ana="running_at_the_ring">The <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> husbanded the matter so well that this feast was not at his owne cost, but he and his companie wan yt upon a wager of running at the ring of the Prince and his nine followers, who payed thirty pound a man:</span> the King, Quene, Prince, Palatin and Lady
                Elizabeth sat at table by themselves: and the great Lords and Ladies with the
                praskers (above fowrescore in all) sat at another long table, so that there was no
                roome for them that made the feast but they were faire to be lookers on, which the
                young <persName key="Isabel Rich, Countess of Holland" ref="http://www.wikidata.org/entity/Q50322914" ana="female">Lady Rich</persName> <note>Isobel, daughter of Sir Walter Cope, and wife of Sir Henry
                   Rich.</note> tooke no great pleasure in to see her <persName key="Henry Rich, 1st Earl of Holland" ref="http://www.wikidata.org/entity/Q3131912" ana="male">husband</persName> (who was one that
-               payde) not so much as drincke for his monie. The ambassadors that were at this
-               wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States:
-               the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093" ana="male">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for
-               the second day made a sullen excuse: and those that were present were not altogether
-               so pleased, but that I heare every one had some puntillo of disgust. The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979" ana="male">Duke of
+               payde) not so much as drincke for his monie. <span ana="diplomats">The ambassadors that were at this wedding and shewes were the <persName key="Antoine Lefèvre de la Boderie" ref="http://www.wikidata.org/entity/Q107355633" ana="male">French</persName>, <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian</persName>, <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry</persName> and <persName key="Noël de Caron" ref="http://www.wikidata.org/entity/Q3185053" ana="male">Caron</persName> for the States: the <persName key="Diego Sarmiento de Acuña, 1st Count of Gondomar" ref="http://www.wikidata.org/entity/Q451093" ana="male">Spaniard</persName> was, or wold be sicke, and the archdukes ambassador beeing invited for the second day made a sullen excuse: and those that were present were not altogether so pleased, but that I heare every one had some puntillo of disgust.</span> The <persName key="Ludovic Stewart, 2nd Duke of Lennox" ref="http://www.wikidata.org/entity/Q335979" ana="male">Duke of
                Lennox</persName>, the <persName key="Robert Sidney, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q2158828" ana="male">Vicount Lile</persName>, the <persName key="Edward la Zouche, 11th Baron Zouche" ref="http://www.wikidata.org/entity/Q5346053" ana="male">Lord Zouch</persName>, and the <persName key="John Harington, 1st Baron Harington of Exton" ref="http://www.wikidata.org/entity/Q11802898" ana="male">Lord Harrington</persName> are in speach to be
                commissioners to go over with the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeth</persName>, to see her and her joynter setled,
                and <persName key="Levinus Munck" ref="http://www.wikidata.org/entity/Q53647399" ana="male">Levinus</persName> <note>Levinus Munck.</note> is named secretarie for that service. I heare
