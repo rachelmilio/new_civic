@@ -39320,7 +39320,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203911997#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -39399,7 +39399,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203901604#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[9]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -39478,7 +39478,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203850853#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -39557,7 +39557,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203838796#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -39636,7 +39636,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203828580#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -39714,7 +39714,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135642385#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -39871,7 +39871,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203805849#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[33]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[31]"
 		}
 	},
 	"oa:hasBody": {
@@ -40801,9 +40801,9 @@ performed theyre parts exceding well, and with great applause and approbation bo
                market, or rather raised the price to extraordinarie rate. Only the <persName key="Arthur Chichester, 1st Baron Chichester" ref="http://www.wikidata.org/entity/Q2485335" ana="male">Deputie of
                Ireland</persName> <note>Sir Arthur Chichester.</note> is made Lord Chichester of Belfast
                against the parlement that is to be held there in May. <span ana="deaths">This weeke here died the <persName key="Lady Mary Sackville" ref="http://www.wikidata.org/entity/Q75254322" ana="female">Lady Mary Nevill</persName> (daughter to the late <persName key="Thomas Sackville, 1st Earl of Dorset" ref="http://www.wikidata.org/entity/Q670967" ana="male">Treasurer Dorset</persName>), of a longe languishing sicknes;</span>
-               and <span ana="deaths">the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady Conway</persName> of the Brill much after the same sort</span>, as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084" ana="male">Sir William
-               Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630" ana="female">Lady</persName> <note>Lucy, daughter of Sir Thomas Lucy of Charlecote,
-                  Warwickshire.</note> of Charing Crosse. Sir Henry Savile shewed me the last weeke
+               and <span ana="deaths">the <persName key="Dorothy Tracy" ref="http://www.wikidata.org/entity/Q75495263" ana="female">Lady Conway</persName> of the Brill much after the same sort</span>, <span ana="deaths">as likewise <persName key="William Cooke" ref="http://www.wikidata.org/entity/Q8007084" ana="male">Sir William Cookes</persName> <persName key="Joyce Lucy" ref="http://www.wikidata.org/entity/Q75762630" ana="female">Lady</persName>
+<note>Lucy, daughter of Sir Thomas Lucy of Charlecote, Warwickshire.</note>
+of Charing Crosse</span>. Sir Henry Savile shewed me the last weeke
                his notes taken in the reading of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodleys</persName> life <note>Cf. Letter
                   164.</note>, written by himself in seven sheets of paper with vanitie enough,
                wherin omitting not the least minutezze that might turne to his glorie, he doth not
