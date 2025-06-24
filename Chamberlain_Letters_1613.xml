@@ -39714,7 +39714,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250515135642385#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[11]/p/span[10]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -39792,7 +39792,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515140043281#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/orgName"
+			"rdf:value": "TEI/text/body/div[11]/p/span[10]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -39871,7 +39871,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525203805849#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[11]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[11]/p/persName[29]"
 		}
 	},
 	"oa:hasBody": {
@@ -40811,12 +40811,9 @@ of Charing Crosse</span>. Sir Henry Savile shewed me the last weeke
                Walsingham</persName> <note>Sir Francis Walsingham, Secretary of State, 1573-1590.</note> nor
                the <persName key="Robert Dudley, 1st Earl of Leicester" ref="http://www.wikidata.org/entity/Q318017" ana="male">earle of Lecester</persName> <note>Robert Dudley, Earl of Leicester, Queen Elizabeth’s
                   favorite.</note> who were all his maine raisers, whereby may be seen, what mind he
-               caried to his best benefactors. Here was an odde fray fell out the last weeke twixt
-               one <persName key="Thomas Hutchinson" ref="http://www.wikidata.org/entity/Q7790934">Huchinson</persName> <note>Thomas Hutchinson of Owthorpe, Nottinghamshire.</note> of <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes
-               Ynne</orgName> and <persName key="German Pole">Sir German Poole</persName>, who assaulting the other upon advantage, hurt him in three
-               or fowre places, and cut of three of his fingers before he could draw his weapon,
-               wherupon inraged he flew upon him and getting him downe bit of a goode part of his
-               nose and carried yt away in his pocket. I had almost forgotten one accident at this
+               caried to his best benefactors. <span ana="fight">Here was an odde fray fell out the last weeke twixt one <persName key="Thomas Hutchinson" ref="http://www.wikidata.org/entity/Q7790934">Huchinson</persName>
+<note>Thomas Hutchinson of Owthorpe, Nottinghamshire.</note>
+of <orgName key="Gray's Inn" ref="http://www.wikidata.org/entity/Q157412">Grayes Ynne</orgName> and <persName key="German Pole">Sir German Poole</persName>, who assaulting the other upon advantage, hurt him in three or fowre places, and cut of three of his fingers before he could draw his weapon, wherupon inraged he flew upon him and getting him downe bit of a goode part of his nose and carried yt away in his pocket.</span> I had almost forgotten one accident at this
                late wedding, which was not then much noted, but is since much spoken of. <persName key="David Lindsay (secundus)" ref="http://www.wikidata.org/entity/Q93488454" ana="male">Lion the
                Scottish king of Heralds</persName> beeing expressed sent for, had a rich coat of armes provided
                here, with the armes of Scotland before those of England, and ware yt (as he saide)
