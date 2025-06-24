@@ -1,0 +1,46 @@
+{
+    "editionTitle": "Chamberlain Letters",
+    "editionSubtitle": "1612-1613",
+    "ignoreNamespace": true,
+    "documents": "//div[@type='letter']",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "//note",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//persName[@ana='male']",
+                "label": "men"
+            },
+            {
+                "xpath": "//note",
+                "label": "note",
+                "usage": "note"
+            },
+            {
+                "xpath": "//persName[@ana='female']",
+                "label": "women"
+            }
+        ],
+        "toc": [
+            "35cc3e4a52096430133a7c4b0e3f80122e2d30719d2e4a654ba3ad720004537a",
+            "d53c75575b99edf13cfbf5bbac4b51bcb479d29ccf6ed870bdf570ff08c64363",
+            "ca7879a4c14a59bb84b3d953dbb506e4b3e229a165c32fc5b7cf570e9ec45401",
+            "2ba3194adcfe54c0d11c462f1ef04e6f99b917f292458af66693f24349bdf0dd",
+            "070c4b2e99ae3a3fe42833c991b1b45e400b05d100d07c11556a35aef00b34a9",
+            "1e0a4c1bd43d254fa9fac5b723a70be2f233a5cad3d752ef55dcfc47df3ef1ae",
+            "2373215bb51d3f804a1e7d3bba471319bf5f87810f7c8da671c71dbcd02f3b4d",
+            "b71250d863fcdda8392ff992fd7159414088678327652cd921f44cae2b19b74a",
+            "adfd6654972226cb2bda81059a81e58c30e8c8fe4209a3557c845d88ebbcf090",
+            "bf033b57b0f39f266c0ae13c799e12e883f814df895f3a707c2d26d1470da0e4",
+            "1981a9b98c2e73752fa60115f6a5a1f89a4e0159c82be5a571e64717fa9ff335"
+        ]
+    }
+}
