@@ -906,6 +906,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163934664",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:39:34.664Z",
+	"dcterms:modified": "2025-04-01T13:39:34.664Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -927,12 +928,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401163934664#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[11]"
+			"rdf:value": "TEI/text/body/div/p/span/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -945,7 +946,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1062,7 +1063,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152502808",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:25:02.808Z",
-	"dcterms:modified": "2025-03-25T13:25:02.808Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1084,12 +1084,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152502808#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/span/persName"
+			"rdf:value": "TEI/text/body/div/p/span[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1102,7 +1102,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1141,7 +1141,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152657993",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:26:57.993Z",
-	"dcterms:modified": "2025-03-25T13:26:57.993Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1163,12 +1162,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152657993#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/span/persName[2]"
+			"rdf:value": "TEI/text/body/div/p/span[2]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1181,7 +1180,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1220,7 +1219,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401164725786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-01T13:47:25.786Z",
-	"dcterms:modified": "2025-04-01T13:47:25.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1242,12 +1240,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250401164725786#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/span/persName[3]"
+			"rdf:value": "TEI/text/body/div/p/span[2]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1260,7 +1258,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1299,7 +1297,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152712476",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:12.476Z",
-	"dcterms:modified": "2025-03-25T13:27:12.476Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1321,12 +1318,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152712476#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[13]"
+			"rdf:value": "TEI/text/body/div/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -1339,7 +1336,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	},
 	"cwrc:hasCertainty": "cwrc:medium"
 }]]>
@@ -1379,7 +1376,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152722284",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:27:22.284Z",
-	"dcterms:modified": "2025-03-25T13:27:22.284Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -1401,12 +1397,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325152722284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p/persName[14]"
+			"rdf:value": "TEI/text/body/div/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -1419,7 +1415,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -40002,11 +39998,9 @@
                   <note>Robert Carr, Viscount Rochester</note> is slowe every way as well as for
                himself as his frends, els wold he ere this have compassed and concluded for the
                maine place <note>The office of Lord Treasurer</note> he shoots at; but perhaps he
-               undertakes too much, and hath too many yrons in the fire at once. He is now in hand
-               for the reversion of the <persName key="Thomas Darcy, 1st Earl Rivers" ref="https://cwrc.ca/islandora/object/reed:f9485a71-cab6-4009-b223-5e1d3859adb2" ana="male">Lord Darcies</persName> land <note>The lands of Thomas, third Lord
-                  Darcy of Chiche (created Viscount Colchester in 1621 and Earl of Rivers in
-                  1626).</note>, which after his death is to returne to the crowne for want of
-               heyres males, according to the first graunt. We heare that these late great windes
+               undertakes too much, and hath too many yrons in the fire at once. <span type="deaths">He is now in hand for the reversion of the <persName key="Thomas Darcy, 1st Earl Rivers" ref="https://cwrc.ca/islandora/object/reed:f9485a71-cab6-4009-b223-5e1d3859adb2" ana="male">Lord Darcies</persName> land
+<note>The lands of Thomas, third Lord Darcy of Chiche (created Viscount Colchester in 1621 and Earl of Rivers in 1626).</note>
+, which after his death is to returne to the crowne for want of heyres males, according to the first graunt.</span> We heare that these late great windes
                and raines have overthrowne <placeName key="Port of Dover" ref="http://www.wikidata.org/entity/Q739207">Dover peere</placeName>, and quite defaced those workes and
                fortifications against the sea, wherin there hath ben bestowed so much time and cost.
                <span ana="diplomats">Here is a gentleman come from the <persName key="Charles of Lorraine, duke of Guise" ref="http://www.wikidata.org/entity/Q1965530" ana="male">Duke of Guise</persName>, and another from the <persName key="Henri, Prince of Condé" ref="http://www.wikidata.org/entity/Q351856" ana="male">Prince Counti</persName> to condole for <persName key="Henry Frederick, Prince of Wales" ref="https://cwrc.ca/islandora/object/reed:488d2ac0-76d3-4fde-9e83-f0c27311ed0d" ana="male">the Princes</persName> death.</span> His houshold is broken up, and the inventarie of
