@@ -10334,7 +10334,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162014190#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[4]/p/span[3]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -10412,7 +10412,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162020683#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/span[3]/persName"
+			"rdf:value": "TEI/text/body/div[4]/p/span[4]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -10490,7 +10490,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162027111#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -10647,7 +10647,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162034223#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -10961,7 +10961,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408162044407#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[4]/p/persName[27]"
 		}
 	},
 	"oa:hasBody": {
@@ -12923,7 +12923,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325113915269#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[4]/p/span[3]/placeName"
+			"rdf:value": "TEI/text/body/div[4]/p/span[4]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -40410,10 +40410,9 @@ cannot yet procure his dispatch so that he must of necessitie stay the Kings com
                   in the marriage of her niece, the Lady Arabella Stuart.</note> that hath ben long
                in <placeName key="Tower of London" ref="http://www.wikidata.org/entity/Q62378">the Towre</placeName>, and had the libertie of the place, and somtimes leave to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230" ana="male">her
                Lord</persName> in his sicknes, is now of late restrained and kept more close, upon somewhat
-               discovered against her (they say) by her niece <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074" ana="female">the Lady Arbella</persName>. <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140" ana="male">Judge Williams</persName>
-                  <note>Sir David Williams, Puisne Justice of King's Bench.</note> died on Friday
-               last at his house in the countrie leaving a great state behind him both in land and
-               wealth, and <span ana="deaths">the same day <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697" ana="male">Sir Antonie Senligier</persName>
+               discovered against her (they say) by her niece <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074" ana="female">the Lady Arbella</persName>.<span ana="deaths"> <persName key="David Williams" ref="http://www.wikidata.org/entity/Q18534140" ana="male">Judge Williams</persName>
+<note>Sir David Williams, Puisne Justice of King's Bench.</note>
+died on Friday last at his house in the countrie leaving a great state behind him both in land and wealth, </span>and <span ana="deaths">the same day <persName key="Anthony St Leger" ref="http://www.wikidata.org/entity/Q16200697" ana="male">Sir Antonie Senligier</persName>
 <note>Sir Anthony St. Leger.</note>
 that was Master of the Rolles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> died here in towne</span>. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName> is
                even now likewise at the last cast, and hath lien speachles and without knowledge
