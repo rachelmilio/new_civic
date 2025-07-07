@@ -33225,7 +33225,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124301287",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:43:01.287Z",
-	"dcterms:modified": "2025-05-15T09:43:01.287Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -33247,12 +33246,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124301287#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/date"
+			"rdf:value": "TEI/text/body/div[10]/p/span[6]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -33264,7 +33263,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -33303,7 +33302,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124315254",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T09:43:15.254Z",
-	"dcterms:modified": "2025-05-15T09:43:15.254Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -33325,12 +33323,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124315254#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/date[2]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[6]/date[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -33342,7 +33340,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -33486,7 +33484,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124635814#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[5]/date"
+			"rdf:value": "TEI/text/body/div[10]/p/span[7]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -33563,7 +33561,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515124711245#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[6]/date"
+			"rdf:value": "TEI/text/body/div[10]/p/span[8]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -33641,7 +33639,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525213429227#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[6]/persName"
+			"rdf:value": "TEI/text/body/div[10]/p/span[8]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -33719,7 +33717,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124829047#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[6]/orgName"
+			"rdf:value": "TEI/text/body/div[10]/p/span[8]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -33797,7 +33795,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124841121#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[6]/orgName[2]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[8]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -33875,7 +33873,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124933126#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/orgName"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/orgName"
 		}
 	},
 	"oa:hasBody": {
@@ -33953,7 +33951,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?organization_annotation_20250515124941119#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/orgName[2]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/orgName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -34031,7 +34029,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250515125035060#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/placeName"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -34109,7 +34107,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515125048992#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/date"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -34186,7 +34184,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250515125104660#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/placeName[2]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -34265,7 +34263,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525211516094#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/persName"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -34343,7 +34341,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515125152311#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/date[2]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/date[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -34420,7 +34418,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250515125209040#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/span[7]/placeName[3]"
+			"rdf:value": "TEI/text/body/div[10]/p/span[9]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -35973,7 +35971,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515131221598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-15T10:12:21.598Z",
-	"dcterms:modified": "2025-05-15T10:12:21.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -35995,12 +35992,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250515131221598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[10]/p/date[3]"
+			"rdf:value": "TEI/text/body/div[10]/p/date"
 		}
 	},
 	"oa:hasBody": {
@@ -36012,7 +36009,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -40872,10 +40869,11 @@ who were the cheife dooers and undertakers.</span> <span ana="greys_inner_masque
                <persName key="David Lindsay (secundus)" ref="http://www.wikidata.org/entity/Q93488454" ana="male">Lion the Scottish king of Heralds</persName> beeing expresly sent for, ware a rich coate of
                armes (provided here) with the armes of Scotland before England; which is thought to
                be a great affront offered at such a time, in such a place, to such a people. Now for
-               the fire works and fight upon the water, (the one performed the <date when="1613-02-11">Thursday night</date>, the
-               other on <date when="1613-02-13">Saterday</date> in the afternoone before the mariage) there was nothing in either
-               aunswerable to the great expectation conceved, or the cost bestowed, which amounted
-               to more than 9000 li so that according to the proverb Parturiunt montes et ct. Marry
+               <span ana="fireworks">the fire works</span> and<span ana="sea_fight"> fight upon the water, (the one performed the
+<date when="1613-02-11">Thursday night</date>
+, the other on
+<date when="1613-02-13">Saterday</date>
+in the afternoone before the mariage) there was nothing in either aunswerable to the great expectation conceved, or the cost bestowed, which amounted to more than 9000 li so that according to the proverb Parturiunt montes et ct</span>. Marry
                they pretend the best was kept backe for another day, but <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> and indeed all the
                companie were so sufficiently unsatisfied with this, that they cared not nor desired
                to see any more, the rather for that there was much hurt don, and divers maymed. <span ana="lords_masque">The Lords maske likewise on the <date when="1613-02-14">mariage night</date>, though yt were very rich and sumptous, yet yt was very long and tedious, and with many devises more like a play then a maske</span>,
