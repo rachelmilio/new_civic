@@ -18037,7 +18037,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163510059#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div[6]/p/span[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -18116,7 +18116,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163514755#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -18195,7 +18195,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163520880#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -18274,7 +18274,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163529500#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -18353,7 +18353,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163535171#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -18432,7 +18432,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163541786#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -18511,7 +18511,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163547530#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -18590,7 +18590,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163553507#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -18669,7 +18669,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163558563#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -40601,13 +40601,7 @@ was brought abed of a <persName key="Anne Cecil, Countess of Northumberland" ref
                the <placeName key="Low Countries" ref="http://www.wikidata.org/entity/Q476033">Lowe Countries</placeName> shewed himself very bountifull, and gave great rewards to the king
                of Heraulds and his followers, as perhaps <persName key="Dudley Carleton, 1st Viscount Dorchester" ref="https://cwrc.ca/islandora/object/reed%3Aea5d1e93-c02c-4916-b479-c54e2c59c780" ana="male">your brother</persName> may understand from <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe
                Winwod</persName>, though yt may be he will not certifie that himself had a cup of gold for a
-               present worth five hundred pound: he hath ben very fortunat for such wind-falls
-               though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName>, where there was more reason
-               to expect yt: for dieng in his house (which he bought of him above a yeare since,) he
-               hath left him litle or nothing but his old armorie that he could not tell well what
-               els to do withall, and is in no way worth twenty marke. He died on Thursday last
-               between fowre and five in the afternoon having lien speachles and without knowing any
-               body almost thirty howres. His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712" ana="male">Master Hackwell</persName> a
+               present worth five hundred pound: h<span ana="deaths">e hath ben very fortunat for such wind-falls though he hath no great fortune from <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName>, where there was more reason to expect yt: for dieng in his house (which he bought of him above a yeare since,) he hath left him litle or nothing but his old armorie that he could not tell well what els to do withall, and is in no way worth twenty marke. He died on Thursday last between fowre and five in the afternoon having lien speachles and without knowing any body almost thirty howres.</span> His executors are <persName key="John Bennet" ref="http://www.wikidata.org/entity/Q6221544" ana="male">Sir John Bennet</persName> and <persName key="William Hakewill" ref="http://www.wikidata.org/entity/Q8010712" ana="male">Master Hackwell</persName> a
                younge lawier, <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe Winwod</persName> and <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Savile</persName> his overseers, and supravisors
                over them the <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">archbishop of Caunterburie</persName>, the <persName key="Thomas Egerton, 1st Viscount Brackley" ref="http://www.wikidata.org/entity/Q2017342" ana="male">Lord Chauncellor</persName> and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName>, to
                each of these last bequeathing a cup of gold of the value of fifty pound, wheras to
