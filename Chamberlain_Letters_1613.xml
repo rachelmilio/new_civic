@@ -20626,7 +20626,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525213951291#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[15]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[7]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -20705,7 +20705,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214001406#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[16]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[7]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -20784,7 +20784,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214009263#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[7]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -20863,7 +20863,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214018345#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[7]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -20942,7 +20942,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214025865#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -21258,7 +21258,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214036615#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -21337,7 +21337,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214055357#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -21416,7 +21416,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214109869#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -21495,7 +21495,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214117054#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -21574,7 +21574,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214123348#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -21653,7 +21653,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214129362#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -21732,7 +21732,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214137409#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -40688,10 +40688,9 @@ was brought abed of a <persName key="Anne Cecil, Countess of Northumberland" ref
 <note>Cf. Letter 163.</note>
 was forward with child and miscaried the last weeke.</span> <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487" ana="female">The Lady of Bedford</persName> <note>Lucy, daughter of John,
                   first Lord Harington of Exton, and wife of Edward Russell, third Earl of
-                  Bedford.</note> lies in weake case (and they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of
-               Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> <note>Cf. Letter 162.</note> is to be christned this day in the
-               Kings chappell <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> and the <persName key="Catherine Howard, Countess of Suffolk" ref="http://www.wikidata.org/entity/Q5052734" ana="female">Countesse of Suffolke</persName> her mother beeing to be
-               Godmothers. Here be many devises on foote to find monie and among the rest they
+                  Bedford.</note> lies in weake case (and they say) drawing on. <span ana="births">The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName>
+<note>Cf. Letter 162.</note>
+is to be christned this day in the Kings chappell <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">the Quene</persName> and the <persName key="Catherine Howard, Countess of Suffolk" ref="http://www.wikidata.org/entity/Q5052734" ana="female">Countesse of Suffolke</persName> her mother beeing to be Godmothers.</span> Here be many devises on foote to find monie and among the rest they
                speake of a benevolence which is to be laide up and called aes or rather aerarium
                sacrum, not to be touched but in cases of extremitie, and in defence of the realme.
                The circuits are all altered and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName> <note>Sir Edward Coke.</note> put to
