@@ -21732,7 +21732,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214137409#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -21784,7 +21784,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511151132982",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:11:32.982Z",
-	"dcterms:modified": "2025-05-11T12:11:32.982Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -21806,12 +21805,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511151132982#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/placeName[6]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[9]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -21824,7 +21823,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -21863,7 +21862,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250511151144955",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:11:44.955Z",
-	"dcterms:modified": "2025-05-11T12:11:44.955Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -21885,12 +21883,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?date_annotation_20250511151144955#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/date[2]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[9]/date"
 		}
 	},
 	"oa:hasBody": {
@@ -21902,7 +21900,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -21941,7 +21939,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511151155054",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-11T12:11:55.054Z",
-	"dcterms:modified": "2025-05-11T12:11:55.054Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -21963,12 +21960,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250511151155054#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/placeName[7]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[9]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -21981,7 +21978,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -40704,9 +40701,9 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                   George late Duke of Buckingham, 1641. Repinted in Reliquiae Wollonianae, 1651. L.
                   P. Smith prints what he believes to be Wotton’s character of Salisbury in Wotton,
                   ii, 487— 489.</note> (as he calles yt) of <persName key="Robert Devereux, 2nd Earl of Essex" ref="http://www.wikidata.org/entity/Q437917" ana="male">the earle of Essex</persName> his first master, and
-               of <persName key="George Villiers, 1st Duke of Buckingham" ref="http://www.wikidata.org/entity/Q313817" ana="male">the Lord Treasurer</persName> his last patron. I doubt not but ere this time you have a copie
-               of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodleys</persName> will; whose funerall is to be performed at <placeName key="Oxford" ref="http://www.wikidata.org/entity/Q34217">Oxford</placeName> the <date when="1613-03-22">22th of
-               March</date>, and his body to be buried in <placeName key="Merton College" ref="http://www.wikidata.org/entity/Q82513">Merton College</placeName>. His executors do what they can to
+               of <persName key="George Villiers, 1st Duke of Buckingham" ref="http://www.wikidata.org/entity/Q313817" ana="male">the Lord Treasurer</persName> his last patron. <span ana="deaths">I doubt not but ere this time you have a copie of <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodleys</persName> will; whose funerall is to be performed at <placeName key="Oxford" ref="http://www.wikidata.org/entity/Q34217">Oxford</placeName> the
+<date when="1613-03-22">22th of March</date>
+, and his body to be buried in <placeName key="Merton College" ref="http://www.wikidata.org/entity/Q82513">Merton College</placeName>. </span>His executors do what they can to
                stop the clamors and complaints of his people, and other speaches spred of him, and
                his hard dealing. One argument of his vanitie I will adventure to communicate unto
                you, though yt were in a manner committed to me sub sigillo confessionis, and so I
