@@ -16934,7 +16934,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163354355#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div[6]/p/span[3]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -17013,7 +17013,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163402817#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div[6]/p/span[3]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -17092,7 +17092,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163408719#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[9]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -17171,7 +17171,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163413625#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[10]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -17249,7 +17249,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143246099#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[11]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -17328,7 +17328,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163419220#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[12]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -17407,7 +17407,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163426516#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[13]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -17564,7 +17564,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163433477#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[14]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -17643,7 +17643,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163440594#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[15]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -17722,7 +17722,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163448079#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[16]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -17879,7 +17879,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163459012#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -17958,7 +17958,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163504548#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -18037,7 +18037,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163510059#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -18116,7 +18116,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163514755#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -18195,7 +18195,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163520880#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -18274,7 +18274,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163529500#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -18353,7 +18353,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163535171#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -18432,7 +18432,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163541786#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -18511,7 +18511,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163547530#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -18590,7 +18590,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163553507#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -18669,7 +18669,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163558563#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -40584,9 +40584,9 @@ was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="
 with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737" ana="male">the only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="female">Lady Abergeyney</persName>: </span><persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Nevile</persName>
                was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699" ana="male">Sir John Lewson</persName> but what passed I have not yet heard.<span ana="births"> <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235" ana="female">The Lady Haddingdon</persName>
 <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and wife of John Ramsay, Viscount Haddington.</note>
-was forward with child and miscaried the last weeke.</span> About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
-                  <note>For notes on this letter, see also Letter 162.</note> was brought abed of a
-               <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName>, and <span>lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds</span>.
+was forward with child and miscaried the last weeke.</span> <span ana="births">About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
+<note>For notes on this letter, see also Letter 162.</note>
+was brought abed of a <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName>, and lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds.</span>
                <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">The Prince Palatin</persName> feasted all the counsaile the last weeke, and carried himself with
                great commendation, but specially he respected <persName key="George Abbot" ref="http://www.wikidata.org/entity/Q714925" ana="male">the archbishop</persName> and his followers above
                all the rest, as having receved only at his hands entertainment and kind usage since
