@@ -24005,7 +24005,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215551847#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -24084,7 +24084,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215558939#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[5]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -24163,7 +24163,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215629734#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[5]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -24242,7 +24242,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215615079#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[5]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -24321,7 +24321,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215642603#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[5]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -24400,7 +24400,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215652226#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -40768,11 +40768,9 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                altered, and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName> put to go to <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecester- shire</placeName>,
                for <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">the King</persName> sayes he will make no more use of Non obstantes that Judges may ride and
                kepe assises in theyre owne countrie. The <persName key="Lucy Russell, Countess of Bedford" ref="http://www.wikidata.org/entity/Q6698487" ana="female">Lady of Bedford</persName> lies in weake case (and
-               they say) drawing on. The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> was to be christned this
-               day in the Kings chappell, but yt is now put of till next weeke. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> and the
-               <persName key="Elizabeth de Vere, Countess of Derby" ref="http://www.wikidata.org/entity/Q760788" ana="female">Countesse of Darbie</persName> <note>Elizabeth, daughter of Edward de Vere, seventeenth Earl of
-                  Oxford, and wife of William Stanley, sixth Earl of Derby.</note> are to be
-               Godmothers and <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089" ana="male">the Lord Admirall</persName> Godfather. So will all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532" ana="female">my Lady</persName>
+               they say) drawing on. <span ana="births">The <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburies</persName> <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName> was to be christned this day in the Kings chappell, but yt is now put of till next weeke. The <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> and the <persName key="Elizabeth de Vere, Countess of Derby" ref="http://www.wikidata.org/entity/Q760788" ana="female">Countesse of Darbie</persName>
+<note>Elizabeth, daughter of Edward de Vere, seventeenth Earl of Oxford, and wife of William Stanley, sixth Earl of Derby.</note>
+are to be Godmothers and <persName key="Charles Howard, 1st Earl of Nottingham" ref="http://www.wikidata.org/entity/Q954089" ana="male">the Lord Admirall</persName> Godfather.</span> So will all due remembrance to <persName key="Anne, Lady Carleton" ref="http://www.wikidata.org/entity/Q21556532" ana="female">my Lady</persName>
                and <persName key="Alice Carleton">Mistris Carleton</persName> I commend you to the protection of the Almighty. From London
                this <date when="1612-02-11">11th of February 1612</date>.</p>
             <l>Your Lordships to commaund</l>
