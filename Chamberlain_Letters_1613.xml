@@ -16197,6 +16197,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163250074",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:32:50.074Z",
+	"dcterms:modified": "2025-04-08T13:32:50.074Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16218,12 +16219,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163250074#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[5]"
+			"rdf:value": "TEI/text/body/div[6]/p/span/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -16236,7 +16237,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16275,6 +16276,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163258137",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:32:58.137Z",
+	"dcterms:modified": "2025-04-08T13:32:58.137Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16296,12 +16298,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163258137#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[6]"
+			"rdf:value": "TEI/text/body/div[6]/p/span/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -16314,7 +16316,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16353,6 +16355,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163304928",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:04.928Z",
+	"dcterms:modified": "2025-04-08T13:33:04.928Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16374,12 +16377,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163304928#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[7]"
+			"rdf:value": "TEI/text/body/div[6]/p/span/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -16392,7 +16395,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16431,6 +16434,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163310346",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:10.346Z",
+	"dcterms:modified": "2025-04-08T13:33:10.346Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16452,12 +16456,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163310346#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[8]"
+			"rdf:value": "TEI/text/body/div[6]/p/span/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -16470,7 +16474,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16509,7 +16513,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325140812159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:08:12.159Z",
-	"dcterms:modified": "2025-03-25T12:08:12.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16531,12 +16534,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325140812159#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName"
+			"rdf:value": "TEI/text/body/div[6]/p/span/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -16549,7 +16552,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16588,6 +16591,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163322901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:22.901Z",
+	"dcterms:modified": "2025-04-08T13:33:22.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16609,12 +16613,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163322901#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[9]"
+			"rdf:value": "TEI/text/body/div[6]/p/span/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -16627,7 +16631,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16666,6 +16670,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163329801",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:29.801Z",
+	"dcterms:modified": "2025-04-08T13:33:29.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16687,12 +16692,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163329801#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[10]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -16705,7 +16710,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16744,6 +16749,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163335029",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:35.029Z",
+	"dcterms:modified": "2025-04-08T13:33:35.029Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16765,12 +16771,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163335029#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[11]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -16783,7 +16789,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16822,6 +16828,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163342492",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:42.492Z",
+	"dcterms:modified": "2025-04-08T13:33:42.492Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16843,12 +16850,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163342492#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[12]"
+			"rdf:value": "TEI/text/body/div[6]/p/span[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -16861,7 +16868,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16900,6 +16907,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163354355",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:33:54.355Z",
+	"dcterms:modified": "2025-04-08T13:33:54.355Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16921,12 +16929,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163354355#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[13]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -16939,7 +16947,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -16978,6 +16986,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163402817",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:02.817Z",
+	"dcterms:modified": "2025-04-08T13:34:02.817Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -16999,12 +17008,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163402817#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[14]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -17017,7 +17026,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17056,6 +17065,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163408719",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:08.719Z",
+	"dcterms:modified": "2025-04-08T13:34:08.719Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17077,12 +17087,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163408719#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[15]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -17095,7 +17105,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17134,6 +17144,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163413625",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:13.625Z",
+	"dcterms:modified": "2025-04-08T13:34:13.625Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17155,12 +17166,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163413625#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[16]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -17173,7 +17184,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17212,7 +17223,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143246099",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:32:46.099Z",
-	"dcterms:modified": "2025-03-25T12:32:46.099Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17234,12 +17244,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250325143246099#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -17252,7 +17262,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17291,6 +17301,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163419220",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:19.220Z",
+	"dcterms:modified": "2025-04-08T13:34:19.220Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17312,12 +17323,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163419220#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -17330,7 +17341,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17369,6 +17380,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163426516",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:26.516Z",
+	"dcterms:modified": "2025-04-08T13:34:26.516Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17390,12 +17402,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163426516#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -17408,7 +17420,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17447,7 +17459,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325143705068",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T12:37:05.068Z",
-	"dcterms:modified": "2025-03-25T12:37:05.068Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17469,12 +17480,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325143705068#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/span[2]/placeName"
+			"rdf:value": "TEI/text/body/div[6]/p/span[4]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -17487,7 +17498,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17526,6 +17537,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163433477",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:33.477Z",
+	"dcterms:modified": "2025-04-08T13:34:33.477Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17547,12 +17559,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163433477#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[14]"
 		}
 	},
 	"oa:hasBody": {
@@ -17565,7 +17577,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17604,6 +17616,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163440594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:40.594Z",
+	"dcterms:modified": "2025-04-08T13:34:40.594Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17625,12 +17638,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163440594#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[15]"
 		}
 	},
 	"oa:hasBody": {
@@ -17643,7 +17656,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17682,6 +17695,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163448079",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:48.079Z",
+	"dcterms:modified": "2025-04-08T13:34:48.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17703,12 +17717,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163448079#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[16]"
 		}
 	},
 	"oa:hasBody": {
@@ -17721,7 +17735,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17760,7 +17774,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325150639082",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:06:39.082Z",
-	"dcterms:modified": "2025-03-25T13:06:39.082Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17782,12 +17795,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325150639082#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName[2]"
+			"rdf:value": "TEI/text/body/div[6]/p/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -17800,7 +17813,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17839,6 +17852,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163459012",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:34:59.012Z",
+	"dcterms:modified": "2025-04-08T13:34:59.012Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17860,12 +17874,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163459012#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -17878,7 +17892,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17917,6 +17931,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163504548",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:04.548Z",
+	"dcterms:modified": "2025-04-08T13:35:04.548Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -17938,12 +17953,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163504548#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -17956,7 +17971,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -17995,6 +18010,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163510059",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:10.059Z",
+	"dcterms:modified": "2025-04-08T13:35:10.059Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18016,12 +18032,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163510059#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -18034,7 +18050,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18073,6 +18089,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163514755",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:14.755Z",
+	"dcterms:modified": "2025-04-08T13:35:14.755Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18094,12 +18111,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163514755#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -18112,7 +18129,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18151,6 +18168,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163520880",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:20.880Z",
+	"dcterms:modified": "2025-04-08T13:35:20.880Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18172,12 +18190,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163520880#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -18190,7 +18208,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18229,6 +18247,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163529500",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:29.500Z",
+	"dcterms:modified": "2025-04-08T13:35:29.500Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18250,12 +18269,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163529500#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[28]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -18268,7 +18287,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18307,6 +18326,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163535171",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:35.171Z",
+	"dcterms:modified": "2025-04-08T13:35:35.171Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18328,12 +18348,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163535171#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[29]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -18346,7 +18366,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18385,6 +18405,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163541786",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:41.786Z",
+	"dcterms:modified": "2025-04-08T13:35:41.786Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18406,12 +18427,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163541786#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[30]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -18424,7 +18445,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18463,6 +18484,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163547530",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:47.530Z",
+	"dcterms:modified": "2025-04-08T13:35:47.530Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18484,12 +18506,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163547530#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[31]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -18502,7 +18524,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18541,6 +18563,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163553507",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:53.507Z",
+	"dcterms:modified": "2025-04-08T13:35:53.507Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18562,12 +18585,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163553507#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[32]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[26]"
 		}
 	},
 	"oa:hasBody": {
@@ -18580,7 +18603,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18619,6 +18642,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163558563",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-04-08T13:35:58.563Z",
+	"dcterms:modified": "2025-04-08T13:35:58.563Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18640,12 +18664,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163558563#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/persName[34]"
+			"rdf:value": "TEI/text/body/div[6]/p/persName[28]"
 		}
 	},
 	"oa:hasBody": {
@@ -18658,7 +18682,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18697,7 +18721,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325151924228",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:19:24.228Z",
-	"dcterms:modified": "2025-03-25T13:19:24.228Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18719,12 +18742,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325151924228#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName[3]"
+			"rdf:value": "TEI/text/body/div[6]/p/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -18737,7 +18760,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18776,7 +18799,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325151959937",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:19:59.937Z",
-	"dcterms:modified": "2025-03-25T13:19:59.937Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18798,12 +18820,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325151959937#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName[4]"
+			"rdf:value": "TEI/text/body/div[6]/p/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -18816,7 +18838,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18855,7 +18877,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325152020102",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:20:20.102Z",
-	"dcterms:modified": "2025-03-25T13:20:20.102Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18877,12 +18898,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325152020102#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName[5]"
+			"rdf:value": "TEI/text/body/div[6]/p/placeName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -18895,7 +18916,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -18934,7 +18955,6 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325152037025",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-03-25T13:20:37.025Z",
-	"dcterms:modified": "2025-03-25T13:20:37.025Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -18956,12 +18976,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?place_annotation_20250325152037025#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[6]/p/placeName[6]"
+			"rdf:value": "TEI/text/body/div[6]/p/placeName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -18974,7 +18994,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -40559,16 +40579,12 @@ was brought abed of <persName key="Anne Cecil, Countess of Northumberland" ref="
                and cannot now begin: for I thincke you wold not have me expostulat her not writing
                to you, or begg a letter at her hands; but I remember in one of your last lettres you
                gave me commission to speake to <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName> to go to her, who indeed is more fit as
-               comming lately from you, and beeing to go so shortly towards you. Yesterday there was
-               a great meeting at <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Saviles</persName> about the conclusion of a match for <persName key="Elizabeth Savile" ref="http://www.wikidata.org/entity/Q76092735" ana="female">Mistris
-               Elizabeth</persName> <note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or
-                  Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his
-                  wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note> with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737" ana="male">the
-               only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="female">Lady Abergeyney</persName>: <persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Nevile</persName>
-               was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699" ana="male">Sir John Lewson</persName> but what passed I have not yet heard. <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235" ana="female">The Lady
-               Haddingdon</persName> <note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and
-                  wife of John Ramsay, Viscount Haddington.</note> was forward with child and
-               miscaried the last weeke. About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
+               comming lately from you, and beeing to go so shortly towards you. <span ana="weddings">Yesterday there was a great meeting at <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Saviles</persName> about the conclusion of a match for <persName key="Elizabeth Savile" ref="http://www.wikidata.org/entity/Q76092735" ana="female">Mistris Elizabeth</persName>
+<note>Elizabeth, only daughter of Sir Henry Savile, married John Sedley or Sidley (knighted, 1616), son of Sir William Sedley of Southfleet, Kent, by his wife, Elizabeth, widow of Henry Neville, sixth Lord Abergavenny.</note>
+with <persName key="Sir John Sedley, 2nd Bt." ref="http://www.wikidata.org/entity/Q76092737" ana="male">the only sonne</persName> of <persName key="Sir William Sedley, 1st Bt." ref="http://www.wikidata.org/entity/Q75237970" ana="male">Sir W. Sidley</persName> of <placeName key="Kent" ref="http://www.wikidata.org/entity/Q67479626">Kent</placeName> that maried the <persName key="Elizabeth Darrell" ref="http://www.wikidata.org/entity/Q75237965" ana="female">Lady Abergeyney</persName>: </span><persName key="Henry Neville" ref="https://cwrc.ca/islandora/object/reed:6824a398-61fc-4297-9075-a21324112870" ana="male">Sir Henry Nevile</persName>
+               was there and <persName key="John Leveson" ref="http://www.wikidata.org/entity/Q6244699" ana="male">Sir John Lewson</persName> but what passed I have not yet heard.<span ana="births"> <persName key="Elizabeth Radcliffe" ref="http://www.wikidata.org/entity/Q75272235" ana="female">The Lady Haddingdon</persName>
+<note>Elizabeth, daughter of Robert Radcliffe, fifth Earl of Sussex, and wife of John Ramsay, Viscount Haddington.</note>
+was forward with child and miscaried the last weeke.</span> About this day sevenit the <persName key="Catherine Cecil, Countess of Salisbury" ref="http://www.wikidata.org/entity/Q50319483" ana="female">Countesse of Salisburie</persName>
                   <note>For notes on this letter, see also Letter 162.</note> was brought abed of a
                <persName key="Anne Cecil, Countess of Northumberland" ref="http://www.wikidata.org/entity/Q16527030" ana="female">daughter</persName>, and <span>lies in very richly, for the hanging of her chamber, being white satin, embroidered with gold (or silver) and perle is valued at fowreteen thousand pounds</span>.
                <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">The Prince Palatin</persName> feasted all the counsaile the last weeke, and carried himself with
