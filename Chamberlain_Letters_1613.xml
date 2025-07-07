@@ -22982,7 +22982,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215253077#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/span[3]/persName"
+			"rdf:value": "TEI/text/body/div[8]/p/span[3]/span[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -23425,6 +23425,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215510907",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:10.907Z",
+	"dcterms:modified": "2025-05-25T18:55:10.907Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23446,12 +23447,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215510907#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[14]"
+			"rdf:value": "TEI/text/body/div[8]/p/span[4]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -23464,7 +23465,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -23503,6 +23504,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215523444",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:23.444Z",
+	"dcterms:modified": "2025-05-25T18:55:23.444Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23524,12 +23526,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215523444#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -23542,7 +23544,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -23818,6 +23820,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215535450",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:35.450Z",
+	"dcterms:modified": "2025-05-25T18:55:35.450Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23839,12 +23842,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215535450#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -23857,7 +23860,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -23896,6 +23899,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215543211",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:43.211Z",
+	"dcterms:modified": "2025-05-25T18:55:43.211Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23917,12 +23921,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215543211#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -23935,7 +23939,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -23974,6 +23978,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215551847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:51.847Z",
+	"dcterms:modified": "2025-05-25T18:55:51.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -23995,12 +24000,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215551847#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -24013,7 +24018,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -24052,6 +24057,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215558939",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:55:58.939Z",
+	"dcterms:modified": "2025-05-25T18:55:58.939Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24073,12 +24079,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215558939#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -24091,7 +24097,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -24130,6 +24136,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215629734",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:56:29.734Z",
+	"dcterms:modified": "2025-05-25T18:56:29.734Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24151,12 +24158,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215629734#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[24]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[22]"
 		}
 	},
 	"oa:hasBody": {
@@ -24169,7 +24176,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -24208,6 +24215,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215615079",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:56:15.079Z",
+	"dcterms:modified": "2025-05-25T18:56:15.079Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24229,12 +24237,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215615079#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[25]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[23]"
 		}
 	},
 	"oa:hasBody": {
@@ -24247,7 +24255,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -24286,6 +24294,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215642603",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:56:42.603Z",
+	"dcterms:modified": "2025-05-25T18:56:42.603Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24307,12 +24316,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215642603#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[26]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[24]"
 		}
 	},
 	"oa:hasBody": {
@@ -24325,7 +24334,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -24364,6 +24373,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215652226",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:56:52.226Z",
+	"dcterms:modified": "2025-05-25T18:56:52.226Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -24385,12 +24395,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215652226#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/persName[27]"
+			"rdf:value": "TEI/text/body/div[8]/p/persName[25]"
 		}
 	},
 	"oa:hasBody": {
@@ -24403,7 +24413,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -40741,7 +40751,7 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                opening in the chappell: the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> growes every day more favorable, and there is hope
                she will grace yt with her presence. <span ana="the_wedding">Here is a band of 500 musketters made redy by the citie to gard the court during these triumphs, and we have extraordinarie watches of substantiall housholders every night, and an alderman in person to oversee them. Many searches are made, and much listening there is, which geves occasion to suspect that there is intelligence of some intended treacherie.</span> Order is gon out likewise for
                generall musters through out all England to be finished by the end of March, and
-               there is almost a confirmed opinion that we are to looke for troubles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName>. <span ana="sea_fight">The preparations for <span ana="fireworks">fire workes</span> and fights upon the water are very great, and have already consumed 6000 li which a man wold easilie beleve that sees the provision of sixe and thirty sayle of great pinesses, galeasses, carraques with great store of other smaller vessells so trimmed, furnished and painted, that I beleve there was never such a fleet seen above the bridge, besides fowre floting castles with fire workes, and the representation of the towne, fort and haven of Argier upon the land. This day they are to begin to play theyre prises, and so to continue and hold on to morrow and Saterday. The tides fall out very fit as beeing both spring tides, and the water at the best heigth from three to sixe, so that yf the weather serve as well they can wish no more, for they have the whole river at libertie, being shut up both above and beneath with a huge number of lighters and long masts that no boates can come to trouble them. <persName key="Robert Mansell" ref="http://www.wikidata.org/entity/Q7347323" ana="male">Sir Robert Mansell</persName> is cheife commaunder, who takes great paines and no doubt will do his best to shew his abilitie: <persName key="William St. John">Sir William St. John</persName> a goode sea-man that was to be likewise a principall actor in this fresh-water fight, was lately committed to the Fleet, for misdemeanure in his charge in Ireland (as some say) others for replieng somewhat roundly to a lie geven him at the counsaile table by one of the Lords.</span> Yt was once thought we shold have some creation of noble-men at
+               there is almost a confirmed opinion that we are to looke for troubles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName>. <span ana="sea_fight">The preparations for <span ana="fireworks">fire workes</span> and fights upon the water are very great, and have already consumed 6000 li which a man wold easilie beleve that sees the provision of sixe and thirty sayle of great pinesses, galeasses, carraques with great store of other smaller vessells so trimmed, furnished and painted, that I beleve there was never such a fleet seen above the bridge, besides fowre floting castles with fire workes, and the representation of the towne, fort and haven of Argier upon the land. This day they are to begin to play theyre prises, and so to continue and hold on to morrow and Saterday. The tides fall out very fit as beeing both spring tides, and the water at the best heigth from three to sixe, so that yf the weather serve as well they can wish no more, for they have the whole river at libertie, being shut up both above and beneath with a huge number of lighters and long masts that no boates can come to trouble them.<span ana="sea_fight"> <persName key="Robert Mansell" ref="http://www.wikidata.org/entity/Q7347323" ana="male">Sir Robert Mansell</persName> is cheife commaunder, who takes great paines and no doubt will do his best to shew his abilitie: <persName key="William St. John">Sir William St. John</persName> a goode sea-man that was to be likewise a principall actor in this fresh-water fight, was lately committed to the Fleet, for misdemeanure in his charge in Ireland (as some say) others for replieng somewhat roundly to a lie geven him at the counsaile table by one of the Lords.</span></span> Yt was once thought we shold have some creation of noble-men at
                this solemnitie, but we heare no more of yt: only there is speach of a new frie of
                knights to the number of forty, for the <persName key="Elizabeth Stuart, Queen of Bohemia" ref="http://www.wikidata.org/entity/Q158252" ana="female">Lady Elizabeths</persName> followers have litle other
                meanes to put themselves in equipage, but (they say) make port-sale and kepe as yt
@@ -40750,8 +40760,7 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                women are for the most part English toward nineteen or twenty. The time of his and
                her departure hence is already prefixed to be about Thursday in Easterweeke which
                falls out to be the <date when="1613-04-08">eighth of Aprill</date>. <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">The King</persName> at his beeing at <placeName key="Newmarket" ref="http://www.wikidata.org/entity/Q1382713">Newmarket</placeName> made seven
-               or eight knights, wherof <persName key="Humphrey May" ref="http://www.wikidata.org/entity/Q5941521" ana="male">Sir Humfry May</persName> was leder, the rest <persName key="Robert Wingfield">Sir Robert Wingfeld</persName>,
-               (that lately maried a daughter of <persName key="Roger Aston" ref="http://www.wikidata.org/entity/Q16203797" ana="male">Sir Roger Ashtons</persName>) <persName key="Olave Lee">Sir Olave Lee</persName>, <persName key="Edward Underhill">Sir Ed: Undrill of Hamshire</persName> (that was the late proctor of Oxford and the last yeare buried his father
+               or eight knights, wherof <persName key="Humphrey May" ref="http://www.wikidata.org/entity/Q5941521" ana="male">Sir Humfry May</persName> was leder, the rest<span ana="weddings"> <persName key="Robert Wingfield">Sir Robert Wingfeld</persName>, (that lately maried a daughter of <persName key="Roger Aston" ref="http://www.wikidata.org/entity/Q16203797" ana="male">Sir Roger Ashtons</persName>)</span> <persName key="Olave Lee">Sir Olave Lee</persName>, <persName key="Edward Underhill">Sir Ed: Undrill of Hamshire</persName> (that was the late proctor of Oxford and the last yeare buried his father
                and two elder brethren) <persName>Sir... Clopton</persName>, <persName>Sir... Wild</persName> and I know not who els. We have
                many devises on foote to find monie and among the rest they speake of a benevolence,
                which is to be laide up and called aes or rather aerarium sacrum, not to be touched
