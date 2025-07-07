@@ -15209,7 +15209,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163111284#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/span[4]/persName"
+			"rdf:value": "TEI/text/body/div[5]/p/span[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -15287,7 +15287,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250408163118440#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/p/span[4]/persName[2]"
+			"rdf:value": "TEI/text/body/div[5]/p/span[5]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -40489,8 +40489,7 @@ died on Friday last, leaving a great estate behind him both in land and wealth:<
                libertie of the place, and somtimes to attend <persName key="Gilbert Talbot, 7th Earl of Shrewsbury" ref="http://www.wikidata.org/entity/Q80230" ana="male">her Lord</persName> in his sicknes, is now of late
                restrained and kept more close, upon somwhat discovered against her (as they say) by
                her niece the <persName key="Arbella Stuart" ref="http://www.wikidata.org/entity/Q436074" ana="female">Lady Arbella</persName>. The <persName key="Frederick V of the Palatinate" ref="http://www.wikidata.org/entity/Q57195" ana="male">Prince Palatin</persName> goes to be installed at <placeName key="Windsor Castle" ref="http://www.wikidata.org/entity/Q42646">Windsor</placeName> <date when="1613-02-07">the
-               seventh of the next moneth</date>, and great preparations here are of braverie, maskes, and
-               fire-workes against the mariage: the opinion is now that they shall go away both
+               seventh of the next moneth</date>, and <span ana="the_wedding">great preparations here are of braverie, maskes, and fire-workes against the mariage:</span> the opinion is now that they shall go away both
                together before <date when="1613-04-23">St. Georges day</date>. <persName key="Thomas Bodley" ref="http://www.wikidata.org/entity/Q765673" ana="male">Sir Thomas Bodley</persName> is come to the last cast, and
                surely I thincke he cannot last many dayes, yet he bestirres himself in busines and
                bargaines as yf there were no such matter; and relies upon phisicke as much as when
