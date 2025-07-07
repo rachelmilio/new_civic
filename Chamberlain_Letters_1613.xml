@@ -22955,6 +22955,7 @@
 	"id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215253077",
 	"type": "oa:Annotation",
 	"dcterms:created": "2025-05-25T18:52:53.077Z",
+	"dcterms:modified": "2025-05-25T18:52:53.077Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/rachelmilio",
 		"@type": [
@@ -22976,12 +22977,12 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.7.1"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525215253077#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[8]/p/span[2]/persName"
+			"rdf:value": "TEI/text/body/div[8]/p/span[3]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -22994,7 +22995,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.7.1"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -40736,10 +40737,9 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                that <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count Maurice</persName> shold skip over theyre heades and be placed next to the Princes,
                but the case was overruled. <persName key="Frederick Henry of Orange-Nassau" ref="http://www.wikidata.org/entity/Q167236" ana="male">Count Henry of Nassau</persName> was dayly expected, as appointed by
                the States to performe that ceremonie for his brother, and to assist at the wedding,
-               but by reason of contrarie weather he arrived not till yesternight. The mariage
-               drawes neere and all thinges are redy. On Sonday was theyre last time of asking
+               but by reason of contrarie weather he arrived not till yesternight. <span ana="the_wedding">The mariage drawes neere and all thinges are redy.</span> On Sonday was theyre last time of asking
                opening in the chappell: the <persName key="Anne of Denmark" ref="http://www.wikidata.org/entity/Q158248" ana="female">Quene</persName> growes every day more favorable, and there is hope
-               she will grace yt with her presence. <span ana="national_security">Here is a band of 500 musketters made redy by the citie to gard the court during these triumphs, and we have extraordinarie watches of substantiall housholders every night, and an alderman in person to oversee them. Many searches are made, and much listening there is, which geves occasion to suspect that there is intelligence of some intended treacherie.</span> Order is gon out likewise for
+               she will grace yt with her presence. <span ana="the_wedding">Here is a band of 500 musketters made redy by the citie to gard the court during these triumphs, and we have extraordinarie watches of substantiall housholders every night, and an alderman in person to oversee them. Many searches are made, and much listening there is, which geves occasion to suspect that there is intelligence of some intended treacherie.</span> Order is gon out likewise for
                generall musters through out all England to be finished by the end of March, and
                there is almost a confirmed opinion that we are to looke for troubles in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName>. <span ana="sea_fight">The preparations for fire workes and fights upon the water are very great, and have already consumed 6000 li which a man wold easilie beleve that sees the provision of sixe and thirty sayle of great pinesses, galeasses, carraques with great store of other smaller vessells so trimmed, furnished and painted, that I beleve there was never such a fleet seen above the bridge, besides fowre floting castles with fire workes, and the representation of the towne, fort and haven of Argier upon the land. This day they are to begin to play theyre prises, and so to continue and hold on to morrow and Saterday. The tides fall out very fit as beeing both spring tides, and the water at the best heigth from three to sixe, so that yf the weather serve as well they can wish no more, for they have the whole river at libertie, being shut up both above and beneath with a huge number of lighters and long masts that no boates can come to trouble them. <persName key="Robert Mansell" ref="http://www.wikidata.org/entity/Q7347323" ana="male">Sir Robert Mansell</persName> is cheife commaunder, who takes great paines and no doubt will do his best to shew his abilitie: <persName key="William St. John">Sir William St. John</persName> a goode sea-man that was to be likewise a principall actor in this fresh-water fight, was lately committed to the Fleet, for misdemeanure in his charge in Ireland (as some say) others for replieng somewhat roundly to a lie geven him at the counsaile table by one of the Lords.</span> Yt was once thought we shold have some creation of noble-men at
                this solemnitie, but we heare no more of yt: only there is speach of a new frie of
