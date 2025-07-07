@@ -21337,7 +21337,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214055357#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[18]"
+			"rdf:value": "TEI/text/body/div[7]/p/span[8]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -21416,7 +21416,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214109869#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[19]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[17]"
 		}
 	},
 	"oa:hasBody": {
@@ -21495,7 +21495,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214117054#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[20]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[18]"
 		}
 	},
 	"oa:hasBody": {
@@ -21574,7 +21574,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214123348#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[21]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[19]"
 		}
 	},
 	"oa:hasBody": {
@@ -21653,7 +21653,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214129362#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[22]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[20]"
 		}
 	},
 	"oa:hasBody": {
@@ -21732,7 +21732,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml?person_annotation_20250525214137409#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[7]/p/persName[23]"
+			"rdf:value": "TEI/text/body/div[7]/p/persName[21]"
 		}
 	},
 	"oa:hasBody": {
@@ -40695,11 +40695,9 @@ is to be christned this day in the Kings chappell <persName key="Anne of Denmark
                sacrum, not to be touched but in cases of extremitie, and in defence of the realme.
                The circuits are all altered and the <persName key="Edward Coke" ref="http://www.wikidata.org/entity/Q332435" ana="male">Lord Cooke</persName> <note>Sir Edward Coke.</note> put to
                go <placeName key="Northampton" ref="http://www.wikidata.org/entity/Q192240">Northampton</placeName>, <placeName key="Lincoln" ref="http://www.wikidata.org/entity/Q180057">Lincoln</placeName> and <placeName key="Leicestershire" ref="http://www.wikidata.org/entity/Q67533246">Lecestershire</placeName>, for the <persName key="James VI and I" ref="http://www.wikidata.org/entity/Q79972" ana="male">King</persName> sayes he will make no more
-               use of Non obstantes, that Judges may ride and kepe assises in theyre owne country.
-               <persName>Sir William St. John</persName> a sea-man, that was to be one of our cheif commaunders in this
-               freshwater fight, is committed to the Fleet for replieng somewhat roundly to a lie
-               (as I heare) geven him at the counsaile table by the <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631" ana="male">earle of Northampton</persName> <note>Henry
-                  Howard, Earl of Northampton.</note>. <persName key="Henry Wotton" ref="http://www.wikidata.org/entity/Q641028" ana="male">Sir Henry Wotton</persName> is busie in setting out the
+               use of Non obstantes, that Judges may ride and kepe assises in theyre owne country.<span ana="sea_fight"> <persName>Sir William St. John</persName> a sea-man, that was to be one of our cheif commaunders in this freshwater fight, is committed to the Fleet for replieng somewhat roundly to a lie (as I heare) geven him at the counsaile table by the <persName key="Henry Howard, 1st Earl of Northampton" ref="http://www.wikidata.org/entity/Q2697631" ana="male">earle of Northampton</persName>
+<note>Henry Howard, Earl of Northampton.</note>
+.</span> <persName key="Henry Wotton" ref="http://www.wikidata.org/entity/Q641028" ana="male">Sir Henry Wotton</persName> is busie in setting out the
                difference twixt the <persName key="Paul V" ref="http://www.wikidata.org/entity/Q132711" ana="male">Pope</persName> and the Venetians with all the circumstances that passed in
                the time of the interdict <note>Cf. Letter 125.</note>: and withall meanes (he sayes)
                to make a character <note>Ct. A Parallel betweene Robert late Earle of Essex, and
