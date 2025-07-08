@@ -40377,7 +40377,7 @@ is newly maried to the <persName key="Elizabeth Spencer, Baroness Hunsdon" ref="
                busines, yf he were not of too much note, or (as you know who turned him) troppo
                conspicuo: which may be some cause of those far fet discourses about your affaires,
                though they were broached before he came: mary (as I understand) they are since
-               growne more ordinarie. <span ana="diplomats">I imparted to <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631" ana="male">Signor Biondi</persName>
+               growne more ordinarie. <span ana="diplomats" xml:id="span_diplomats2">I imparted to <persName key="Gian Francesco Biondi" ref="http://www.wikidata.org/entity/Q3762631" ana="male">Signor Biondi</persName>
 <note>Giovanni Francesco Biondi (knighted, 1622), whom Sir Henry Wotton in 1609 had sent from Venice to England to lay before James I Sarpi's plan for a union of the anti-papal powers. He was pensioned by James and in 1612 was in Turin with Wotton. Twenty-one letters to Carleton, between October 9, 1612, and May 12, 1618, are in State Papers Domestic.</note>
 what you wrote touching the <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Venetian ambassador</persName> and how kindly you tooke his relation. He accepted the charge very willingly, or any other service you shold impose upon him, with much demonstration of all dutie and thanckfulnes for your former favors: but he told me that <persName key="Antonio Foscarini" ref="http://www.wikidata.org/entity/Q602038" ana="male">Signor Fuscarini</persName>
 <note>Antonio Foscarini, the Venetian ambassador.</note>
@@ -40404,7 +40404,7 @@ was somewhat distasted that your secretarie had not ben with him, and that for h
                gotten over, but Brus was stayed at the sea side. <persName key="William Segar" ref="http://www.wikidata.org/entity/Q535393" ana="male">Garter king at armes</persName> <note>William
                   Segar (knighted, 1616).</note> is gon into <placeName key="Kingdom of the Netherlands" ref="http://www.wikidata.org/entity/Q29999">Holland</placeName>, and is in commission with <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir
                Rate Winwod</persName> to deliver the order <note>Of the Garter. Cf. Letter 155.</note> to <persName key="Maurice of Nassau" ref="http://www.wikidata.org/entity/Q164062" ana="male">Count
-               Maurice</persName>, and performe the ceremonies, which when they are finished, <span ana="the_wedding">yf we heare not of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe</persName> against the wedding
+               Maurice</persName>, and performe the ceremonies, which when they are finished, <span ana="the_wedding" xml:id="span_the_wedding2">yf we heare not of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">Sir Rafe</persName> against the wedding
 <note>Of the Princess Elizabeth and the Elector Palatine.</note>
 , I will geve over looking after him.</span> <persName key="Richard Moryson" ref="http://www.wikidata.org/entity/Q7327917" ana="male">Sir Richard Morrison</persName>
                   <note>Sir Richard Moryson, son of Thomas Moryson of Cadeby, Lincolnshire.</note>
