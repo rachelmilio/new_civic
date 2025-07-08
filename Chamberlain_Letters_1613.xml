@@ -40412,7 +40412,7 @@ was somewhat distasted that your secretarie had not ben with him, and that for h
                   Dauntsey, Lord President of Munster, 1607-1615.</note> for his place in <placeName key="Kingdom of Ireland" ref="http://www.wikidata.org/entity/Q215530">Ireland</placeName> of
                President of Mounster and geves him 3000 li. Here is a proclamation comming out this
                day against pocket dagges <note>12 Pistols. (S. T. C., 8481.)</note>, which begin to
-               grow in use, and may many wayes prove daungerous. <span ana="papists">There is speach likewise (upon great suspicions) of disarming the papists.</span> So with all due remembrance to my Lady I
+               grow in use, and may many wayes prove daungerous. <span ana="papists" xml:id="span_papists1">There is speach likewise (upon great suspicions) of disarming the papists.</span> So with all due remembrance to my Lady I
                commend you to the protection of the Almighty. From London this <date when="1613-01-14">14th of January
                1612.</date></p>
             <l>Your Lordships to command</l>
@@ -40468,7 +40468,7 @@ was somewhat distasted that your secretarie had not ben with him, and that for h
                heare Sir H. N. hath only taken the way of law and justice, and is to reape no
                greater benefit then only to discharge the trust reposed in him: but as I saide yt
                falles out unhappilie both in regard of the person (such a favorite and a
-               counsaillor) and of the time.<span ana="the_wedding"> <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName>
+               counsaillor) and of the time.<span ana="the_wedding" xml:id="span_the_wedding3"> <persName key="Isaac Wake" ref="http://www.wikidata.org/entity/Q6077284" ana="male">Master Waake</persName>
 <note>Isaac Wake.</note>
 cannot yet procure his dispatch so that he must of necessitie stay the Kings comming and perhaps the mariage</span>, wherin <persName key="Sir Henry Savile" ref="http://www.wikidata.org/entity/Q711589" ana="male">Sir Henry Savile</persName> is fully of my minde and sayes by that time he
                shall see quel pli les choses prendront. The world hath still a goode opinion of <persName key="Ralph Winwood" ref="https://cwrc.ca/islandora/object/reed:f6110081-3a4d-4c70-b1cb-352a7878e7e8" ana="male">our
