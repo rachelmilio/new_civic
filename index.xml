@@ -47,6 +47,14 @@
 							<item><ref target="#span_weddings1 #span_weddings2 #span_weddings3 #span_weddings4">Weddings</ref></item>
 						</list>
 					</item>
+					<item>
+						<ref target="#span_papists1 #span_papists2 #span_papists3 #span_papists4 #span_diplomats1 #span_diplomats2 #span_diplomats3 #span_diplomats4 #span_diplomats5 #span_diplomats6">Political news</ref>
+						<list>
+							<head>Political news</head>
+							<item><ref target="#span_papists1 #span_papists2 #span_papists3 #span_papists4">Papists</ref></item>
+							<item><ref target="#span_diplomats1 #span_diplomats2 #span_diplomats3 #span_diplomats4 #span_diplomats5 #span_diplomats6">Diplomats</ref></item>
+						</list>
+					</item>
 				</list>
 			</div>
 		</body>
