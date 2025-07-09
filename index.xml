@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Index</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p>https://github.com/LEAF-VRE/dh2025_workshop</p>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>This encoded file was created by members of the Linked Editing Academic Framework
+					(LEAF) team and made available for a LEAF / LEAF-Writer workshop. This file is
+					not meant for use or publication outside of the workshop environment.</p>
+			</projectDesc>
+		</encodingDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="index">
+				<list>
+					<item>
+						<ref target="#span_fireworks1 #span_fireworks2 #span_fireworks3 #span_fireworks4 #span_fireworks5 #span_fireworks6 #span_sea_fight1 #span_sea_fight2 #span_sea_fight3 #span_sea_fight4 #span_sea_fight5 #span_sea_fight6 #span_sea_fight7 #span_lords_masque_1 #span_lords_masque2 #span_lords_masque3 #span_mm1 #span_mm2 #span_mm3 #span_mm4 #span_gim1 #span_gim2 #span_gim3">Performance Events</ref>
+						<list>
+							<head>Performance Events</head>
+							<item><ref target="#span_fireworks1 #span_fireworks2 #span_fireworks3 #span_fireworks4 #span_fireworks5 #span_fireworks6">Fireworks</ref></item>
+							<item><ref target="#span_sea_fight1 #span_sea_fight2 #span_sea_fight3 #span_sea_fight4 #span_sea_fight5 #span_sea_fight6 #span_sea_fight7">Sea-fight</ref></item>
+							<item><ref target="#span_lords_masque_1 #span_lords_masque2 #span_lords_masque3">Lord's Masque</ref></item>
+              <item><ref target="#span_mm1 #span_mm2 #span_mm3 #span_mm4">Memorable Masque</ref></item>
+              <item><ref target="#span_gim1 #span_gim2 #span_gim3">Grey's Inn and Inner Temple Masque</ref></item>
+						</list>
+					</item>
+          
+				</list>
+			</div>
+		</body>
+	</text>
+</TEI>
