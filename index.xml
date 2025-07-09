@@ -38,6 +38,15 @@
           				<item>
 						<ref target="#span_the_wedding1 #span_the_wedding2 #span_the_wedding3 #span_the_wedding4 #span_the_wedding5 #span_the_wedding6 #span_the_wedding7 #span_the_wedding8 #span_the_wedding9 #span_the_wedding10 #span_the_wedding11">The Wedding</ref>
 					</item>
+					<item>
+						<ref target="#span_birth1 #span_birth2 #span_birth3 #span_birth4 #span_birth5 #span_birth6 #span_birth7 #span_deaths1 #span_deaths2 #span_deaths3 #span_deaths4 #span_deaths5 #span_deaths6 #span_deaths7 #span_deaths8 #span_deaths9 #span_deaths10 #span_deaths11 #span_deaths12 #span_deaths13 #span_deaths14 #span_deaths15 #span_deaths16 #span_weddings1 #span_weddings2 #span_weddings3 #span_weddings4">Life events</ref>
+						<list>
+							<head>Life events</head>
+							<item><ref target="#span_birth1 #span_birth2 #span_birth3 #span_birth4 #span_birth5 #span_birth6 #span_birth7">Births</ref></item>
+							<item><ref target="#span_deaths1 #span_deaths2 #span_deaths3 #span_deaths4 #span_deaths5 #span_deaths6 #span_deaths7 #span_deaths8 #span_deaths9 #span_deaths10 #span_deaths11 #span_deaths12 #span_deaths13 #span_deaths14 #span_deaths15 #span_deaths16">Deaths</ref></item>
+							<item><ref target="#span_weddings1 #span_weddings2 #span_weddings3 #span_weddings4">Weddings</ref></item>
+						</list>
+					</item>
 				</list>
 			</div>
 		</body>
