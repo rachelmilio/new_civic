@@ -6,12 +6,13 @@
     "documentContent": "",
     "documentTitle": "head",
     "documentAuthor": "",
-    "indexDocument": "",
+    "indexDocument": "//div[@type='index']",
     "documentImages": "",
     "documentNotes": "//note",
     "documentLinks": "",
     "inputs": [
-        "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml"
+        "https://raw.githubusercontent.com/rachelmilio/new_civic/main/Chamberlain_Letters_1613.xml",
+        "https://raw.githubusercontent.com/rachelmilio/new_civic/refs/heads/main/index.xml"
     ],
     "curation": {
         "markup": [
@@ -30,17 +31,17 @@
             }
         ],
         "toc": [
-            "35cc3e4a52096430133a7c4b0e3f80122e2d30719d2e4a654ba3ad720004537a",
-            "d53c75575b99edf13cfbf5bbac4b51bcb479d29ccf6ed870bdf570ff08c64363",
-            "ca7879a4c14a59bb84b3d953dbb506e4b3e229a165c32fc5b7cf570e9ec45401",
-            "2ba3194adcfe54c0d11c462f1ef04e6f99b917f292458af66693f24349bdf0dd",
-            "070c4b2e99ae3a3fe42833c991b1b45e400b05d100d07c11556a35aef00b34a9",
-            "1e0a4c1bd43d254fa9fac5b723a70be2f233a5cad3d752ef55dcfc47df3ef1ae",
-            "2373215bb51d3f804a1e7d3bba471319bf5f87810f7c8da671c71dbcd02f3b4d",
-            "b71250d863fcdda8392ff992fd7159414088678327652cd921f44cae2b19b74a",
-            "adfd6654972226cb2bda81059a81e58c30e8c8fe4209a3557c845d88ebbcf090",
-            "bf033b57b0f39f266c0ae13c799e12e883f814df895f3a707c2d26d1470da0e4",
-            "1981a9b98c2e73752fa60115f6a5a1f89a4e0159c82be5a571e64717fa9ff335"
+            "2a17273c1b029556d6449e3b4cd51cec2b7525cc6e89bcd0210150d68a75e3d9",
+            "5674271d497215f5d82fadd0dfe4fae7536377d553fd97b43438f0d5c9c76a1b",
+            "ce56327334594ed4b9ace2aa9a7f3450f0c5704c1b426b0abcc158193b7bb362",
+            "49afcfb0c6ec65deb39be0a8e329a5d8c9546cb615d78de57562e726341f1eba",
+            "ebbaefd671ad6904bc01a6932ca1538c042299ccc115edf203a5a03bff1dedcc",
+            "e5c6d6022648e1c0938abf9b2c95d3d11d93f471f11f27e79124f62ca879428b",
+            "96c3c6387ff39d190a268ba7b5222b936e0c3663d56f648b344d21d99c0526c8",
+            "ba7e0197b18bceff62c964a7e1ffd66f7ff39b0cba284c837d8313219eea91a4",
+            "f683c282651d669ba33ff456e7799dc92f1e6ada181dd727b60346bbb65e5f8a",
+            "583a4514bed9f6a58c6186de55550c6a98b1b6fa9fe0c08b1743fb4f59f35f9f",
+            "458b6caa9be591d76f4a83a7be6819ba6d9be8cd74920b7e147ba4a8410910ad"
         ]
     }
 }
